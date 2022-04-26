@@ -1,0 +1,11 @@
+import csv
+
+clw_logs =[]
+f= open('export.csv',"r") #change the name here with the csv file which i have put 
+
+for line in f:
+    logtime =line.strip().split(",")[0]
+    #print(date_time)
+    logsmessage =line.strip().split("['")[0].split("2022-04-22 ")[-1].split(",")[-1]
+
+    print (logtime,logsmessage) # print this you vl understand that format which we need to push to new csv file
