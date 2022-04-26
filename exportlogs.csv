@@ -1,0 +1,3001 @@
+time,message
+
+2022-04-22 23:48:33.668,[0m
+
+2022-04-22 23:48:33.583,"[0m[1meu-central-1[0m - [mEC2Image[0m - [1mami-06a4b11bfbf64ad28[0m - [31mfailed
+"
+
+2022-04-22 23:48:33.499,"[0m[1meu-central-1[0m - [mEC2Image[0m - [1mami-068c7227015cd86ad[0m - [31mfailed
+"
+
+2022-04-22 23:48:33.414,"[0m[1meu-central-1[0m - [mEC2Image[0m - [1mami-0671cb16cee2eae3c[0m - [31mfailed
+"
+
+2022-04-22 23:48:33.322,"[0m[1meu-central-1[0m - [mEC2Image[0m - [1mami-064b171879cefc363[0m - [31mfailed
+"
+
+2022-04-22 23:48:33.238,"[0m[1meu-central-1[0m - [mEC2Image[0m - [1mami-06472abe3292eb115[0m - [31mfailed
+"
+
+2022-04-22 23:48:33.158,"[0m[1meu-central-1[0m - [mEC2Image[0m - [1mami-0633e3cd6ac205f44[0m - [31mfailed
+"
+
+2022-04-22 23:48:32.190,"[0m[1meu-central-1[0m - [mEC2Image[0m - [1mami-061909be0d62d4042[0m - [31mfailed
+"
+
+2022-04-22 23:48:32.088,"[0m[1meu-central-1[0m - [mEC2Image[0m - [1mami-0602fb00f5660cee3[0m - [31mfailed
+"
+
+2022-04-22 23:48:32.008,"[0m[1meu-central-1[0m - [mEC2Image[0m - [1mami-05e88c9178ebf7532[0m - [31mfailed
+"
+
+2022-04-22 23:48:31.910,"[0m[1meu-central-1[0m - [mEC2Image[0m - [1mami-05d4270a720a8b416[0m - [31mfailed
+"
+
+2022-04-22 23:48:31.799,"[0m[1meu-central-1[0m - [mEC2Image[0m - [1mami-05cac11b1b592123d[0m - [31mfailed
+"
+
+2022-04-22 23:48:31.705,"[0m[1meu-central-1[0m - [mEC2Image[0m - [1mami-05c76d7cc8dace9eb[0m - [31mfailed
+"
+
+2022-04-22 23:48:31.622,"[0m[1meu-central-1[0m - [mEC2Image[0m - [1mami-05acc1492365d81de[0m - [31mfailed
+"
+
+2022-04-22 23:48:31.539,"[0m[1meu-central-1[0m - [mEC2Image[0m - [1mami-05a835432311e8f5b[0m - [31mfailed
+"
+
+2022-04-22 23:48:31.444,"[0m[1meu-central-1[0m - [mEC2Image[0m - [1mami-057979718f1674de0[0m - [31mfailed
+"
+
+2022-04-22 23:48:31.362,"[0m[1meu-central-1[0m - [mEC2Image[0m - [1mami-053af1683add5170b[0m - [31mfailed
+"
+
+2022-04-22 23:48:30.295,"[0m[1meu-central-1[0m - [mEC2Image[0m - [1mami-05389425c392361ce[0m - [31mfailed
+"
+
+2022-04-22 23:48:30.210,"[0m[1meu-central-1[0m - [mEC2Image[0m - [1mami-05229c8be6e5425db[0m - [31mfailed
+"
+
+2022-04-22 23:48:30.133,"[0m[1meu-central-1[0m - [mEC2Image[0m - [1mami-051f741ba48be67af[0m - [31mfailed
+"
+
+2022-04-22 23:48:30.048,"[0m[1meu-central-1[0m - [mEC2Image[0m - [1mami-04f97b32963951dda[0m - [31mfailed
+"
+
+2022-04-22 23:48:29.962,"[0m[1meu-central-1[0m - [mEC2Image[0m - [1mami-04ebd20cc56e60bc1[0m - [31mfailed
+"
+
+2022-04-22 23:48:29.870,"[0m[1meu-central-1[0m - [mEC2Image[0m - [1mami-04ea9b41e1a06bfda[0m - [31mfailed
+"
+
+2022-04-22 23:48:29.794,"[0m[1meu-central-1[0m - [mEC2Image[0m - [1mami-04d5c40fc2a003a9d[0m - [31mfailed
+"
+
+2022-04-22 23:48:29.665,"[0m[1meu-central-1[0m - [mEC2Image[0m - [1mami-04d528b0099f5a698[0m - [31mfailed
+"
+
+2022-04-22 23:48:29.575,"[0m[1meu-central-1[0m - [mEC2Image[0m - [1mami-04cc3d8247ccd695e[0m - [31mfailed
+"
+
+2022-04-22 23:48:29.479,"[0m[1meu-central-1[0m - [mEC2Image[0m - [1mami-04be020d68637e979[0m - [31mfailed
+"
+
+2022-04-22 23:48:29.395,"[0m[1meu-central-1[0m - [mEC2Image[0m - [1mami-04a88c99608eb02cb[0m - [31mfailed
+"
+
+2022-04-22 23:48:29.292,"[0m[1meu-central-1[0m - [mEC2Image[0m - [1mami-04926e95c3839dc2d[0m - [31mfailed
+"
+
+2022-04-22 23:48:29.202,"[0m[1meu-central-1[0m - [mEC2Image[0m - [1mami-047261194dc0972fe[0m - [31mfailed
+"
+
+2022-04-22 23:48:29.109,"[0m[1meu-central-1[0m - [mEC2Image[0m - [1mami-0464d9032672ecda4[0m - [31mfailed
+"
+
+2022-04-22 23:48:29.015,"[0m[1meu-central-1[0m - [mEC2Image[0m - [1mami-04468e7f5ea621011[0m - [31mfailed
+"
+
+2022-04-22 23:48:28.933,"[0m[1meu-central-1[0m - [mEC2Image[0m - [1mami-03fba36832e15c573[0m - [31mfailed
+"
+
+2022-04-22 23:48:28.845,"[0m[1meu-central-1[0m - [mEC2Image[0m - [1mami-03ebbd19b9b15eebd[0m - [31mfailed
+"
+
+2022-04-22 23:48:28.747,"[0m[1meu-central-1[0m - [mEC2Image[0m - [1mami-03eacecdc63ec0c7c[0m - [31mfailed
+"
+
+2022-04-22 23:48:28.658,"[0m[1meu-central-1[0m - [mEC2Image[0m - [1mami-03e1ce766519e1337[0m - [31mfailed
+"
+
+2022-04-22 23:48:28.571,"[0m[1meu-central-1[0m - [mEC2Image[0m - [1mami-03d6b87c755b2477b[0m - [31mfailed
+"
+
+2022-04-22 23:48:28.483,"[0m[1meu-central-1[0m - [mEC2Image[0m - [1mami-03d17b898db9860f8[0m - [31mfailed
+"
+
+2022-04-22 23:48:28.398,"[0m[1meu-central-1[0m - [mEC2Image[0m - [1mami-03c94440ce88dd2e5[0m - [31mfailed
+"
+
+2022-04-22 23:48:28.310,"[0m[1meu-central-1[0m - [mEC2Image[0m - [1mami-03bb6fe9997d47a3c[0m - [31mfailed
+"
+
+2022-04-22 23:48:28.227,"[0m[1meu-central-1[0m - [mEC2Image[0m - [1mami-03a0409fc9548f3bd[0m - [31mfailed
+"
+
+2022-04-22 23:48:28.127,"[0m[1meu-central-1[0m - [mEC2Image[0m - [1mami-039623ae3d6c7ccf0[0m - [31mfailed
+"
+
+2022-04-22 23:48:28.044,"[0m[1meu-central-1[0m - [mEC2Image[0m - [1mami-038e8a88648abd9be[0m - [31mfailed
+"
+
+2022-04-22 23:48:27.967,"[0m[1meu-central-1[0m - [mEC2Image[0m - [1mami-038ab56f25e9872dc[0m - [31mfailed
+"
+
+2022-04-22 23:48:27.875,"[0m[1meu-central-1[0m - [mEC2Image[0m - [1mami-0386001a6514bd6d9[0m - [31mfailed
+"
+
+2022-04-22 23:48:27.788,"[0m[1meu-central-1[0m - [mEC2Image[0m - [1mami-0383f653d8213d002[0m - [31mfailed
+"
+
+2022-04-22 23:48:27.690,"[0m[1meu-central-1[0m - [mEC2Image[0m - [1mami-03811dd132e33681c[0m - [31mfailed
+"
+
+2022-04-22 23:48:27.601,"[0m[1meu-central-1[0m - [mEC2Image[0m - [1mami-0376936c32539cdd9[0m - [31mfailed
+"
+
+2022-04-22 23:48:27.505,"[0m[1meu-central-1[0m - [mEC2Image[0m - [1mami-037585cbf9852a3e1[0m - [31mfailed
+"
+
+2022-04-22 23:48:27.424,"[0m[1meu-central-1[0m - [mEC2Image[0m - [1mami-037391f53c8a9f270[0m - [31mfailed
+"
+
+2022-04-22 23:48:27.322,"[0m[1meu-central-1[0m - [mEC2Image[0m - [1mami-036b92fb1ef495a73[0m - [31mfailed
+"
+
+2022-04-22 23:48:27.238,"[0m[1meu-central-1[0m - [mEC2Image[0m - [1mami-035791f362e68e713[0m - [31mfailed
+"
+
+2022-04-22 23:48:27.144,"[0m[1meu-central-1[0m - [mEC2Image[0m - [1mami-034c9d63e62a362d7[0m - [31mfailed
+"
+
+2022-04-22 23:48:27.048,"[0m[1meu-central-1[0m - [mEC2Image[0m - [1mami-031c91bfe91f91867[0m - [31mfailed
+"
+
+2022-04-22 23:48:26.955,"[0m[1meu-central-1[0m - [mEC2Image[0m - [1mami-031af4afbc142b865[0m - [31mfailed
+"
+
+2022-04-22 23:48:26.873,"[0m[1meu-central-1[0m - [mEC2Image[0m - [1mami-0312f3fa1f2c9bd4c[0m - [31mfailed
+"
+
+2022-04-22 23:48:26.781,"[0m[1meu-central-1[0m - [mEC2Image[0m - [1mami-02e8e30d441309cec[0m - [31mfailed
+"
+
+2022-04-22 23:48:26.676,"[0m[1meu-central-1[0m - [mEC2Image[0m - [1mami-02e8a69273fa4b436[0m - [31mfailed
+"
+
+2022-04-22 23:48:26.586,"[0m[1meu-central-1[0m - [mEC2Image[0m - [1mami-02d469aa35b6c642c[0m - [31mfailed
+"
+
+2022-04-22 23:48:26.498,"[0m[1meu-central-1[0m - [mEC2Image[0m - [1mami-02c563f773b542c93[0m - [31mfailed
+"
+
+2022-04-22 23:48:26.413,"[0m[1meu-central-1[0m - [mEC2Image[0m - [1mami-02bdb1346aa0cf47f[0m - [31mfailed
+"
+
+2022-04-22 23:48:26.312,"[0m[1meu-central-1[0m - [mEC2Image[0m - [1mami-02b61666d2242f6ce[0m - [31mfailed
+"
+
+2022-04-22 23:48:26.233,"[0m[1meu-central-1[0m - [mEC2Image[0m - [1mami-02a35c484e718ee5c[0m - [31mfailed
+"
+
+2022-04-22 23:48:26.134,"[0m[1meu-central-1[0m - [mEC2Image[0m - [1mami-029003cbad0fc3d66[0m - [31mfailed
+"
+
+2022-04-22 23:48:26.048,"[0m[1meu-central-1[0m - [mEC2Image[0m - [1mami-027c33053887b3bd1[0m - [31mfailed
+"
+
+2022-04-22 23:48:25.958,"[0m[1meu-central-1[0m - [mEC2Image[0m - [1mami-025ccb0ffaa35b3ba[0m - [31mfailed
+"
+
+2022-04-22 23:48:25.872,"[0m[1meu-central-1[0m - [mEC2Image[0m - [1mami-02548ff6de416f71f[0m - [31mfailed
+"
+
+2022-04-22 23:48:25.771,"[0m[1meu-central-1[0m - [mEC2Image[0m - [1mami-022908d55049ec874[0m - [31mfailed
+"
+
+2022-04-22 23:48:25.673,"[0m[1meu-central-1[0m - [mEC2Image[0m - [1mami-0200935a25e63c161[0m - [31mfailed
+"
+
+2022-04-22 23:48:25.575,"[0m[1meu-central-1[0m - [mEC2Image[0m - [1mami-01fa8afeeb21f4f34[0m - [31mfailed
+"
+
+2022-04-22 23:48:25.485,"[0m[1meu-central-1[0m - [mEC2Image[0m - [1mami-01ccf70d40cf5ed0e[0m - [31mfailed
+"
+
+2022-04-22 23:48:25.397,"[0m[1meu-central-1[0m - [mEC2Image[0m - [1mami-0132e27f8c944f46f[0m - [31mfailed
+"
+
+2022-04-22 23:48:25.296,"[0m[1meu-central-1[0m - [mEC2Image[0m - [1mami-011bc19e5545193d0[0m - [31mfailed
+"
+
+2022-04-22 23:48:25.181,"[0m[1meu-central-1[0m - [mEC2Image[0m - [1mami-010780a551b099d95[0m - [31mfailed
+"
+
+2022-04-22 23:48:25.097,"[0m[1meu-central-1[0m - [mEC2Image[0m - [1mami-010391ac48bd746d7[0m - [31mfailed
+"
+
+2022-04-22 23:48:25.018,"[0m[1meu-central-1[0m - [mEC2Image[0m - [1mami-00e1cf2aa021c93fb[0m - [31mfailed
+"
+
+2022-04-22 23:48:24.916,"[0m[1meu-central-1[0m - [mEC2Image[0m - [1mami-00d15b5fe2d54cd76[0m - [31mfailed
+"
+
+2022-04-22 23:48:24.830,"[0m[1meu-central-1[0m - [mEC2Image[0m - [1mami-00ceadca96a51d801[0m - [31mfailed
+"
+
+2022-04-22 23:48:24.734,"[0m[1meu-central-1[0m - [mEC2Image[0m - [1mami-00c054ca68b13d846[0m - [31mfailed
+"
+
+2022-04-22 23:48:24.646,"[0m[1meu-central-1[0m - [mEC2Image[0m - [1mami-00b81318697109bf3[0m - [31mfailed
+"
+
+2022-04-22 23:48:24.548,"[0m[1meu-central-1[0m - [mEC2Image[0m - [1mami-00b2d5662917f06f2[0m - [31mfailed
+"
+
+2022-04-22 23:48:24.457,"[0m[1meu-central-1[0m - [mEC2Image[0m - [1mami-0086a7cbc7fe967e6[0m - [31mfailed
+"
+
+2022-04-22 23:48:24.354,"[0m[1meu-central-1[0m - [mEC2Image[0m - [1mami-005c2e47f44e1282f[0m - [31mfailed
+"
+
+2022-04-22 23:48:24.267,"[0m[1meu-central-1[0m - [mEC2Image[0m - [1mami-0058e99e50618250c[0m - [31mfailed
+"
+
+2022-04-22 23:48:24.167,"[0m[1meu-central-1[0m - [mEC2Image[0m - [1mami-005019ac95e253825[0m - [31mfailed
+"
+
+2022-04-22 23:48:24.077,"[0m[1meu-central-1[0m - [mEC2Image[0m - [1mami-000d907ea4a773d7a[0m - [31mfailed
+"
+
+2022-04-22 23:48:23.993,"[0m[1meu-central-1[0m - [mEC2Image[0m - [1mami-000765d164f9a4577[0m - [31mfailed
+"
+
+2022-04-22 23:48:23.653,"[0m[1meu-central-1[0m - [mEC2Subnet[0m - [1msubnet-06eaa3a92653a70c6[0m - [3m[tag:Name: ""advance-service-demo-subnet-public-1a"", DefaultForAz: ""false""][0m - [31mfailed
+"
+
+2022-04-22 23:48:23.356,"[0m[1meu-central-1[0m - [mCloudWatchEventsTarget[0m - [1mRule: AutoScalingManagedRule Target ID: autoscaling[0m - [31mfailed
+"
+
+2022-04-22 23:48:23.290,"[0m[1meu-central-1[0m - [mEC2NetworkInterface[0m - [3m[Status: ""in-use"", ID: ""eni-0b89a0c46578af989"", VPC: ""vpc-0803dcae174835ec2"", AvailabilityZone: ""eu-central-1a"", PrivateIPAddress: ""10.0.0.76"", SubnetID: ""subnet-025bd5b2674a07f3c""][0m - [31mfailed
+"
+
+2022-04-22 23:48:23.074,"[0m[1meu-central-1[0m - [mEC2NetworkInterface[0m - [3m[ID: ""eni-03d414e2658d62e94"", VPC: ""vpc-046faa1b5374c6cb0"", AvailabilityZone: ""eu-central-1a"", PrivateIPAddress: ""192.168.1.54"", SubnetID: ""subnet-02836069c345603c6"", Status: ""in-use""][0m - [31mfailed
+"
+
+2022-04-22 23:48:22.768,"[0m[1meu-central-1[0m - [mEC2NetworkInterface[0m - [3m[ID: ""eni-09fb28a2dae50509a"", VPC: ""vpc-046faa1b5374c6cb0"", AvailabilityZone: ""eu-central-1a"", PrivateIPAddress: ""192.168.0.23"", SubnetID: ""subnet-0037ddbe4a8f961ee"", Status: ""in-use""][0m - [31mfailed
+"
+
+2022-04-22 23:48:22.559,"[0m[1meu-central-1[0m - [mEC2NetworkInterface[0m - [3m[AvailabilityZone: ""eu-central-1c"", PrivateIPAddress: ""10.6.0.170"", SubnetID: ""subnet-0da1beda87723f338"", Status: ""in-use"", ID: ""eni-02d907f01f88f1575"", VPC: ""vpc-0ebcd67a241a3289b""][0m - [31mfailed
+"
+
+2022-04-22 23:48:22.332,"[0m[1meu-central-1[0m - [mEC2NetworkInterface[0m - [3m[SubnetID: ""subnet-02ee25f083ca15af2"", Status: ""in-use"", ID: ""eni-06c2ae23936d9085a"", VPC: ""vpc-0844cfc214aaa5aac"", AvailabilityZone: ""eu-central-1a"", PrivateIPAddress: ""192.168.0.204""][0m - [31mfailed
+"
+
+2022-04-22 23:48:22.084,"[0m[1meu-central-1[0m - [mEC2NetworkInterface[0m - [3m[SubnetID: ""subnet-0037ddbe4a8f961ee"", Status: ""in-use"", ID: ""eni-0301bb581908ed843"", VPC: ""vpc-046faa1b5374c6cb0"", AvailabilityZone: ""eu-central-1a"", PrivateIPAddress: ""192.168.0.73""][0m - [31mfailed
+"
+
+2022-04-22 23:48:21.748,"[0m[1meu-central-1[0m - [mEC2NetworkInterface[0m - [3m[ID: ""eni-07f5777cfe471bc08"", VPC: ""vpc-0ebcd67a241a3289b"", AvailabilityZone: ""eu-central-1c"", PrivateIPAddress: ""10.6.0.121"", SubnetID: ""subnet-0da1beda87723f338"", Status: ""in-use""][0m - [31mfailed
+"
+
+2022-04-22 23:48:21.429,"[0m[1meu-central-1[0m - [mEC2NetworkInterface[0m - [3m[ID: ""eni-0125fe94e13fcfc7a"", VPC: ""vpc-046336774cba7c8a8"", AvailabilityZone: ""eu-central-1a"", PrivateIPAddress: ""172.16.0.162"", SubnetID: ""subnet-0376d142c2d59ba39"", Status: ""in-use""][0m - [31mfailed
+"
+
+2022-04-22 23:48:21.019,"[0m[1meu-central-1[0m - [mEC2NetworkInterface[0m - [3m[Status: ""in-use"", ID: ""eni-02bcb3d622d0e36ce"", VPC: ""vpc-046336774cba7c8a8"", AvailabilityZone: ""eu-central-1b"", PrivateIPAddress: ""172.16.1.154"", SubnetID: ""subnet-081f8de28bcbd09c9""][0m - [31mfailed
+"
+
+2022-04-22 23:48:20.749,"[0m[1meu-central-1[0m - [mEC2NetworkInterface[0m - [3m[ID: ""eni-046d44ee618446626"", VPC: ""vpc-061a26a6ae57ae3c2"", AvailabilityZone: ""eu-central-1a"", PrivateIPAddress: ""198.10.1.10"", SubnetID: ""subnet-06eaa3a92653a70c6"", Status: ""in-use""][0m - [31mfailed
+"
+
+2022-04-22 23:48:20.431,"[0m[1meu-central-1[0m - [mEC2NetworkInterface[0m - [3m[SubnetID: ""subnet-002a9eb4503e10471"", Status: ""in-use"", ID: ""eni-0dffafe22f58c20fe"", VPC: ""vpc-090045918e6a49e99"", AvailabilityZone: ""eu-central-1a"", PrivateIPAddress: ""192.168.3.168""][0m - [31mfailed
+"
+
+2022-04-22 23:48:20.200,"[0m[1meu-central-1[0m - [mEC2NetworkInterface[0m - [3m[ID: ""eni-0191b844cd8eecab2"", VPC: ""vpc-046faa1b5374c6cb0"", AvailabilityZone: ""eu-central-1a"", PrivateIPAddress: ""192.168.0.14"", SubnetID: ""subnet-0037ddbe4a8f961ee"", Status: ""in-use""][0m - [31mfailed
+"
+
+2022-04-22 23:48:19.960,"[0m[1meu-central-1[0m - [mEC2NetworkInterface[0m - [3m[VPC: ""vpc-0803dcae174835ec2"", AvailabilityZone: ""eu-central-1a"", PrivateIPAddress: ""10.0.1.123"", SubnetID: ""subnet-0d179630d507e97cd"", Status: ""in-use"", ID: ""eni-0fa75158e1b011f97""][0m - [31mfailed
+"
+
+2022-04-22 23:48:19.715,"[0m[1meu-central-1[0m - [mEC2NetworkInterface[0m - [3m[VPC: ""vpc-046faa1b5374c6cb0"", AvailabilityZone: ""eu-central-1a"", PrivateIPAddress: ""192.168.0.149"", SubnetID: ""subnet-0037ddbe4a8f961ee"", Status: ""in-use"", ID: ""eni-0701f74f3d0f4c8fe""][0m - [31mfailed
+"
+
+2022-04-22 23:48:19.432,"[0m[1meu-central-1[0m - [mEC2NetworkInterface[0m - [3m[PrivateIPAddress: ""10.0.0.231"", SubnetID: ""subnet-025bd5b2674a07f3c"", Status: ""in-use"", ID: ""eni-0b457d4facde28f4d"", VPC: ""vpc-0803dcae174835ec2"", AvailabilityZone: ""eu-central-1a""][0m - [31mfailed
+"
+
+2022-04-22 23:48:19.176,"[0m[1meu-central-1[0m - [mEC2NetworkInterface[0m - [3m[SubnetID: ""subnet-0b08c9fd8bb342e68"", Status: ""in-use"", ID: ""eni-0687a04438a95b5b4"", VPC: ""vpc-0b19dc840fd2b5b03"", AvailabilityZone: ""eu-central-1c"", PrivateIPAddress: ""10.0.0.148""][0m - [31mfailed
+"
+
+2022-04-22 23:48:18.783,"[0m[1meu-central-1[0m - [mEC2RouteTable[0m - [1mrtb-00157d9b6767d11f5[0m - [3m[][0m - [31mfailed
+"
+
+2022-04-22 23:48:18.696,"[0m[1meu-central-1[0m - [mEC2RouteTable[0m - [1mrtb-08f8e54720ad1b5f3[0m - [3m[tag:Name: ""advanced-service-demo-public-rt""][0m - [31mfailed
+"
+
+2022-04-22 23:48:18.614,"[0m[1meu-central-1[0m - [mEC2RouteTable[0m - [1mrtb-05c022848fdc7a866[0m - [3m[][0m - [31mfailed
+"
+
+2022-04-22 23:48:18.526,"[0m[1meu-central-1[0m - [mEC2RouteTable[0m - [1mrtb-038108dc92f763483[0m - [3m[tag:Name: ""rzsoter-eks-mvp-def""][0m - [31mfailed
+"
+
+2022-04-22 23:48:18.460,"[0m[1meu-central-1[0m - [mEC2RouteTable[0m - [1mrtb-099e97cff7df32fdc[0m - [3m[][0m - [31mfailed
+"
+
+2022-04-22 23:48:18.316,"[0m[1meu-central-1[0m - [mEC2VPC[0m - [1mvpc-061a26a6ae57ae3c2[0m - [3m[tag:Name: ""advanced-service-demo-VPC"", ID: ""vpc-061a26a6ae57ae3c2"", IsDefault: ""false""][0m - [31mfailed
+"
+
+2022-04-22 23:48:18.136,"[0m[1meu-central-1[0m - [mEC2Snapshot[0m - [1msnap-01a8ab8b9b0154c73[0m - [31mfailed
+"
+
+2022-04-22 23:48:18.081,"[0m[1meu-central-1[0m - [mEC2Snapshot[0m - [1msnap-00dbb97453a329c80[0m - [31mfailed
+"
+
+2022-04-22 23:48:18.034,"[0m[1meu-central-1[0m - [mEC2Snapshot[0m - [1msnap-01ffabaa6d1656170[0m - [31mfailed
+"
+
+2022-04-22 23:48:17.992,"[0m[1meu-central-1[0m - [mEC2Snapshot[0m - [1msnap-05d93400da8894ca7[0m - [31mfailed
+"
+
+2022-04-22 23:48:17.839,"[0m[1meu-central-1[0m - [mEC2Snapshot[0m - [1msnap-02a416c69ecebc870[0m - [31mfailed
+"
+
+2022-04-22 23:48:17.745,"[0m[1meu-central-1[0m - [mEC2Snapshot[0m - [1msnap-012dae84098cbbeee[0m - [31mfailed
+"
+
+2022-04-22 23:48:17.696,"[0m[1meu-central-1[0m - [mEC2Snapshot[0m - [1msnap-000cf26b16c9fd137[0m - [31mfailed
+"
+
+2022-04-22 23:48:17.652,"[0m[1meu-central-1[0m - [mEC2Snapshot[0m - [1msnap-0c3d389739ca4cc28[0m - [31mfailed
+"
+
+2022-04-22 23:48:17.607,"[0m[1meu-central-1[0m - [mEC2Snapshot[0m - [1msnap-06ed96db0476c9b70[0m - [31mfailed
+"
+
+2022-04-22 23:48:17.556,"[0m[1meu-central-1[0m - [mEC2Snapshot[0m - [1msnap-086546c8a11f7b804[0m - [31mfailed
+"
+
+2022-04-22 23:48:17.505,"[0m[1meu-central-1[0m - [mEC2Snapshot[0m - [1msnap-0bf704fe114342b1e[0m - [31mfailed
+"
+
+2022-04-22 23:48:17.462,"[0m[1meu-central-1[0m - [mEC2Snapshot[0m - [1msnap-06f07105a1ef2905c[0m - [31mfailed
+"
+
+2022-04-22 23:48:17.413,"[0m[1meu-central-1[0m - [mEC2Snapshot[0m - [1msnap-0178d4fadf5a3fb97[0m - [31mfailed
+"
+
+2022-04-22 23:48:17.328,"[0m[1meu-central-1[0m - [mEC2Snapshot[0m - [1msnap-06381949333bca3f7[0m - [31mfailed
+"
+
+2022-04-22 23:48:17.278,"[0m[1meu-central-1[0m - [mEC2Snapshot[0m - [1msnap-0c1a8df3a78ae6681[0m - [31mfailed
+"
+
+2022-04-22 23:48:17.232,"[0m[1meu-central-1[0m - [mEC2Snapshot[0m - [1msnap-09950193ffe1debb2[0m - [31mfailed
+"
+
+2022-04-22 23:48:17.187,"[0m[1meu-central-1[0m - [mEC2Snapshot[0m - [1msnap-0191f75e53236b627[0m - [31mfailed
+"
+
+2022-04-22 23:48:17.143,"[0m[1meu-central-1[0m - [mEC2Snapshot[0m - [1msnap-0b7d699b316f7f7e7[0m - [31mfailed
+"
+
+2022-04-22 23:48:17.095,"[0m[1meu-central-1[0m - [mEC2Snapshot[0m - [1msnap-0f648298add1be79b[0m - [31mfailed
+"
+
+2022-04-22 23:48:17.052,"[0m[1meu-central-1[0m - [mEC2Snapshot[0m - [1msnap-0c142773880046cff[0m - [31mfailed
+"
+
+2022-04-22 23:48:17.010,"[0m[1meu-central-1[0m - [mEC2Snapshot[0m - [1msnap-08d34bfe3918eadcb[0m - [31mfailed
+"
+
+2022-04-22 23:48:16.966,"[0m[1meu-central-1[0m - [mEC2Snapshot[0m - [1msnap-00ebf100b1bc9f13b[0m - [31mfailed
+"
+
+2022-04-22 23:48:16.912,"[0m[1meu-central-1[0m - [mEC2Snapshot[0m - [1msnap-0e3e01b81cecbf18f[0m - [31mfailed
+"
+
+2022-04-22 23:48:16.865,"[0m[1meu-central-1[0m - [mEC2Snapshot[0m - [1msnap-084fbb9b40b6a9861[0m - [31mfailed
+"
+
+2022-04-22 23:48:16.818,"[0m[1meu-central-1[0m - [mEC2Snapshot[0m - [1msnap-09a2d403f609ea1a6[0m - [31mfailed
+"
+
+2022-04-22 23:48:16.770,"[0m[1meu-central-1[0m - [mEC2Snapshot[0m - [1msnap-063d6edcabd4d26f1[0m - [31mfailed
+"
+
+2022-04-22 23:48:16.706,"[0m[1meu-central-1[0m - [mEC2Snapshot[0m - [1msnap-02846e547a95e0ea0[0m - [31mfailed
+"
+
+2022-04-22 23:48:16.619,"[0m[1meu-central-1[0m - [mEC2Snapshot[0m - [1msnap-0dbce3fd7808bd8e7[0m - [31mfailed
+"
+
+2022-04-22 23:48:16.569,"[0m[1meu-central-1[0m - [mEC2Snapshot[0m - [1msnap-000731137a98eb949[0m - [31mfailed
+"
+
+2022-04-22 23:48:16.513,"[0m[1meu-central-1[0m - [mCloudTrailTrail[0m - [1mTSI_test_001[0m - [31mfailed
+"
+
+2022-04-22 23:48:16.476,"[0m[1meu-central-1[0m - [mCloudTrailTrail[0m - [1mTSI_Base_Trail[0m - [31mfailed
+"
+
+2022-04-22 23:48:16.439,"[0m[1meu-central-1[0m - [mEC2Snapshot[0m - [1msnap-0b0ec7722ffdfac87[0m - [31mfailed
+"
+
+2022-04-22 23:48:16.396,"[0m[1meu-central-1[0m - [mEC2Snapshot[0m - [1msnap-064aea87cf6d9f83c[0m - [31mfailed
+"
+
+2022-04-22 23:48:16.353,"[0m[1meu-central-1[0m - [mEC2Snapshot[0m - [1msnap-040c086cd07626c2b[0m - [31mfailed
+"
+
+2022-04-22 23:48:16.306,"[0m[1meu-central-1[0m - [mEC2Snapshot[0m - [1msnap-07ca21f3258af58f2[0m - [31mfailed
+"
+
+2022-04-22 23:48:16.258,"[0m[1meu-central-1[0m - [mEC2Snapshot[0m - [1msnap-033a1aaa2a241174b[0m - [31mfailed
+"
+
+2022-04-22 23:48:16.213,"[0m[1meu-central-1[0m - [mEC2Snapshot[0m - [1msnap-02217aabcf9be56fa[0m - [31mfailed
+"
+
+2022-04-22 23:48:16.150,"[0m[1meu-central-1[0m - [mEC2Snapshot[0m - [1msnap-001b49fa7a4cb2b61[0m - [31mfailed
+"
+
+2022-04-22 23:48:16.102,"[0m[1meu-central-1[0m - [mEC2Snapshot[0m - [1msnap-00e10de9ea0bee389[0m - [31mfailed
+"
+
+2022-04-22 23:48:16.058,"[0m[1meu-central-1[0m - [mEC2Snapshot[0m - [1msnap-0d705870090cf198d[0m - [31mfailed
+"
+
+2022-04-22 23:48:16.012,"[0m[1meu-central-1[0m - [mEC2Snapshot[0m - [1msnap-0c5c1d8ac94088ad2[0m - [31mfailed
+"
+
+2022-04-22 23:48:15.953,"[0m[1meu-central-1[0m - [mEC2Snapshot[0m - [1msnap-05322134c35d9ea2d[0m - [31mfailed
+"
+
+2022-04-22 23:48:15.910,"[0m[1meu-central-1[0m - [mEC2Snapshot[0m - [1msnap-0c322a27be093aa50[0m - [31mfailed
+"
+
+2022-04-22 23:48:15.857,"[0m[1meu-central-1[0m - [mEC2Snapshot[0m - [1msnap-0fae4c2228960ab3d[0m - [31mfailed
+"
+
+2022-04-22 23:48:15.814,"[0m[1meu-central-1[0m - [mEC2Snapshot[0m - [1msnap-00ebdf45de14f7ee6[0m - [31mfailed
+"
+
+2022-04-22 23:48:15.767,"[0m[1meu-central-1[0m - [mEC2Snapshot[0m - [1msnap-0894a5736bff2f547[0m - [31mfailed
+"
+
+2022-04-22 23:48:15.718,"[0m[1meu-central-1[0m - [mEC2Snapshot[0m - [1msnap-04fec78a0eef81f1a[0m - [31mfailed
+"
+
+2022-04-22 23:48:15.676,"[0m[1meu-central-1[0m - [mEC2Snapshot[0m - [1msnap-03fcfa74aaa7a90b3[0m - [31mfailed
+"
+
+2022-04-22 23:48:15.587,"[0m[1meu-central-1[0m - [mEC2Snapshot[0m - [1msnap-07c1c40873d2ca5f8[0m - [31mfailed
+"
+
+2022-04-22 23:48:15.542,"[0m[1meu-central-1[0m - [mEC2Snapshot[0m - [1msnap-0ebd13610565c9311[0m - [31mfailed
+"
+
+2022-04-22 23:48:15.496,"[0m[1meu-central-1[0m - [mEC2Snapshot[0m - [1msnap-0e7d3f93122baf219[0m - [31mfailed
+"
+
+2022-04-22 23:48:15.453,"[0m[1meu-central-1[0m - [mEC2Snapshot[0m - [1msnap-034f4339339b50a66[0m - [31mfailed
+"
+
+2022-04-22 23:48:15.410,"[0m[1meu-central-1[0m - [mEC2Snapshot[0m - [1msnap-0f68363068c32318d[0m - [31mfailed
+"
+
+2022-04-22 23:48:15.364,"[0m[1meu-central-1[0m - [mEC2Snapshot[0m - [1msnap-0b3f195c92525e6fa[0m - [31mfailed
+"
+
+2022-04-22 23:48:15.319,"[0m[1meu-central-1[0m - [mEC2Snapshot[0m - [1msnap-05dc1e9c4ef8decca[0m - [31mfailed
+"
+
+2022-04-22 23:48:15.271,"[0m[1meu-central-1[0m - [mEC2Snapshot[0m - [1msnap-09d16b3197824adf4[0m - [31mfailed
+"
+
+2022-04-22 23:48:15.157,"[0m[1meu-central-1[0m - [mEC2Snapshot[0m - [1msnap-0a5c4fb5d8edbf797[0m - [31mfailed
+"
+
+2022-04-22 23:48:15.112,"[0m[1meu-central-1[0m - [mEC2Snapshot[0m - [1msnap-044f0244d9cbedda7[0m - [31mfailed
+"
+
+2022-04-22 23:48:15.066,"[0m[1meu-central-1[0m - [mEC2Snapshot[0m - [1msnap-04005100ce93fd9d6[0m - [31mfailed
+"
+
+2022-04-22 23:48:15.020,"[0m[1meu-central-1[0m - [mEC2Snapshot[0m - [1msnap-0f874372164de15a4[0m - [31mfailed
+"
+
+2022-04-22 23:48:14.972,"[0m[1meu-central-1[0m - [mEC2Snapshot[0m - [1msnap-02fb55d9e30b29506[0m - [31mfailed
+"
+
+2022-04-22 23:48:14.884,"[0m[1meu-central-1[0m - [mEC2Snapshot[0m - [1msnap-067b05da97b576364[0m - [31mfailed
+"
+
+2022-04-22 23:48:14.843,"[0m[1meu-central-1[0m - [mEC2Snapshot[0m - [1msnap-0c0a66ce54a45600d[0m - [31mfailed
+"
+
+2022-04-22 23:48:14.798,"[0m[1meu-central-1[0m - [mEC2Snapshot[0m - [1msnap-0590b91a697b3d9a1[0m - [31mfailed
+"
+
+2022-04-22 23:48:14.752,"[0m[1meu-central-1[0m - [mEC2Snapshot[0m - [1msnap-08e7ed57bef1e278e[0m - [31mfailed
+"
+
+2022-04-22 23:48:14.704,"[0m[1meu-central-1[0m - [mEC2Snapshot[0m - [1msnap-08d0a6dd3f4729bd2[0m - [31mfailed
+"
+
+2022-04-22 23:48:14.657,"[0m[1meu-central-1[0m - [mEC2Snapshot[0m - [1msnap-012679a76e2d949b5[0m - [31mfailed
+"
+
+2022-04-22 23:48:14.610,"[0m[1meu-central-1[0m - [mEC2Snapshot[0m - [1msnap-03115ddf869780b2a[0m - [31mfailed
+"
+
+2022-04-22 23:48:14.564,"[0m[1meu-central-1[0m - [mEC2Snapshot[0m - [1msnap-0006df5df348f2a20[0m - [31mfailed
+"
+
+2022-04-22 23:48:14.511,"[0m[1meu-central-1[0m - [mEC2Snapshot[0m - [1msnap-0c469d915f12fcbf1[0m - [31mfailed
+"
+
+2022-04-22 23:48:14.465,"[0m[1meu-central-1[0m - [mEC2Snapshot[0m - [1msnap-058c45937ffb1af9e[0m - [31mfailed
+"
+
+2022-04-22 23:48:14.419,"[0m[1meu-central-1[0m - [mEC2Snapshot[0m - [1msnap-0f61dc7d1d7d3def4[0m - [31mfailed
+"
+
+2022-04-22 23:48:14.378,"[0m[1meu-central-1[0m - [mEC2Snapshot[0m - [1msnap-0bb841c3f6ea213a6[0m - [31mfailed
+"
+
+2022-04-22 23:48:14.323,"[0m[1meu-central-1[0m - [mEC2Snapshot[0m - [1msnap-0ee3cec0431be91be[0m - [31mfailed
+"
+
+2022-04-22 23:48:14.231,"[0m[1meu-central-1[0m - [mEC2Snapshot[0m - [1msnap-0e076f8f01e5cb57b[0m - [31mfailed
+"
+
+2022-04-22 23:48:14.184,"[0m[1meu-central-1[0m - [mEC2Snapshot[0m - [1msnap-024cd48acabec7cbe[0m - [31mfailed
+"
+
+2022-04-22 23:48:14.138,"[0m[1meu-central-1[0m - [mEC2Snapshot[0m - [1msnap-081d7206d47ba07ee[0m - [31mfailed
+"
+
+2022-04-22 23:48:14.094,"[0m[1meu-central-1[0m - [mEC2Snapshot[0m - [1msnap-0fcf39b7184c953b3[0m - [31mfailed
+"
+
+2022-04-22 23:48:14.050,"[0m[1meu-central-1[0m - [mEC2Snapshot[0m - [1msnap-0673840047d01ebcf[0m - [31mfailed
+"
+
+2022-04-22 23:48:13.996,"[0m[1meu-central-1[0m - [mEC2Snapshot[0m - [1msnap-0c56da47f067628e4[0m - [31mfailed
+"
+
+2022-04-22 23:48:13.949,"[0m[1meu-central-1[0m - [mEC2Snapshot[0m - [1msnap-083637c1cfce8661a[0m - [31mfailed
+"
+
+2022-04-22 23:48:13.905,"[0m[1meu-central-1[0m - [mEC2Snapshot[0m - [1msnap-0e0affe13929dd0a3[0m - [31mfailed
+"
+
+2022-04-22 23:48:13.856,"[0m[1meu-central-1[0m - [mEC2Snapshot[0m - [1msnap-068d3cc487505ae8a[0m - [31mfailed
+"
+
+2022-04-22 23:48:13.810,"[0m[1meu-central-1[0m - [mEC2Snapshot[0m - [1msnap-0389a3f57b4663c71[0m - [31mfailed
+"
+
+2022-04-22 23:48:13.763,"[0m[1meu-central-1[0m - [mEC2Snapshot[0m - [1msnap-09e00318268307941[0m - [31mfailed
+"
+
+2022-04-22 23:48:13.718,"[0m[1meu-central-1[0m - [mEC2Snapshot[0m - [1msnap-05d20c47d9fa66cb9[0m - [31mfailed
+"
+
+2022-04-22 23:48:13.670,"[0m[1meu-central-1[0m - [mEC2Snapshot[0m - [1msnap-0e515684a9c855dff[0m - [31mfailed
+"
+
+2022-04-22 23:48:13.626,"[0m[1meu-central-1[0m - [mEC2Snapshot[0m - [1msnap-07118795718795d62[0m - [31mfailed
+"
+
+2022-04-22 23:48:13.579,"[0m[1meu-central-1[0m - [mEC2Snapshot[0m - [1msnap-0acd77029a64501f1[0m - [31mfailed
+"
+
+2022-04-22 23:48:13.536,"[0m[1meu-central-1[0m - [mEC2Snapshot[0m - [1msnap-097b2b9e309135cd8[0m - [31mfailed
+"
+
+2022-04-22 23:48:13.489,"[0m[1meu-central-1[0m - [mEC2Snapshot[0m - [1msnap-071a12388326a9379[0m - [31mfailed
+"
+
+2022-04-22 23:48:13.436,"[0m[1meu-central-1[0m - [mEC2Snapshot[0m - [1msnap-0103771d6d74b4ba5[0m - [31mfailed
+"
+
+2022-04-22 23:48:13.339,"[0m[1meu-central-1[0m - [mEC2Snapshot[0m - [1msnap-0cfb91c0f6bdde021[0m - [31mfailed
+"
+
+2022-04-22 23:48:13.295,"[0m[1meu-central-1[0m - [mEC2Snapshot[0m - [1msnap-0aa1120dd4db316d2[0m - [31mfailed
+"
+
+2022-04-22 23:48:13.252,"[0m[1meu-central-1[0m - [mEC2Snapshot[0m - [1msnap-0b284473bafa1f2ce[0m - [31mfailed
+"
+
+2022-04-22 23:48:13.202,"[0m[1meu-central-1[0m - [mEC2Snapshot[0m - [1msnap-04f45c7cfbc172be1[0m - [31mfailed
+"
+
+2022-04-22 23:48:13.158,"[0m[1meu-central-1[0m - [mEC2Snapshot[0m - [1msnap-05d6f86d54b6b8fb1[0m - [31mfailed
+"
+
+2022-04-22 23:48:13.111,"[0m[1meu-central-1[0m - [mEC2Snapshot[0m - [1msnap-0d6951ddfcbaa8111[0m - [31mfailed
+"
+
+2022-04-22 23:48:13.068,"[0m[1meu-central-1[0m - [mEC2Snapshot[0m - [1msnap-08218cfe0e7306549[0m - [31mfailed
+"
+
+2022-04-22 23:48:13.018,"[0m[1meu-central-1[0m - [mEC2Snapshot[0m - [1msnap-06fd118a6ba9e5915[0m - [31mfailed
+"
+
+2022-04-22 23:48:12.974,"[0m[1meu-central-1[0m - [mEC2Snapshot[0m - [1msnap-0d509658e255289f6[0m - [31mfailed
+"
+
+2022-04-22 23:48:12.928,"[0m[1meu-central-1[0m - [mEC2Snapshot[0m - [1msnap-0e414b0397bc72af3[0m - [31mfailed
+"
+
+2022-04-22 23:48:12.880,"[0m[1meu-central-1[0m - [mEC2Snapshot[0m - [1msnap-067c5552552fd2ad8[0m - [31mfailed
+"
+
+2022-04-22 23:48:12.834,"[0m[1meu-central-1[0m - [mEC2Snapshot[0m - [1msnap-0bb04906ac8a3d792[0m - [31mfailed
+"
+
+2022-04-22 23:48:12.789,"[0m[1meu-central-1[0m - [mEC2Snapshot[0m - [1msnap-0c3529b23e28374f0[0m - [31mfailed
+"
+
+2022-04-22 23:48:12.741,"[0m[1meu-central-1[0m - [mEC2Snapshot[0m - [1msnap-02a7101119622cb6e[0m - [31mfailed
+"
+
+2022-04-22 23:48:12.692,"[0m[1meu-central-1[0m - [mEC2Snapshot[0m - [1msnap-009c02405ded761aa[0m - [31mfailed
+"
+
+2022-04-22 23:48:12.650,"[0m[1meu-central-1[0m - [mEC2Snapshot[0m - [1msnap-0353e60ad636aa880[0m - [31mfailed
+"
+
+2022-04-22 23:48:12.601,"[0m[1meu-central-1[0m - [mEC2Snapshot[0m - [1msnap-0d83a000bf7d05668[0m - [31mfailed
+"
+
+2022-04-22 23:48:12.553,"[0m[1meu-central-1[0m - [mEC2Snapshot[0m - [1msnap-0c0deadaa933fb1b1[0m - [31mfailed
+"
+
+2022-04-22 23:48:12.510,"[0m[1meu-central-1[0m - [mEC2Snapshot[0m - [1msnap-0ab8616148dc0bced[0m - [31mfailed
+"
+
+2022-04-22 23:48:12.465,"[0m[1meu-central-1[0m - [mEC2Snapshot[0m - [1msnap-02da2f286109fadcb[0m - [31mfailed
+"
+
+2022-04-22 23:48:12.417,"[0m[1meu-central-1[0m - [mEC2Snapshot[0m - [1msnap-01f37451ef354cdc9[0m - [31mfailed
+"
+
+2022-04-22 23:48:12.376,"[0m[1meu-central-1[0m - [mEC2Snapshot[0m - [1msnap-03f64b4c384d548ea[0m - [31mfailed
+"
+
+2022-04-22 23:48:12.331,"[0m[1meu-central-1[0m - [mEC2Snapshot[0m - [1msnap-0fa988c2a4a185297[0m - [31mfailed
+"
+
+2022-04-22 23:48:12.286,"[0m[1meu-central-1[0m - [mEC2Snapshot[0m - [1msnap-07d399ab26226305a[0m - [31mfailed
+"
+
+2022-04-22 23:48:12.242,"[0m[1meu-central-1[0m - [mEC2Snapshot[0m - [1msnap-065719e94a01d7cbe[0m - [31mfailed
+"
+
+2022-04-22 23:48:12.194,"[0m[1meu-central-1[0m - [mEC2Snapshot[0m - [1msnap-0308b52dfb571d009[0m - [31mfailed
+"
+
+2022-04-22 23:48:12.138,"[0m[1meu-central-1[0m - [mEC2Snapshot[0m - [1msnap-0228a936148a19645[0m - [31mfailed
+"
+
+2022-04-22 23:48:12.075,"[0m[1meu-central-1[0m - [mEC2Snapshot[0m - [1msnap-0cb67570c7220f4ac[0m - [31mfailed
+"
+
+2022-04-22 23:48:12.012,"[0m[1meu-central-1[0m - [mEC2Snapshot[0m - [1msnap-0658200ef16eda550[0m - [31mfailed
+"
+
+2022-04-22 23:48:11.968,"[0m[1meu-central-1[0m - [mEC2Snapshot[0m - [1msnap-01bad1fa822c5aaeb[0m - [31mfailed
+"
+
+2022-04-22 23:48:11.923,"[0m[1meu-central-1[0m - [mEC2Snapshot[0m - [1msnap-0bb3f319711b37831[0m - [31mfailed
+"
+
+2022-04-22 23:48:11.879,"[0m[1meu-central-1[0m - [mEC2Snapshot[0m - [1msnap-00eb667408f9fcde9[0m - [31mfailed
+"
+
+2022-04-22 23:48:11.798,"[0m[1meu-central-1[0m - [mEC2Snapshot[0m - [1msnap-064ec79f2bde7f095[0m - [31mfailed
+"
+
+2022-04-22 23:48:11.754,"[0m[1meu-central-1[0m - [mEC2Snapshot[0m - [1msnap-0412b491ba9d6420e[0m - [31mfailed
+"
+
+2022-04-22 23:48:11.708,"[0m[1meu-central-1[0m - [mEC2Snapshot[0m - [1msnap-050164deb46c1a2e0[0m - [31mfailed
+"
+
+2022-04-22 23:48:11.665,"[0m[1meu-central-1[0m - [mEC2Snapshot[0m - [1msnap-0827636fd31e3b07d[0m - [31mfailed
+"
+
+2022-04-22 23:48:11.618,"[0m[1meu-central-1[0m - [mEC2Snapshot[0m - [1msnap-078e5fb76056490f3[0m - [31mfailed
+"
+
+2022-04-22 23:48:11.575,"[0m[1meu-central-1[0m - [mEC2Snapshot[0m - [1msnap-08799be6b308fe935[0m - [31mfailed
+"
+
+2022-04-22 23:48:11.523,"[0m[1meu-central-1[0m - [mEC2Snapshot[0m - [1msnap-039cc70d5d67b9882[0m - [31mfailed
+"
+
+2022-04-22 23:48:11.473,"[0m[1meu-central-1[0m - [mEC2Snapshot[0m - [1msnap-00994054f06df0fa0[0m - [31mfailed
+"
+
+2022-04-22 23:48:11.427,"[0m[1meu-central-1[0m - [mEC2Snapshot[0m - [1msnap-0938590b4eaf16613[0m - [31mfailed
+"
+
+2022-04-22 23:48:11.373,"[0m[1meu-central-1[0m - [mEC2Snapshot[0m - [1msnap-0cea7125d266c7d45[0m - [31mfailed
+"
+
+2022-04-22 23:48:11.327,"[0m[1meu-central-1[0m - [mEC2Snapshot[0m - [1msnap-0e9ce0467fcf11525[0m - [31mfailed
+"
+
+2022-04-22 23:48:11.286,"[0m[1meu-central-1[0m - [mEC2Snapshot[0m - [1msnap-0a81c2945e5f40a8a[0m - [31mfailed
+"
+
+2022-04-22 23:48:11.230,"[0m[1meu-central-1[0m - [mEC2Snapshot[0m - [1msnap-05e4c15095f6855db[0m - [31mfailed
+"
+
+2022-04-22 23:48:11.181,"[0m[1meu-central-1[0m - [mEC2Snapshot[0m - [1msnap-07500dd12fe8ed5eb[0m - [31mfailed
+"
+
+2022-04-22 23:48:11.096,"[0m[1meu-central-1[0m - [mEC2Snapshot[0m - [1msnap-081543a081f100368[0m - [31mfailed
+"
+
+2022-04-22 23:48:11.050,"[0m[1meu-central-1[0m - [mEC2Snapshot[0m - [1msnap-0764c1852cfbccae6[0m - [31mfailed
+"
+
+2022-04-22 23:48:11.004,"[0m[1meu-central-1[0m - [mEC2Snapshot[0m - [1msnap-0e82ab5799c19692b[0m - [31mfailed
+"
+
+2022-04-22 23:48:10.960,"[0m[1meu-central-1[0m - [mEC2Snapshot[0m - [1msnap-0dcda8f6d76f4b9bc[0m - [31mfailed
+"
+
+2022-04-22 23:48:10.915,"[0m[1meu-central-1[0m - [mEC2Snapshot[0m - [1msnap-09de8916bd20cdca8[0m - [31mfailed
+"
+
+2022-04-22 23:48:10.868,"[0m[1meu-central-1[0m - [mEC2Snapshot[0m - [1msnap-020646c7f959a1995[0m - [31mfailed
+"
+
+2022-04-22 23:48:10.824,"[0m[1meu-central-1[0m - [mEC2Snapshot[0m - [1msnap-09f5b7ec22537cce3[0m - [31mfailed
+"
+
+2022-04-22 23:48:10.779,"[0m[1meu-central-1[0m - [mEC2Snapshot[0m - [1msnap-0f883646f3cf62951[0m - [31mfailed
+"
+
+2022-04-22 23:48:10.732,"[0m[1meu-central-1[0m - [mEC2Snapshot[0m - [1msnap-03233236e2527f4ba[0m - [31mfailed
+"
+
+2022-04-22 23:48:10.683,"[0m[1meu-central-1[0m - [mEC2Snapshot[0m - [1msnap-0cf2886b3fbff6704[0m - [31mfailed
+"
+
+2022-04-22 23:48:10.638,"[0m[1meu-central-1[0m - [mEC2Snapshot[0m - [1msnap-03832845759f14910[0m - [31mfailed
+"
+
+2022-04-22 23:48:10.558,"[0m[1meu-central-1[0m - [mEC2Snapshot[0m - [1msnap-0408b4cf23461912b[0m - [31mfailed
+"
+
+2022-04-22 23:48:10.512,"[0m[1meu-central-1[0m - [mEC2Snapshot[0m - [1msnap-0a55de6ccea6166a5[0m - [31mfailed
+"
+
+2022-04-22 23:48:10.467,"[0m[1meu-central-1[0m - [mEC2Snapshot[0m - [1msnap-0b47474b24343ce6c[0m - [31mfailed
+"
+
+2022-04-22 23:48:10.419,"[0m[1meu-central-1[0m - [mEC2Snapshot[0m - [1msnap-02b6c481d34cdd530[0m - [31mfailed
+"
+
+2022-04-22 23:48:10.374,"[0m[1meu-central-1[0m - [mEC2Snapshot[0m - [1msnap-09d57a51db8794765[0m - [31mfailed
+"
+
+2022-04-22 23:48:10.329,"[0m[1meu-central-1[0m - [mEC2Snapshot[0m - [1msnap-0cda1a0740f8ab35a[0m - [31mfailed
+"
+
+2022-04-22 23:48:10.286,"[0m[1meu-central-1[0m - [mEC2Snapshot[0m - [1msnap-03dd5524bdd1b7209[0m - [31mfailed
+"
+
+2022-04-22 23:48:10.210,"[0m[1meu-central-1[0m - [mEC2Snapshot[0m - [1msnap-0445cfe181de18dbc[0m - [31mfailed
+"
+
+2022-04-22 23:48:10.164,"[0m[1meu-central-1[0m - [mEC2Snapshot[0m - [1msnap-00d42ee29f65c105f[0m - [31mfailed
+"
+
+2022-04-22 23:48:10.114,"[0m[1meu-central-1[0m - [mEC2Snapshot[0m - [1msnap-0e3da4bf0c4ea0e95[0m - [31mfailed
+"
+
+2022-04-22 23:48:10.059,"[0m[1meu-central-1[0m - [mEC2Snapshot[0m - [1msnap-01fc6643613553d1a[0m - [31mfailed
+"
+
+2022-04-22 23:48:10.015,"[0m[1meu-central-1[0m - [mEC2Snapshot[0m - [1msnap-09654ca24b4853e8f[0m - [31mfailed
+"
+
+2022-04-22 23:48:09.935,"[0m[1meu-central-1[0m - [mEC2Snapshot[0m - [1msnap-01ab8aadf4b8586c0[0m - [31mfailed
+"
+
+2022-04-22 23:48:09.882,"[0m[1meu-central-1[0m - [mEC2Snapshot[0m - [1msnap-0b763b4763b46a286[0m - [31mfailed
+"
+
+2022-04-22 23:48:09.832,"[0m[1meu-central-1[0m - [mEC2Snapshot[0m - [1msnap-00f7e64f22a2b3356[0m - [31mfailed
+"
+
+2022-04-22 23:48:09.787,"[0m[1meu-central-1[0m - [mEC2Snapshot[0m - [1msnap-0441983639eae1789[0m - [31mfailed
+"
+
+2022-04-22 23:48:09.702,"[0m[1meu-central-1[0m - [mEC2Snapshot[0m - [1msnap-020928771471befd7[0m - [31mfailed
+"
+
+2022-04-22 23:48:09.658,"[0m[1meu-central-1[0m - [mEC2Snapshot[0m - [1msnap-0105d3dcdfb615b89[0m - [31mfailed
+"
+
+2022-04-22 23:48:09.611,"[0m[1meu-central-1[0m - [mEC2Snapshot[0m - [1msnap-08caaeb3f817591d1[0m - [31mfailed
+"
+
+2022-04-22 23:48:09.567,"[0m[1meu-central-1[0m - [mEC2Snapshot[0m - [1msnap-029ad8998f1c7b17f[0m - [31mfailed
+"
+
+2022-04-22 23:48:09.526,"[0m[1meu-central-1[0m - [mEC2Snapshot[0m - [1msnap-07e89f04f2b723de6[0m - [31mfailed
+"
+
+2022-04-22 23:48:09.474,"[0m[1meu-central-1[0m - [mEC2Snapshot[0m - [1msnap-0dbca40afe92e3c24[0m - [31mfailed
+"
+
+2022-04-22 23:48:09.427,"[0m[1meu-central-1[0m - [mEC2Snapshot[0m - [1msnap-01165e928cdd5aee1[0m - [31mfailed
+"
+
+2022-04-22 23:48:09.376,"[0m[1meu-central-1[0m - [mEC2Snapshot[0m - [1msnap-0a4a0235df5733af4[0m - [31mfailed
+"
+
+2022-04-22 23:48:09.327,"[0m[1meu-central-1[0m - [mEC2Snapshot[0m - [1msnap-036171f602327c5a9[0m - [31mfailed
+"
+
+2022-04-22 23:48:09.244,"[0m[1meu-central-1[0m - [mEC2Snapshot[0m - [1msnap-0bf8c3a2a29cf1586[0m - [31mfailed
+"
+
+2022-04-22 23:48:09.199,"[0m[1meu-central-1[0m - [mEC2Snapshot[0m - [1msnap-0d11854c7e87d92b1[0m - [31mfailed
+"
+
+2022-04-22 23:48:09.133,"[0m[1meu-central-1[0m - [mEC2Snapshot[0m - [1msnap-0c04aed61bc44bf66[0m - [31mfailed
+"
+
+2022-04-22 23:48:09.095,"[0m[1meu-central-1[0m - [mEC2Snapshot[0m - [1msnap-0028148bb898fdafe[0m - [31mfailed
+"
+
+2022-04-22 23:48:08.846,"[0m[1meu-central-1[0m - [mEC2SecurityGroup[0m - [1msg-0ff936e22f58bd534[0m - [3m[Name: ""launch-wizard-4-linux-ssh""][0m - [31mfailed
+"
+
+2022-04-22 23:48:08.671,"[0m[1meu-central-1[0m - [mEC2SecurityGroup[0m - [1msg-0ee1a66584ff6ad0b[0m - [3m[Name: ""launch-wizard-6-test-win-rdp""][0m - [31mfailed
+"
+
+2022-04-22 23:48:08.488,"[0m[1meu-central-1[0m - [mEC2SecurityGroup[0m - [1msg-0a05c2d0894ca0d07[0m - [3m[Name: ""szab-usecase-bastion_sg""][0m - [31mfailed
+"
+
+2022-04-22 23:48:07.638,"[0m[1meu-central-1[0m - [mEC2SecurityGroup[0m - [1msg-06fba2f5f769ae461[0m - [3m[Name: ""rzsoter-A80819287-sg-linux-min""][0m - [31mfailed
+"
+
+2022-04-22 23:48:07.248,"[0m[1meu-central-1[0m - [mEC2SecurityGroup[0m - [1msg-04070cbd5f3fb0b01[0m - [3m[Name: ""launch-wizard-3""][0m - [31mfailed
+"
+
+2022-04-22 23:48:07.050,"[0m[1meu-central-1[0m - [mEC2SecurityGroup[0m - [1msg-03f349d0d0d06995c[0m - [3m[Name: ""advanced-service-demo-EC2-sg""][0m - [31mfailed
+"
+
+2022-04-22 23:48:06.880,"[0m[1meu-central-1[0m - [mEC2SecurityGroup[0m - [1msg-032ea6b9f31d9be05[0m - [3m[Name: ""launch-wizard-6-test-2-linux-ssh""][0m - [31mfailed
+"
+
+2022-04-22 23:48:06.733,"[0m[1meu-central-1[0m - [mEC2SecurityGroup[0m - [1msg-0123ccdc0177e744f[0m - [3m[Name: ""aws-cloud9-rzsoter-eks-test-4fbbd834828c412fad5508cdefb91546-InstanceSecurityGroup-XGXYGPOL1J4Z""][0m - [31mfailed
+"
+
+2022-04-22 23:48:06.453,"[0m[1meu-central-1[0m - [mEC2Address[0m - [1m3.69.95.0[0m - [31mfailed
+"
+
+2022-04-22 23:48:06.066,"[0m[1meu-central-1[0m - [mEC2Address[0m - [1m3.69.222.179[0m - [31mfailed
+"
+
+2022-04-22 23:48:05.761,"[0m[1meu-central-1[0m - [mEC2Address[0m - [1m3.66.24.196[0m - [31mfailed
+"
+
+2022-04-22 23:48:05.270,"[0m[1meu-central-1[0m - [mEC2Address[0m - [1m3.123.61.119[0m - [31mfailed
+"
+
+2022-04-22 23:48:04.881,"[0m[1meu-central-1[0m - [mEC2Address[0m - [1m3.122.198.182[0m - [31mfailed
+"
+
+2022-04-22 23:48:04.492,"[0m[1meu-central-1[0m - [mEC2Address[0m - [1m3.121.190.6[0m - [31mfailed
+"
+
+2022-04-22 23:48:04.054,"[0m[1meu-central-1[0m - [mEC2Address[0m - [1m18.157.59.158[0m - [31mfailed
+"
+
+2022-04-22 23:48:03.598,"[0m[1meu-central-1[0m - [mEC2Volume[0m - [1mvol-01d01f7e2127cb8c4[0m - [3m[tag:Name: ""szab-usecases-bastion"", tag:owner: ""A334322""][0m - [31mfailed
+"
+
+2022-04-22 23:48:03.485,"[0m[1meu-central-1[0m - [mEC2Volume[0m - [1mvol-08f5b533e4cd16299[0m - [3m[][0m - [31mfailed
+"
+
+2022-04-22 23:48:03.395,"[0m[1meu-central-1[0m - [mEC2Volume[0m - [1mvol-083701758e3bcdd3a[0m - [3m[][0m - [31mfailed
+"
+
+2022-04-22 23:48:03.259,"[0m[1meu-central-1[0m - [mEC2Volume[0m - [1mvol-0fbbe7ab67fff0d17[0m - [3m[][0m - [31mfailed
+"
+
+2022-04-22 23:48:03.136,"[0m[1meu-central-1[0m - [mEC2Volume[0m - [1mvol-0aedcc5466ca8a5dc[0m - [3m[][0m - [31mfailed
+"
+
+2022-04-22 23:48:03.010,"[0m[1meu-central-1[0m - [mEC2Volume[0m - [1mvol-0f21c540040005416[0m - [3m[tag:CreatedBy: ""terraform"", tag:Description: ""root volume associated to advanced-service-demo-ec2"", tag:Cloud_Environment: ""aws"", tag:environment: ""PROD"", tag:Department: ""tsi"", tag:application: ""advance-service-demo"", tag:Name: ""advanced-service-demo-ec2.root_volume""][0m - [31mfailed
+"
+
+2022-04-22 23:48:02.904,"[0m[1meu-central-1[0m - [mEC2Volume[0m - [1mvol-0790b06160a2badc6[0m - [3m[][0m - [31mfailed
+"
+
+2022-04-22 23:48:02.699,"[0m[1meu-central-1[0m - [mCloudWatchEventsRule[0m - [1mRule: AutoScalingManagedRule[0m - [31mfailed
+"
+
+2022-04-22 23:48:02.650,"[0m[1meu-central-1[0m - [mEC2DHCPOption[0m - [1mdopt-789eac13[0m - [31mfailed
+"
+
+2022-04-22 23:48:02.102,"[0m[1meu-central-1[0m - [mEC2Instance[0m - [1mi-0827962bc35bdf7df[0m - [3m[tag:startby: ""instance-scheduler on 2022/02/08 at 08:00 UTC"", tag:CreatedBy: ""terraform"", tag:Schedule: ""9amto5pm"", tag:environment: ""PROD"", tag:Department: ""tsi"", tag:Cloud_Environment: ""aws"", tag:Name: ""advanced-service-demo-ec2"", tag:Backup: ""true"", tag:Description: ""ec2 instance - advanced-service-demo-ec2"", tag:Patch_Group: ""PROD"", tag:application: ""advance-service-demo""][0m - [31mfailed
+"
+
+2022-04-22 23:48:01.796,"[0m[1meu-central-1[0m - [mACMCertificate[0m - [1marn:aws:acm:eu-central-1:829647177071:certificate/380b3c3a-af77-40cc-9704-f8454285bf41[0m - [31mfailed
+"
+
+2022-04-22 23:48:01.748,"[0m[1meu-central-1[0m - [mACMCertificate[0m - [1marn:aws:acm:eu-central-1:829647177071:certificate/a13a3372-5dcf-4425-bece-f840cdb4f5bf[0m - [31mfailed
+"
+
+2022-04-22 23:48:01.643,"[0m[1meu-central-1[0m - [mCloudWatchLogsLogGroup[0m - [1m/aws/lambda/LogsToOpenSearch_monitoring_es-meks-test16-skanta[0m - [34mwaiting
+"
+
+2022-04-22 23:48:01.643,"[0m[1meu-central-1[0m - [mCloudWatchLogsLogGroup[0m - [1m/aws/lambda/LogsToOpenSearch_monitoring_es-rzsoter-13[0m - [34mwaiting
+"
+
+2022-04-22 23:48:01.643,"[0m[1meu-central-1[0m - [mCloudWatchLogsLogGroup[0m - [1m/aws/eks/rzsoter-13/cluster[0m - [34mwaiting
+"
+
+2022-04-22 23:48:01.643,"[0m[1meu-central-1[0m - [mCloudWatchLogsLogGroup[0m - [1m/aws/eks/meks-test16-skanta/cluster[0m - [34mwaiting
+"
+
+2022-04-22 23:48:01.597,"[0m[1mca-central-1[0m - [mCloudTrailTrail[0m - [1mTSI_test_001[0m - [31mfailed
+"
+
+2022-04-22 23:48:01.208,"[0m[1mca-central-1[0m - [mCloudTrailTrail[0m - [1mTSI_Base_Trail[0m - [31mfailed
+"
+
+2022-04-22 23:48:00.819,"[0m[1map-northeast-1[0m - [mCloudTrailTrail[0m - [1mTSI_test_001[0m - [31mfailed
+"
+
+2022-04-22 23:47:58.429,"[0m[1map-northeast-1[0m - [mCloudTrailTrail[0m - [1mTSI_Base_Trail[0m - [31mfailed
+"
+
+2022-04-22 23:47:57.483,"[0m[1map-southeast-2[0m - [mCloudTrailTrail[0m - [1mTSI_test_001[0m - [31mfailed
+"
+
+2022-04-22 23:47:54.624,"[0m[1map-southeast-2[0m - [mCloudTrailTrail[0m - [1mTSI_Base_Trail[0m - [31mfailed
+"
+
+2022-04-22 23:47:53.598,"[0m[1map-southeast-1[0m - [mCloudTrailTrail[0m - [1mTSI_test_001[0m - [31mfailed
+"
+
+2022-04-22 23:47:51.398,"[0m[1map-southeast-1[0m - [mCloudTrailTrail[0m - [1mTSI_Base_Trail[0m - [31mfailed
+"
+
+2022-04-22 23:47:50.753,"[0m[1map-northeast-2[0m - [mCloudTrailTrail[0m - [1mTSI_test_001[0m - [31mfailed
+"
+
+2022-04-22 23:47:49.706,"[0m[1map-northeast-2[0m - [mCloudTrailTrail[0m - [1mTSI_Base_Trail[0m - [31mfailed
+"
+
+2022-04-22 23:47:48.656,"[0m[1map-south-1[0m - [mCloudTrailTrail[0m - [1mTSI_test_001[0m - [31mfailed
+"
+
+2022-04-22 23:47:48.166,"[0m[1map-south-1[0m - [mCloudTrailTrail[0m - [1mTSI_Base_Trail[0m - [31mfailed
+"
+
+2022-04-22 23:47:47.676,"[0m[1mus-west-2[0m - [mCloudTrailTrail[0m - [1mTSI_test_001[0m - [31mfailed
+"
+
+2022-04-22 23:47:47.056,"[0m[1mus-west-2[0m - [mCloudTrailTrail[0m - [1mTSI_Base_Trail[0m - [31mfailed
+"
+
+2022-04-22 23:47:46.442,"[0m[1mus-west-1[0m - [mCloudTrailTrail[0m - [1mTSI_test_001[0m - [31mfailed
+"
+
+2022-04-22 23:47:45.824,"[0m[1mus-west-1[0m - [mCloudTrailTrail[0m - [1mTSI_Base_Trail[0m - [31mfailed
+"
+
+2022-04-22 23:47:45.193,"[0m[1mus-east-1[0m - [mCloudTrailTrail[0m - [1mTSI_test_001[0m - [31mfailed
+"
+
+2022-04-22 23:47:44.798,"[0m[1mus-east-1[0m - [mCloudTrailTrail[0m - [1mTSI_Base_Trail[0m - [31mfailed
+"
+
+2022-04-22 23:47:44.403,"[0m[1mus-east-2[0m - [mCloudTrailTrail[0m - [1mTSI_test_001[0m - [31mfailed
+"
+
+2022-04-22 23:47:43.313,"[1mus-east-2[0m - [mCloudTrailTrail[0m - [1mTSI_Base_Trail[0m - [31mfailed
+"
+
+2022-04-22 23:47:37.453,"
+"
+
+2022-04-22 23:47:37.453,"Removal requested: 4 waiting, 440 failed, 543 skipped, 483 finished
+"
+
+2022-04-22 23:47:37.453,"[0m
+"
+
+2022-04-22 23:47:37.453,"[0m[1msa-east-1[0m - [mCloudTrailTrail[0m - [1mTSI_test_001[0m - [31mfailed
+"
+
+2022-04-22 23:47:34.912,"[0m[1msa-east-1[0m - [mCloudTrailTrail[0m - [1mTSI_Base_Trail[0m - [31mfailed
+"
+
+2022-04-22 23:47:34.046,"[0m[1meu-west-3[0m - [mCloudTrailTrail[0m - [1mTSI_test_001[0m - [31mfailed
+"
+
+2022-04-22 23:47:33.978,"[0m[1meu-west-3[0m - [mCloudTrailTrail[0m - [1mTSI_Base_Trail[0m - [31mfailed
+"
+
+2022-04-22 23:47:33.913,"[0m[1meu-west-2[0m - [mCloudTrailTrail[0m - [1mTSI_test_001[0m - [31mfailed
+"
+
+2022-04-22 23:47:33.825,"[0m[1meu-west-2[0m - [mCloudTrailTrail[0m - [1mTSI_Base_Trail[0m - [31mfailed
+"
+
+2022-04-22 23:47:33.735,"[0m[1meu-west-1[0m - [mCloudTrailTrail[0m - [1mTSI_test_001[0m - [31mfailed
+"
+
+2022-04-22 23:47:32.530,"[0m[1meu-west-1[0m - [mCloudTrailTrail[0m - [1mTSI_Base_Trail[0m - [31mfailed
+"
+
+2022-04-22 23:47:32.403,"[0m[1meu-central-1[0m - [mEC2InternetGatewayAttachment[0m - [1migw-0442fe433cf8d5905 -> vpc-0ebcd67a241a3289b[0m - [3m[tag:igw:nukeignore: ""true"", tag:igw:owner: ""A334322"", tag:igw:Name: ""szab-ecs-usecase_igw"", tag:vpc:Name: ""szab-ecs-usecase_vpc"", tag:vpc:nukeignore: ""true"", tag:vpc:owner: ""A334322""][0m - [31mfailed
+"
+
+2022-04-22 23:47:31.448,"[0m[1meu-central-1[0m - [mEC2InternetGatewayAttachment[0m - [1migw-02847908ffb3a6b57 -> vpc-0b19dc840fd2b5b03[0m - [3m[tag:igw:Name: ""meks-test-skanta-igw"", tag:igw:nukeignore: ""true"", tag:vpc:owner: ""A334322"", tag:vpc:Name: ""meks-test-skanta-vpc"", tag:vpc:nukeignore: ""true"", tag:igw:owner: ""A334322""][0m - [31mfailed
+"
+
+2022-04-22 23:47:31.311,"[0m[1meu-central-1[0m - [mEC2InternetGatewayAttachment[0m - [1migw-0ec5a5053a914108b -> vpc-0803dcae174835ec2[0m - [3m[tag:vpc:nukeIgnore: ""true"", tag:vpc:Name: ""test-env-onprem-vpn-demo"", tag:igw:nukeignore: ""true"", tag:igw:Name: ""test-env"", tag:igw:nukeIgnore: ""true"", tag:vpc:nukeignore: ""true""][0m - [31mfailed
+"
+
+2022-04-22 23:47:31.177,"[0m[1meu-central-1[0m - [mEC2InternetGatewayAttachment[0m - [1migw-07d2b6bd1cdc03bc7 -> vpc-046336774cba7c8a8[0m - [3m[tag:vpc:nukeIgnore: ""true"", tag:vpc:owner: ""A80819287"", tag:igw:nukeignore: ""true"", tag:igw:owner: ""A80819287"", tag:igw:nukeIgnore: ""true"", tag:igw:Name: ""rzsoter-A80819287-def-igw"", tag:vpc:nukeignore: ""true"", tag:vpc:Name: ""rzsoter-A80819287-def""][0m - [31mfailed
+"
+
+2022-04-22 23:47:31.045,"[0m[1meu-central-1[0m - [mEC2InternetGatewayAttachment[0m - [1migw-0606b020d1841e393 -> vpc-046faa1b5374c6cb0[0m - [3m[tag:igw:nukeIgnore: ""true"", tag:igw:environment: ""test"", tag:igw:nukeignore: ""true"", tag:vpc:environment: ""test"", tag:vpc:nukeignore: ""true"", tag:vpc:nukeIgnore: ""true"", tag:vpc:Name: ""test-2-env-main -vpn-demo"", tag:igw:Name: ""test-2-env-igw""][0m - [31mfailed
+"
+
+2022-04-22 23:47:30.916,"[0m[1meu-central-1[0m - [mEC2InternetGatewayAttachment[0m - [1migw-03d6254245ab2cda8 -> vpc-090045918e6a49e99[0m - [3m[tag:igw:nukeignore: ""true"", tag:vpc:Name: ""rzsoter-EKS-mvp"", tag:vpc:nukeignore: ""true"", tag:vpc:owner: ""A80819287"", tag:igw:Name: ""rzsoter-EKS-mvp-igw"", tag:igw:owner: ""A80819287""][0m - [31mfailed
+"
+
+2022-04-22 23:47:30.770,"[0m[1meu-central-1[0m - [mEC2InternetGatewayAttachment[0m - [1migw-05ed8e4d7e0081001 -> vpc-0844cfc214aaa5aac[0m - [3m[tag:igw:nukeignore: ""true"", tag:vpc:nukeignore: ""true"", tag:vpc:nukeIgnore: ""true"", tag:vpc:Name: ""rzsoter-2-eks-mvp"", tag:igw:nukeIgnore: ""true"", tag:igw:Name: ""rzsoter-2-eks-mvp""][0m - [31mfailed
+"
+
+2022-04-22 23:47:30.185,"[0m[1meu-central-1[0m - [mEC2Image[0m - [1mami-0ffdf66418764005a[0m - [31mfailed
+"
+
+2022-04-22 23:47:30.082,"[0m[1meu-central-1[0m - [mEC2Image[0m - [1mami-0fe844c998e77eac8[0m - [31mfailed
+"
+
+2022-04-22 23:47:29.981,"[0m[1meu-central-1[0m - [mEC2Image[0m - [1mami-0fdbda38146eb0b3e[0m - [31mfailed
+"
+
+2022-04-22 23:47:29.363,"[0m[1meu-central-1[0m - [mEC2Image[0m - [1mami-0fdb3a08db05ff1d9[0m - [31mfailed
+"
+
+2022-04-22 23:47:29.263,"[0m[1meu-central-1[0m - [mEC2Image[0m - [1mami-0fd75a0cbdc91485e[0m - [31mfailed
+"
+
+2022-04-22 23:47:29.167,"[0m[1meu-central-1[0m - [mEC2Image[0m - [1mami-0fd704f7116ef98bb[0m - [31mfailed
+"
+
+2022-04-22 23:47:28.931,"[0m[1meu-central-1[0m - [mEC2Image[0m - [1mami-0fc6a363b54db30a4[0m - [31mfailed
+"
+
+2022-04-22 23:47:28.843,"[0m[1meu-central-1[0m - [mEC2Image[0m - [1mami-0fb5142b3c1c67c7a[0m - [31mfailed
+"
+
+2022-04-22 23:47:28.760,"[0m[1meu-central-1[0m - [mEC2Image[0m - [1mami-0fb0ad481d338cec0[0m - [31mfailed
+"
+
+2022-04-22 23:47:28.661,"[0m[1meu-central-1[0m - [mEC2Image[0m - [1mami-0fa5918eb40b868f8[0m - [31mfailed
+"
+
+2022-04-22 23:47:28.560,"[0m[1meu-central-1[0m - [mEC2Image[0m - [1mami-0f970279d256597e1[0m - [31mfailed
+"
+
+2022-04-22 23:47:28.466,"[0m[1meu-central-1[0m - [mEC2Image[0m - [1mami-0f3d600fb28834dd1[0m - [31mfailed
+"
+
+2022-04-22 23:47:28.358,"[0m[1meu-central-1[0m - [mEC2Image[0m - [1mami-0f11580ff70b124b2[0m - [31mfailed
+"
+
+2022-04-22 23:47:27.382,"[0m[1meu-central-1[0m - [mEC2Image[0m - [1mami-0ee85f9b692a4a96f[0m - [31mfailed
+"
+
+2022-04-22 23:47:27.294,"[0m[1meu-central-1[0m - [mEC2Image[0m - [1mami-0ee1abcc31acc9584[0m - [31mfailed
+"
+
+2022-04-22 23:47:26.692,"[0m[1meu-central-1[0m - [mEC2Image[0m - [1mami-0ecfeae6b758dd253[0m - [31mfailed
+"
+
+2022-04-22 23:47:26.596,"[0m[1meu-central-1[0m - [mEC2Image[0m - [1mami-0eb95aa2df678f62e[0m - [31mfailed
+"
+
+2022-04-22 23:47:26.492,"[0m[1meu-central-1[0m - [mEC2Image[0m - [1mami-0eb521958654f31f5[0m - [31mfailed
+"
+
+2022-04-22 23:47:26.352,"[0m[1meu-central-1[0m - [mEC2Image[0m - [1mami-0e8a574849391d5e1[0m - [31mfailed
+"
+
+2022-04-22 23:47:26.262,"[0m[1meu-central-1[0m - [mEC2Image[0m - [1mami-0e881f6407a7b8503[0m - [31mfailed
+"
+
+2022-04-22 23:47:26.179,"[0m[1meu-central-1[0m - [mEC2Image[0m - [1mami-0e6c2097abdff9bb0[0m - [31mfailed
+"
+
+2022-04-22 23:47:26.086,"[0m[1meu-central-1[0m - [mEC2Image[0m - [1mami-0e2c8a4e8d1473a65[0m - [31mfailed
+"
+
+2022-04-22 23:47:25.997,"[0m[1meu-central-1[0m - [mEC2Image[0m - [1mami-0e2488c12571a6ab8[0m - [31mfailed
+"
+
+2022-04-22 23:47:25.375,"[0m[1meu-central-1[0m - [mEC2Image[0m - [1mami-0e2184e4128a7cdcb[0m - [31mfailed
+"
+
+2022-04-22 23:47:25.287,"[0m[1meu-central-1[0m - [mEC2Image[0m - [1mami-0e0e1aedfa69ae42e[0m - [31mfailed
+"
+
+2022-04-22 23:47:25.197,"[0m[1meu-central-1[0m - [mEC2Image[0m - [1mami-0e0cd5bf0cc9958db[0m - [31mfailed
+"
+
+2022-04-22 23:47:25.087,"[0m[1meu-central-1[0m - [mEC2Image[0m - [1mami-0ddf51e9367c8a638[0m - [31mfailed
+"
+
+2022-04-22 23:47:24.992,"[0m[1meu-central-1[0m - [mEC2Image[0m - [1mami-0dcf88c3edcbb4276[0m - [31mfailed
+"
+
+2022-04-22 23:47:24.908,"[0m[1meu-central-1[0m - [mEC2Image[0m - [1mami-0d7543451317213f5[0m - [31mfailed
+"
+
+2022-04-22 23:47:24.819,"[0m[1meu-central-1[0m - [mEC2Image[0m - [1mami-0d72d9d2f4469c050[0m - [31mfailed
+"
+
+2022-04-22 23:47:24.732,"[0m[1meu-central-1[0m - [mEC2Image[0m - [1mami-0d60969b67179b008[0m - [31mfailed
+"
+
+2022-04-22 23:47:24.642,"[0m[1meu-central-1[0m - [mEC2Image[0m - [1mami-0d19b5e62597bf0b3[0m - [31mfailed
+"
+
+2022-04-22 23:47:24.547,"[0m[1meu-central-1[0m - [mEC2Image[0m - [1mami-0d0d94df126814a4a[0m - [31mfailed
+"
+
+2022-04-22 23:47:24.438,"[0m[1meu-central-1[0m - [mEC2Image[0m - [1mami-0d05f731ecab65cf5[0m - [31mfailed
+"
+
+2022-04-22 23:47:24.327,"[0m[1meu-central-1[0m - [mEC2Image[0m - [1mami-0ced78a49aabb1795[0m - [31mfailed
+"
+
+2022-04-22 23:47:24.237,"[0m[1meu-central-1[0m - [mEC2Image[0m - [1mami-0cdd94655db5dfec9[0m - [31mfailed
+"
+
+2022-04-22 23:47:24.132,"[0m[1meu-central-1[0m - [mEC2Image[0m - [1mami-0cdccb8041e6e0280[0m - [31mfailed
+"
+
+2022-04-22 23:47:24.047,"[0m[1meu-central-1[0m - [mEC2Image[0m - [1mami-0cd249128cd095b94[0m - [31mfailed
+"
+
+2022-04-22 23:47:23.955,"[0m[1meu-central-1[0m - [mEC2Image[0m - [1mami-0cc8311477bd194f6[0m - [31mfailed
+"
+
+2022-04-22 23:47:23.822,"[0m[1meu-central-1[0m - [mEC2Image[0m - [1mami-0c7755ca549d64243[0m - [31mfailed
+"
+
+2022-04-22 23:47:21.316,"[0m[1meu-central-1[0m - [mEC2Image[0m - [1mami-0c6fc593399f4822e[0m - [31mfailed
+"
+
+2022-04-22 23:47:21.231,"[0m[1meu-central-1[0m - [mEC2Image[0m - [1mami-0c4eaf646b09395e6[0m - [31mfailed
+"
+
+2022-04-22 23:47:21.138,"[0m[1meu-central-1[0m - [mEC2Image[0m - [1mami-0c3d075d1bb54bbf8[0m - [31mfailed
+"
+
+2022-04-22 23:47:21.029,"[0m[1meu-central-1[0m - [mEC2Image[0m - [1mami-0bef4dd406c225de2[0m - [31mfailed
+"
+
+2022-04-22 23:47:20.914,"[0m[1meu-central-1[0m - [mEC2Image[0m - [1mami-0bc631d02b80095bb[0m - [31mfailed
+"
+
+2022-04-22 23:47:20.812,"[0m[1meu-central-1[0m - [mEC2Image[0m - [1mami-0bc238f9075a21693[0m - [31mfailed
+"
+
+2022-04-22 23:47:20.724,"[0m[1meu-central-1[0m - [mEC2Image[0m - [1mami-0b9224141da760789[0m - [31mfailed
+"
+
+2022-04-22 23:47:20.645,"[0m[1meu-central-1[0m - [mEC2Image[0m - [1mami-0b76038640775fdd1[0m - [31mfailed
+"
+
+2022-04-22 23:47:20.555,"[0m[1meu-central-1[0m - [mEC2Image[0m - [1mami-0b67a7bc2348a1edb[0m - [31mfailed
+"
+
+2022-04-22 23:47:20.471,"[0m[1meu-central-1[0m - [mEC2Image[0m - [1mami-0b5c57892ea7a06d8[0m - [31mfailed
+"
+
+2022-04-22 23:47:20.378,"[0m[1meu-central-1[0m - [mEC2Image[0m - [1mami-0b4f769d94c696104[0m - [31mfailed
+"
+
+2022-04-22 23:47:20.270,"[0m[1meu-central-1[0m - [mEC2Image[0m - [1mami-0b4d48949c448fdd3[0m - [31mfailed
+"
+
+2022-04-22 23:47:20.162,"[0m[1meu-central-1[0m - [mEC2Image[0m - [1mami-0b423e8daedf59318[0m - [31mfailed
+"
+
+2022-04-22 23:47:20.004,"[0m[1meu-central-1[0m - [mEC2Image[0m - [1mami-0b39b8c90af07cf03[0m - [31mfailed
+"
+
+2022-04-22 23:47:19.119,"[0m[1meu-central-1[0m - [mEC2Image[0m - [1mami-0b26bfc1acb9159c3[0m - [31mfailed
+"
+
+2022-04-22 23:47:19.024,"[0m[1meu-central-1[0m - [mEC2Image[0m - [1mami-0ad463c8d672a38db[0m - [31mfailed
+"
+
+2022-04-22 23:47:18.925,"[0m[1meu-central-1[0m - [mEC2Image[0m - [1mami-0acd12866f4dcbba3[0m - [31mfailed
+"
+
+2022-04-22 23:47:17.945,"[0m[1meu-central-1[0m - [mEC2Image[0m - [1mami-0a992fee2ee1f318e[0m - [31mfailed
+"
+
+2022-04-22 23:47:17.859,"[0m[1meu-central-1[0m - [mEC2Image[0m - [1mami-0a6b257f8a73d6e72[0m - [31mfailed
+"
+
+2022-04-22 23:47:17.776,"[0m[1meu-central-1[0m - [mEC2Image[0m - [1mami-0a418c7b43a0afac5[0m - [31mfailed
+"
+
+2022-04-22 23:47:17.691,"[0m[1meu-central-1[0m - [mEC2Image[0m - [1mami-09e81c22e884738fb[0m - [31mfailed
+"
+
+2022-04-22 23:47:17.606,"[0m[1meu-central-1[0m - [mEC2Image[0m - [1mami-09cea9401a0012ecc[0m - [31mfailed
+"
+
+2022-04-22 23:47:17.505,"[0m[1meu-central-1[0m - [mEC2Image[0m - [1mami-09bcf2ed3ede3e169[0m - [31mfailed
+"
+
+2022-04-22 23:47:17.403,"[0m[1meu-central-1[0m - [mEC2Image[0m - [1mami-09624c4bbb0e7abaa[0m - [31mfailed
+"
+
+2022-04-22 23:47:17.318,"[0m[1meu-central-1[0m - [mEC2Image[0m - [1mami-095f8d60fb0ba3d25[0m - [31mfailed
+"
+
+2022-04-22 23:47:17.235,"[0m[1meu-central-1[0m - [mEC2Image[0m - [1mami-095597cadc1e3e814[0m - [31mfailed
+"
+
+2022-04-22 23:47:17.151,"[0m[1meu-central-1[0m - [mEC2Image[0m - [1mami-08f85925a3ea2e769[0m - [31mfailed
+"
+
+2022-04-22 23:47:17.046,"[0m[1meu-central-1[0m - [mEC2Image[0m - [1mami-08ee8ab93dc557372[0m - [31mfailed
+"
+
+2022-04-22 23:47:16.931,"[0m[1meu-central-1[0m - [mEC2Image[0m - [1mami-08e7dba7163b3efe2[0m - [31mfailed
+"
+
+2022-04-22 23:47:16.830,"[0m[1meu-central-1[0m - [mEC2Image[0m - [1mami-08e43e7c4c32e766c[0m - [31mfailed
+"
+
+2022-04-22 23:47:15.969,"[0m[1meu-central-1[0m - [mEC2Image[0m - [1mami-08e012731f9efa85c[0m - [31mfailed
+"
+
+2022-04-22 23:47:15.864,"[0m[1meu-central-1[0m - [mEC2Image[0m - [1mami-08ae10ae90df4e9cf[0m - [31mfailed
+"
+
+2022-04-22 23:47:15.762,"[0m[1meu-central-1[0m - [mEC2Image[0m - [1mami-08a9da9dc131c5872[0m - [31mfailed
+"
+
+2022-04-22 23:47:15.678,"[0m[1meu-central-1[0m - [mEC2Image[0m - [1mami-08953f2d0f257930e[0m - [31mfailed
+"
+
+2022-04-22 23:47:15.591,"[0m[1meu-central-1[0m - [mEC2Image[0m - [1mami-0879231e7b8d825b5[0m - [31mfailed
+"
+
+2022-04-22 23:47:15.491,"[0m[1meu-central-1[0m - [mEC2Image[0m - [1mami-0859366144fbda600[0m - [31mfailed
+"
+
+2022-04-22 23:47:15.402,"[0m[1meu-central-1[0m - [mEC2Image[0m - [1mami-0847b070b1c0f3057[0m - [31mfailed
+"
+
+2022-04-22 23:47:15.309,"[0m[1meu-central-1[0m - [mEC2Image[0m - [1mami-081acb688de7e35e2[0m - [31mfailed
+"
+
+2022-04-22 23:47:14.271,"[0m[1meu-central-1[0m - [mEC2Image[0m - [1mami-0812034df567eec0d[0m - [31mfailed
+"
+
+2022-04-22 23:47:14.187,"[0m[1meu-central-1[0m - [mEC2Image[0m - [1mami-07fc19126c3b0caf2[0m - [31mfailed
+"
+
+2022-04-22 23:47:14.099,"[0m[1meu-central-1[0m - [mEC2Image[0m - [1mami-07ebc4e0769195d97[0m - [31mfailed
+"
+
+2022-04-22 23:47:13.980,"[0m[1meu-central-1[0m - [mEC2Image[0m - [1mami-07d5a15697464bdbb[0m - [31mfailed
+"
+
+2022-04-22 23:47:13.886,"[0m[1meu-central-1[0m - [mEC2Image[0m - [1mami-07cbc7579044dc730[0m - [31mfailed
+"
+
+2022-04-22 23:47:13.788,"[0m[1meu-central-1[0m - [mEC2Image[0m - [1mami-07c6fb03dcf12c146[0m - [31mfailed
+"
+
+2022-04-22 23:47:13.697,"[0m[1meu-central-1[0m - [mEC2Image[0m - [1mami-07ad848344b720887[0m - [31mfailed
+"
+
+2022-04-22 23:47:12.776,"[0m[1meu-central-1[0m - [mEC2Image[0m - [1mami-079a818a1c08bf514[0m - [31mfailed
+"
+
+2022-04-22 23:47:12.696,"[0m[1meu-central-1[0m - [mEC2Image[0m - [1mami-0790875d3f133ea29[0m - [31mfailed
+"
+
+2022-04-22 23:47:12.606,"[0m[1meu-central-1[0m - [mEC2Image[0m - [1mami-07602da08c6df0899[0m - [31mfailed
+"
+
+2022-04-22 23:47:12.509,"[0m[1meu-central-1[0m - [mEC2Image[0m - [1mami-075f5ee7a59f5c8bc[0m - [31mfailed
+"
+
+2022-04-22 23:47:12.399,"[0m[1meu-central-1[0m - [mEC2Image[0m - [1mami-073e3a662e622f6d2[0m - [31mfailed
+"
+
+2022-04-22 23:47:11.599,"[0m[1meu-central-1[0m - [mEC2Image[0m - [1mami-06a4b11bfbf64ad28[0m - [31mfailed
+"
+
+2022-04-22 23:47:11.519,"[0m[1meu-central-1[0m - [mEC2Image[0m - [1mami-068c7227015cd86ad[0m - [31mfailed
+"
+
+2022-04-22 23:47:11.430,"[0m[1meu-central-1[0m - [mEC2Image[0m - [1mami-0671cb16cee2eae3c[0m - [31mfailed
+"
+
+2022-04-22 23:47:11.342,"[0m[1meu-central-1[0m - [mEC2Image[0m - [1mami-064b171879cefc363[0m - [31mfailed
+"
+
+2022-04-22 23:47:11.244,"[0m[1meu-central-1[0m - [mEC2Image[0m - [1mami-06472abe3292eb115[0m - [31mfailed
+"
+
+2022-04-22 23:47:11.155,"[0m[1meu-central-1[0m - [mEC2Image[0m - [1mami-0633e3cd6ac205f44[0m - [31mfailed
+"
+
+2022-04-22 23:47:10.991,"[0m[1meu-central-1[0m - [mEC2Image[0m - [1mami-061909be0d62d4042[0m - [31mfailed
+"
+
+2022-04-22 23:47:10.903,"[0m[1meu-central-1[0m - [mEC2Image[0m - [1mami-0602fb00f5660cee3[0m - [31mfailed
+"
+
+2022-04-22 23:47:10.804,"[0m[1meu-central-1[0m - [mEC2Image[0m - [1mami-05e88c9178ebf7532[0m - [31mfailed
+"
+
+2022-04-22 23:47:10.713,"[0m[1meu-central-1[0m - [mEC2Image[0m - [1mami-05d4270a720a8b416[0m - [31mfailed
+"
+
+2022-04-22 23:47:10.630,"[0m[1meu-central-1[0m - [mEC2Image[0m - [1mami-05cac11b1b592123d[0m - [31mfailed
+"
+
+2022-04-22 23:47:10.537,"[0m[1meu-central-1[0m - [mEC2Image[0m - [1mami-05c76d7cc8dace9eb[0m - [31mfailed
+"
+
+2022-04-22 23:47:09.464,"[0m[1meu-central-1[0m - [mEC2Image[0m - [1mami-05acc1492365d81de[0m - [31mfailed
+"
+
+2022-04-22 23:47:09.368,"[0m[1meu-central-1[0m - [mEC2Image[0m - [1mami-05a835432311e8f5b[0m - [31mfailed
+"
+
+2022-04-22 23:47:09.278,"[0m[1meu-central-1[0m - [mEC2Image[0m - [1mami-057979718f1674de0[0m - [31mfailed
+"
+
+2022-04-22 23:47:09.162,"[0m[1meu-central-1[0m - [mEC2Image[0m - [1mami-053af1683add5170b[0m - [31mfailed
+"
+
+2022-04-22 23:47:09.057,"[0m[1meu-central-1[0m - [mEC2Image[0m - [1mami-05389425c392361ce[0m - [31mfailed
+"
+
+2022-04-22 23:47:08.969,"[0m[1meu-central-1[0m - [mEC2Image[0m - [1mami-05229c8be6e5425db[0m - [31mfailed
+"
+
+2022-04-22 23:47:08.873,"[0m[1meu-central-1[0m - [mEC2Image[0m - [1mami-051f741ba48be67af[0m - [31mfailed
+"
+
+2022-04-22 23:47:08.769,"[0m[1meu-central-1[0m - [mEC2Image[0m - [1mami-04f97b32963951dda[0m - [31mfailed
+"
+
+2022-04-22 23:47:08.684,"[0m[1meu-central-1[0m - [mEC2Image[0m - [1mami-04ebd20cc56e60bc1[0m - [31mfailed
+"
+
+2022-04-22 23:47:08.591,"[0m[1meu-central-1[0m - [mEC2Image[0m - [1mami-04ea9b41e1a06bfda[0m - [31mfailed
+"
+
+2022-04-22 23:47:08.496,"[0m[1meu-central-1[0m - [mEC2Image[0m - [1mami-04d5c40fc2a003a9d[0m - [31mfailed
+"
+
+2022-04-22 23:47:07.548,"[0m[1meu-central-1[0m - [mEC2Image[0m - [1mami-04d528b0099f5a698[0m - [31mfailed
+"
+
+2022-04-22 23:47:07.458,"[0m[1meu-central-1[0m - [mEC2Image[0m - [1mami-04cc3d8247ccd695e[0m - [31mfailed
+"
+
+2022-04-22 23:47:07.120,"[0m[1meu-central-1[0m - [mEC2Image[0m - [1mami-04be020d68637e979[0m - [31mfailed
+"
+
+2022-04-22 23:47:07.014,"[0m[1meu-central-1[0m - [mEC2Image[0m - [1mami-04a88c99608eb02cb[0m - [31mfailed
+"
+
+2022-04-22 23:47:06.889,"[0m[1meu-central-1[0m - [mEC2Image[0m - [1mami-04926e95c3839dc2d[0m - [31mfailed
+"
+
+2022-04-22 23:47:06.708,"[0m[1meu-central-1[0m - [mEC2Image[0m - [1mami-047261194dc0972fe[0m - [31mfailed
+"
+
+2022-04-22 23:47:06.610,"[0m[1meu-central-1[0m - [mEC2Image[0m - [1mami-0464d9032672ecda4[0m - [31mfailed
+"
+
+2022-04-22 23:47:06.516,"[0m[1meu-central-1[0m - [mEC2Image[0m - [1mami-04468e7f5ea621011[0m - [31mfailed
+"
+
+2022-04-22 23:47:06.430,"[0m[1meu-central-1[0m - [mEC2Image[0m - [1mami-03fba36832e15c573[0m - [31mfailed
+"
+
+2022-04-22 23:47:06.341,"[0m[1meu-central-1[0m - [mEC2Image[0m - [1mami-03ebbd19b9b15eebd[0m - [31mfailed
+"
+
+2022-04-22 23:47:06.254,"[0m[1meu-central-1[0m - [mEC2Image[0m - [1mami-03eacecdc63ec0c7c[0m - [31mfailed
+"
+
+2022-04-22 23:47:06.159,"[0m[1meu-central-1[0m - [mEC2Image[0m - [1mami-03e1ce766519e1337[0m - [31mfailed
+"
+
+2022-04-22 23:47:06.068,"[0m[1meu-central-1[0m - [mEC2Image[0m - [1mami-03d6b87c755b2477b[0m - [31mfailed
+"
+
+2022-04-22 23:47:05.978,"[0m[1meu-central-1[0m - [mEC2Image[0m - [1mami-03d17b898db9860f8[0m - [31mfailed
+"
+
+2022-04-22 23:47:05.882,"[0m[1meu-central-1[0m - [mEC2Image[0m - [1mami-03c94440ce88dd2e5[0m - [31mfailed
+"
+
+2022-04-22 23:47:05.791,"[0m[1meu-central-1[0m - [mEC2Image[0m - [1mami-03bb6fe9997d47a3c[0m - [31mfailed
+"
+
+2022-04-22 23:47:05.711,"[0m[1meu-central-1[0m - [mEC2Image[0m - [1mami-03a0409fc9548f3bd[0m - [31mfailed
+"
+
+2022-04-22 23:47:05.622,"[0m[1meu-central-1[0m - [mEC2Image[0m - [1mami-039623ae3d6c7ccf0[0m - [31mfailed
+"
+
+2022-04-22 23:47:05.538,"[0m[1meu-central-1[0m - [mEC2Image[0m - [1mami-038e8a88648abd9be[0m - [31mfailed
+"
+
+2022-04-22 23:47:05.453,"[0m[1meu-central-1[0m - [mEC2Image[0m - [1mami-038ab56f25e9872dc[0m - [31mfailed
+"
+
+2022-04-22 23:47:05.364,"[0m[1meu-central-1[0m - [mEC2Image[0m - [1mami-0386001a6514bd6d9[0m - [31mfailed
+"
+
+2022-04-22 23:47:05.278,"[0m[1meu-central-1[0m - [mEC2Image[0m - [1mami-0383f653d8213d002[0m - [31mfailed
+"
+
+2022-04-22 23:47:05.186,"[0m[1meu-central-1[0m - [mEC2Image[0m - [1mami-03811dd132e33681c[0m - [31mfailed
+"
+
+2022-04-22 23:47:05.081,"[0m[1meu-central-1[0m - [mEC2Image[0m - [1mami-0376936c32539cdd9[0m - [31mfailed
+"
+
+2022-04-22 23:47:04.962,"[0m[1meu-central-1[0m - [mEC2Image[0m - [1mami-037585cbf9852a3e1[0m - [31mfailed
+"
+
+2022-04-22 23:47:04.875,"[0m[1meu-central-1[0m - [mEC2Image[0m - [1mami-037391f53c8a9f270[0m - [31mfailed
+"
+
+2022-04-22 23:47:04.775,"[0m[1meu-central-1[0m - [mEC2Image[0m - [1mami-036b92fb1ef495a73[0m - [31mfailed
+"
+
+2022-04-22 23:47:04.694,"[0m[1meu-central-1[0m - [mEC2Image[0m - [1mami-035791f362e68e713[0m - [31mfailed
+"
+
+2022-04-22 23:47:04.605,"[0m[1meu-central-1[0m - [mEC2Image[0m - [1mami-034c9d63e62a362d7[0m - [31mfailed
+"
+
+2022-04-22 23:47:04.472,"[0m[1meu-central-1[0m - [mEC2Image[0m - [1mami-031c91bfe91f91867[0m - [31mfailed
+"
+
+2022-04-22 23:47:04.168,"[0m[1meu-central-1[0m - [mEC2Image[0m - [1mami-031af4afbc142b865[0m - [31mfailed
+"
+
+2022-04-22 23:47:04.087,"[0m[1meu-central-1[0m - [mEC2Image[0m - [1mami-0312f3fa1f2c9bd4c[0m - [31mfailed
+"
+
+2022-04-22 23:47:03.999,"[0m[1meu-central-1[0m - [mEC2Image[0m - [1mami-02e8e30d441309cec[0m - [31mfailed
+"
+
+2022-04-22 23:47:03.895,"[0m[1meu-central-1[0m - [mEC2Image[0m - [1mami-02e8a69273fa4b436[0m - [31mfailed
+"
+
+2022-04-22 23:47:03.793,"[0m[1meu-central-1[0m - [mEC2Image[0m - [1mami-02d469aa35b6c642c[0m - [31mfailed
+"
+
+2022-04-22 23:47:03.664,"[0m[1meu-central-1[0m - [mEC2Image[0m - [1mami-02c563f773b542c93[0m - [31mfailed
+"
+
+2022-04-22 23:47:03.579,"[0m[1meu-central-1[0m - [mEC2Image[0m - [1mami-02bdb1346aa0cf47f[0m - [31mfailed
+"
+
+2022-04-22 23:47:03.483,"[0m[1meu-central-1[0m - [mEC2Image[0m - [1mami-02b61666d2242f6ce[0m - [31mfailed
+"
+
+2022-04-22 23:47:03.374,"[0m[1meu-central-1[0m - [mEC2Image[0m - [1mami-02a35c484e718ee5c[0m - [31mfailed
+"
+
+2022-04-22 23:47:03.279,"[0m[1meu-central-1[0m - [mEC2Image[0m - [1mami-029003cbad0fc3d66[0m - [31mfailed
+"
+
+2022-04-22 23:47:03.178,"[0m[1meu-central-1[0m - [mEC2Image[0m - [1mami-027c33053887b3bd1[0m - [31mfailed
+"
+
+2022-04-22 23:47:03.089,"[0m[1meu-central-1[0m - [mEC2Image[0m - [1mami-025ccb0ffaa35b3ba[0m - [31mfailed
+"
+
+2022-04-22 23:47:03.001,"[0m[1meu-central-1[0m - [mEC2Image[0m - [1mami-02548ff6de416f71f[0m - [31mfailed
+"
+
+2022-04-22 23:47:02.887,"[0m[1meu-central-1[0m - [mEC2Image[0m - [1mami-022908d55049ec874[0m - [31mfailed
+"
+
+2022-04-22 23:47:02.802,"[0m[1meu-central-1[0m - [mEC2Image[0m - [1mami-0200935a25e63c161[0m - [31mfailed
+"
+
+2022-04-22 23:47:02.695,"[0m[1meu-central-1[0m - [mEC2Image[0m - [1mami-01fa8afeeb21f4f34[0m - [31mfailed
+"
+
+2022-04-22 23:47:02.600,"[0m[1meu-central-1[0m - [mEC2Image[0m - [1mami-01ccf70d40cf5ed0e[0m - [31mfailed
+"
+
+2022-04-22 23:47:02.493,"[0m[1meu-central-1[0m - [mEC2Image[0m - [1mami-0132e27f8c944f46f[0m - [31mfailed
+"
+
+2022-04-22 23:47:02.402,"[0m[1meu-central-1[0m - [mEC2Image[0m - [1mami-011bc19e5545193d0[0m - [31mfailed
+"
+
+2022-04-22 23:47:02.302,"[0m[1meu-central-1[0m - [mEC2Image[0m - [1mami-010780a551b099d95[0m - [31mfailed
+"
+
+2022-04-22 23:47:02.219,"[0m[1meu-central-1[0m - [mEC2Image[0m - [1mami-010391ac48bd746d7[0m - [31mfailed
+"
+
+2022-04-22 23:47:02.130,"[0m[1meu-central-1[0m - [mEC2Image[0m - [1mami-00e1cf2aa021c93fb[0m - [31mfailed
+"
+
+2022-04-22 23:47:02.032,"[0m[1meu-central-1[0m - [mEC2Image[0m - [1mami-00d15b5fe2d54cd76[0m - [31mfailed
+"
+
+2022-04-22 23:47:01.939,"[0m[1meu-central-1[0m - [mEC2Image[0m - [1mami-00ceadca96a51d801[0m - [31mfailed
+"
+
+2022-04-22 23:47:01.844,"[0m[1meu-central-1[0m - [mEC2Image[0m - [1mami-00c054ca68b13d846[0m - [31mfailed
+"
+
+2022-04-22 23:47:01.741,"[0m[1meu-central-1[0m - [mEC2Image[0m - [1mami-00b81318697109bf3[0m - [31mfailed
+"
+
+2022-04-22 23:47:01.645,"[0m[1meu-central-1[0m - [mEC2Image[0m - [1mami-00b2d5662917f06f2[0m - [31mfailed
+"
+
+2022-04-22 23:47:01.540,"[0m[1meu-central-1[0m - [mEC2Image[0m - [1mami-0086a7cbc7fe967e6[0m - [31mfailed
+"
+
+2022-04-22 23:47:01.373,"[0m[1meu-central-1[0m - [mEC2Image[0m - [1mami-005c2e47f44e1282f[0m - [31mfailed
+"
+
+2022-04-22 23:47:01.279,"[0m[1meu-central-1[0m - [mEC2Image[0m - [1mami-0058e99e50618250c[0m - [31mfailed
+"
+
+2022-04-22 23:47:01.188,"[0m[1meu-central-1[0m - [mEC2Image[0m - [1mami-005019ac95e253825[0m - [31mfailed
+"
+
+2022-04-22 23:47:01.094,"[0m[1meu-central-1[0m - [mEC2Image[0m - [1mami-000d907ea4a773d7a[0m - [31mfailed
+"
+
+2022-04-22 23:47:01.006,"[0m[1meu-central-1[0m - [mEC2Image[0m - [1mami-000765d164f9a4577[0m - [31mfailed
+"
+
+2022-04-22 23:47:00.710,"[0m[1meu-central-1[0m - [mEC2Subnet[0m - [1msubnet-06eaa3a92653a70c6[0m - [3m[tag:Name: ""advance-service-demo-subnet-public-1a"", DefaultForAz: ""false""][0m - [31mfailed
+"
+
+2022-04-22 23:47:00.416,"[0m[1meu-central-1[0m - [mCloudWatchEventsTarget[0m - [1mRule: AutoScalingManagedRule Target ID: autoscaling[0m - [31mfailed
+"
+
+2022-04-22 23:47:00.369,"[0m[1meu-central-1[0m - [mEC2NetworkInterface[0m - [3m[ID: ""eni-0b89a0c46578af989"", VPC: ""vpc-0803dcae174835ec2"", AvailabilityZone: ""eu-central-1a"", PrivateIPAddress: ""10.0.0.76"", SubnetID: ""subnet-025bd5b2674a07f3c"", Status: ""in-use""][0m - [31mfailed
+"
+
+2022-04-22 23:47:00.141,"[0m[1meu-central-1[0m - [mEC2NetworkInterface[0m - [3m[VPC: ""vpc-046faa1b5374c6cb0"", AvailabilityZone: ""eu-central-1a"", PrivateIPAddress: ""192.168.1.54"", SubnetID: ""subnet-02836069c345603c6"", Status: ""in-use"", ID: ""eni-03d414e2658d62e94""][0m - [31mfailed
+"
+
+2022-04-22 23:46:59.927,"[0m[1meu-central-1[0m - [mEC2NetworkInterface[0m - [3m[ID: ""eni-09fb28a2dae50509a"", VPC: ""vpc-046faa1b5374c6cb0"", AvailabilityZone: ""eu-central-1a"", PrivateIPAddress: ""192.168.0.23"", SubnetID: ""subnet-0037ddbe4a8f961ee"", Status: ""in-use""][0m - [31mfailed
+"
+
+2022-04-22 23:46:59.671,"[0m[1meu-central-1[0m - [mEC2NetworkInterface[0m - [3m[ID: ""eni-02d907f01f88f1575"", VPC: ""vpc-0ebcd67a241a3289b"", AvailabilityZone: ""eu-central-1c"", PrivateIPAddress: ""10.6.0.170"", SubnetID: ""subnet-0da1beda87723f338"", Status: ""in-use""][0m - [31mfailed
+"
+
+2022-04-22 23:46:59.421,"[0m[1meu-central-1[0m - [mEC2NetworkInterface[0m - [3m[SubnetID: ""subnet-02ee25f083ca15af2"", Status: ""in-use"", ID: ""eni-06c2ae23936d9085a"", VPC: ""vpc-0844cfc214aaa5aac"", AvailabilityZone: ""eu-central-1a"", PrivateIPAddress: ""192.168.0.204""][0m - [31mfailed
+"
+
+2022-04-22 23:46:59.155,"[0m[1meu-central-1[0m - [mEC2NetworkInterface[0m - [3m[ID: ""eni-0301bb581908ed843"", VPC: ""vpc-046faa1b5374c6cb0"", AvailabilityZone: ""eu-central-1a"", PrivateIPAddress: ""192.168.0.73"", SubnetID: ""subnet-0037ddbe4a8f961ee"", Status: ""in-use""][0m - [31mfailed
+"
+
+2022-04-22 23:46:58.867,"[0m[1meu-central-1[0m - [mEC2NetworkInterface[0m - [3m[ID: ""eni-07f5777cfe471bc08"", VPC: ""vpc-0ebcd67a241a3289b"", AvailabilityZone: ""eu-central-1c"", PrivateIPAddress: ""10.6.0.121"", SubnetID: ""subnet-0da1beda87723f338"", Status: ""in-use""][0m - [31mfailed
+"
+
+2022-04-22 23:46:58.559,"[0m[1meu-central-1[0m - [mEC2NetworkInterface[0m - [3m[ID: ""eni-0125fe94e13fcfc7a"", VPC: ""vpc-046336774cba7c8a8"", AvailabilityZone: ""eu-central-1a"", PrivateIPAddress: ""172.16.0.162"", SubnetID: ""subnet-0376d142c2d59ba39"", Status: ""in-use""][0m - [31mfailed
+"
+
+2022-04-22 23:46:58.280,"[0m[1meu-central-1[0m - [mEC2NetworkInterface[0m - [3m[SubnetID: ""subnet-081f8de28bcbd09c9"", Status: ""in-use"", ID: ""eni-02bcb3d622d0e36ce"", VPC: ""vpc-046336774cba7c8a8"", AvailabilityZone: ""eu-central-1b"", PrivateIPAddress: ""172.16.1.154""][0m - [31mfailed
+"
+
+2022-04-22 23:46:58.032,"[0m[1meu-central-1[0m - [mEC2NetworkInterface[0m - [3m[ID: ""eni-046d44ee618446626"", VPC: ""vpc-061a26a6ae57ae3c2"", AvailabilityZone: ""eu-central-1a"", PrivateIPAddress: ""198.10.1.10"", SubnetID: ""subnet-06eaa3a92653a70c6"", Status: ""in-use""][0m - [31mfailed
+"
+
+2022-04-22 23:46:57.573,"[0m[1meu-central-1[0m - [mEC2NetworkInterface[0m - [3m[Status: ""in-use"", ID: ""eni-0dffafe22f58c20fe"", VPC: ""vpc-090045918e6a49e99"", AvailabilityZone: ""eu-central-1a"", PrivateIPAddress: ""192.168.3.168"", SubnetID: ""subnet-002a9eb4503e10471""][0m - [31mfailed
+"
+
+2022-04-22 23:46:57.302,"[0m[1meu-central-1[0m - [mEC2NetworkInterface[0m - [3m[Status: ""in-use"", ID: ""eni-0191b844cd8eecab2"", VPC: ""vpc-046faa1b5374c6cb0"", AvailabilityZone: ""eu-central-1a"", PrivateIPAddress: ""192.168.0.14"", SubnetID: ""subnet-0037ddbe4a8f961ee""][0m - [31mfailed
+"
+
+2022-04-22 23:46:57.088,"[0m[1meu-central-1[0m - [mEC2NetworkInterface[0m - [3m[VPC: ""vpc-0803dcae174835ec2"", AvailabilityZone: ""eu-central-1a"", PrivateIPAddress: ""10.0.1.123"", SubnetID: ""subnet-0d179630d507e97cd"", Status: ""in-use"", ID: ""eni-0fa75158e1b011f97""][0m - [31mfailed
+"
+
+2022-04-22 23:46:56.807,"[0m[1meu-central-1[0m - [mEC2NetworkInterface[0m - [3m[AvailabilityZone: ""eu-central-1a"", PrivateIPAddress: ""192.168.0.149"", SubnetID: ""subnet-0037ddbe4a8f961ee"", Status: ""in-use"", ID: ""eni-0701f74f3d0f4c8fe"", VPC: ""vpc-046faa1b5374c6cb0""][0m - [31mfailed
+"
+
+2022-04-22 23:46:56.549,"[0m[1meu-central-1[0m - [mEC2NetworkInterface[0m - [3m[VPC: ""vpc-0803dcae174835ec2"", AvailabilityZone: ""eu-central-1a"", PrivateIPAddress: ""10.0.0.231"", SubnetID: ""subnet-025bd5b2674a07f3c"", Status: ""in-use"", ID: ""eni-0b457d4facde28f4d""][0m - [31mfailed
+"
+
+2022-04-22 23:46:56.290,"[0m[1meu-central-1[0m - [mEC2NetworkInterface[0m - [3m[Status: ""in-use"", ID: ""eni-0687a04438a95b5b4"", VPC: ""vpc-0b19dc840fd2b5b03"", AvailabilityZone: ""eu-central-1c"", PrivateIPAddress: ""10.0.0.148"", SubnetID: ""subnet-0b08c9fd8bb342e68""][0m - [31mfailed
+"
+
+2022-04-22 23:46:55.955,"[0m[1meu-central-1[0m - [mEC2RouteTable[0m - [1mrtb-00157d9b6767d11f5[0m - [3m[][0m - [31mfailed
+"
+
+2022-04-22 23:46:55.876,"[0m[1meu-central-1[0m - [mEC2RouteTable[0m - [1mrtb-08f8e54720ad1b5f3[0m - [3m[tag:Name: ""advanced-service-demo-public-rt""][0m - [31mfailed
+"
+
+2022-04-22 23:46:55.786,"[0m[1meu-central-1[0m - [mEC2RouteTable[0m - [1mrtb-05c022848fdc7a866[0m - [3m[][0m - [31mfailed
+"
+
+2022-04-22 23:46:55.698,"[0m[1meu-central-1[0m - [mEC2RouteTable[0m - [1mrtb-038108dc92f763483[0m - [3m[tag:Name: ""rzsoter-eks-mvp-def""][0m - [31mfailed
+"
+
+2022-04-22 23:46:55.618,"[0m[1meu-central-1[0m - [mEC2RouteTable[0m - [1mrtb-099e97cff7df32fdc[0m - [3m[][0m - [31mfailed
+"
+
+2022-04-22 23:46:55.468,"[0m[1meu-central-1[0m - [mEC2VPC[0m - [1mvpc-061a26a6ae57ae3c2[0m - [3m[tag:Name: ""advanced-service-demo-VPC"", ID: ""vpc-061a26a6ae57ae3c2"", IsDefault: ""false""][0m - [31mfailed
+"
+
+2022-04-22 23:46:55.283,"[0m[1meu-central-1[0m - [mEC2Snapshot[0m - [1msnap-01a8ab8b9b0154c73[0m - [31mfailed
+"
+
+2022-04-22 23:46:55.238,"[0m[1meu-central-1[0m - [mEC2Snapshot[0m - [1msnap-00dbb97453a329c80[0m - [31mfailed
+"
+
+2022-04-22 23:46:55.191,"[0m[1meu-central-1[0m - [mEC2Snapshot[0m - [1msnap-01ffabaa6d1656170[0m - [31mfailed
+"
+
+2022-04-22 23:46:55.141,"[0m[1meu-central-1[0m - [mEC2Snapshot[0m - [1msnap-05d93400da8894ca7[0m - [31mfailed
+"
+
+2022-04-22 23:46:55.094,"[0m[1meu-central-1[0m - [mEC2Snapshot[0m - [1msnap-02a416c69ecebc870[0m - [31mfailed
+"
+
+2022-04-22 23:46:55.048,"[0m[1meu-central-1[0m - [mEC2Snapshot[0m - [1msnap-012dae84098cbbeee[0m - [31mfailed
+"
+
+2022-04-22 23:46:54.993,"[0m[1meu-central-1[0m - [mEC2Snapshot[0m - [1msnap-000cf26b16c9fd137[0m - [31mfailed
+"
+
+2022-04-22 23:46:54.949,"[0m[1meu-central-1[0m - [mEC2Snapshot[0m - [1msnap-0c3d389739ca4cc28[0m - [31mfailed
+"
+
+2022-04-22 23:46:54.903,"[0m[1meu-central-1[0m - [mEC2Snapshot[0m - [1msnap-06ed96db0476c9b70[0m - [31mfailed
+"
+
+2022-04-22 23:46:54.857,"[0m[1meu-central-1[0m - [mEC2Snapshot[0m - [1msnap-086546c8a11f7b804[0m - [31mfailed
+"
+
+2022-04-22 23:46:54.810,"[0m[1meu-central-1[0m - [mEC2Snapshot[0m - [1msnap-0bf704fe114342b1e[0m - [31mfailed
+"
+
+2022-04-22 23:46:54.765,"[0m[1meu-central-1[0m - [mEC2Snapshot[0m - [1msnap-06f07105a1ef2905c[0m - [31mfailed
+"
+
+2022-04-22 23:46:54.706,"[0m[1meu-central-1[0m - [mEC2Snapshot[0m - [1msnap-0178d4fadf5a3fb97[0m - [31mfailed
+"
+
+2022-04-22 23:46:54.661,"[0m[1meu-central-1[0m - [mEC2Snapshot[0m - [1msnap-06381949333bca3f7[0m - [31mfailed
+"
+
+2022-04-22 23:46:54.616,"[0m[1meu-central-1[0m - [mEC2Snapshot[0m - [1msnap-0c1a8df3a78ae6681[0m - [31mfailed
+"
+
+2022-04-22 23:46:54.571,"[0m[1meu-central-1[0m - [mEC2Snapshot[0m - [1msnap-09950193ffe1debb2[0m - [31mfailed
+"
+
+2022-04-22 23:46:54.530,"[0m[1meu-central-1[0m - [mEC2Snapshot[0m - [1msnap-0191f75e53236b627[0m - [31mfailed
+"
+
+2022-04-22 23:46:54.485,"[0m[1meu-central-1[0m - [mEC2Snapshot[0m - [1msnap-0b7d699b316f7f7e7[0m - [31mfailed
+"
+
+2022-04-22 23:46:54.436,"[0m[1meu-central-1[0m - [mEC2Snapshot[0m - [1msnap-0f648298add1be79b[0m - [31mfailed
+"
+
+2022-04-22 23:46:54.390,"[0m[1meu-central-1[0m - [mEC2Snapshot[0m - [1msnap-0c142773880046cff[0m - [31mfailed
+"
+
+2022-04-22 23:46:54.345,"[0m[1meu-central-1[0m - [mEC2Snapshot[0m - [1msnap-08d34bfe3918eadcb[0m - [31mfailed
+"
+
+2022-04-22 23:46:54.300,"[0m[1meu-central-1[0m - [mEC2Snapshot[0m - [1msnap-00ebf100b1bc9f13b[0m - [31mfailed
+"
+
+2022-04-22 23:46:54.250,"[0m[1meu-central-1[0m - [mEC2Snapshot[0m - [1msnap-0e3e01b81cecbf18f[0m - [31mfailed
+"
+
+2022-04-22 23:46:54.201,"[0m[1meu-central-1[0m - [mEC2Snapshot[0m - [1msnap-084fbb9b40b6a9861[0m - [31mfailed
+"
+
+2022-04-22 23:46:54.148,"[0m[1meu-central-1[0m - [mEC2Snapshot[0m - [1msnap-09a2d403f609ea1a6[0m - [31mfailed
+"
+
+2022-04-22 23:46:54.100,"[0m[1meu-central-1[0m - [mEC2Snapshot[0m - [1msnap-063d6edcabd4d26f1[0m - [31mfailed
+"
+
+2022-04-22 23:46:54.053,"[0m[1meu-central-1[0m - [mEC2Snapshot[0m - [1msnap-02846e547a95e0ea0[0m - [31mfailed
+"
+
+2022-04-22 23:46:54.007,"[0m[1meu-central-1[0m - [mEC2Snapshot[0m - [1msnap-0dbce3fd7808bd8e7[0m - [31mfailed
+"
+
+2022-04-22 23:46:53.963,"[0m[1meu-central-1[0m - [mEC2Snapshot[0m - [1msnap-000731137a98eb949[0m - [31mfailed
+"
+
+2022-04-22 23:46:53.911,"[0m[1meu-central-1[0m - [mCloudTrailTrail[0m - [1mTSI_test_001[0m - [31mfailed
+"
+
+2022-04-22 23:46:53.884,"[0m[1meu-central-1[0m - [mCloudTrailTrail[0m - [1mTSI_Base_Trail[0m - [31mfailed
+"
+
+2022-04-22 23:46:53.856,"[0m[1meu-central-1[0m - [mEC2Snapshot[0m - [1msnap-0b0ec7722ffdfac87[0m - [31mfailed
+"
+
+2022-04-22 23:46:53.760,"[0m[1meu-central-1[0m - [mEC2Snapshot[0m - [1msnap-064aea87cf6d9f83c[0m - [31mfailed
+"
+
+2022-04-22 23:46:53.708,"[0m[1meu-central-1[0m - [mEC2Snapshot[0m - [1msnap-040c086cd07626c2b[0m - [31mfailed
+"
+
+2022-04-22 23:46:53.630,"[0m[1meu-central-1[0m - [mEC2Snapshot[0m - [1msnap-07ca21f3258af58f2[0m - [31mfailed
+"
+
+2022-04-22 23:46:53.587,"[0m[1meu-central-1[0m - [mEC2Snapshot[0m - [1msnap-033a1aaa2a241174b[0m - [31mfailed
+"
+
+2022-04-22 23:46:53.528,"[0m[1meu-central-1[0m - [mEC2Snapshot[0m - [1msnap-02217aabcf9be56fa[0m - [31mfailed
+"
+
+2022-04-22 23:46:53.475,"[0m[1meu-central-1[0m - [mEC2Snapshot[0m - [1msnap-001b49fa7a4cb2b61[0m - [31mfailed
+"
+
+2022-04-22 23:46:53.403,"[0m[1meu-central-1[0m - [mEC2Snapshot[0m - [1msnap-00e10de9ea0bee389[0m - [31mfailed
+"
+
+2022-04-22 23:46:53.355,"[0m[1meu-central-1[0m - [mEC2Snapshot[0m - [1msnap-0d705870090cf198d[0m - [31mfailed
+"
+
+2022-04-22 23:46:53.308,"[0m[1meu-central-1[0m - [mEC2Snapshot[0m - [1msnap-0c5c1d8ac94088ad2[0m - [31mfailed
+"
+
+2022-04-22 23:46:53.262,"[0m[1meu-central-1[0m - [mEC2Snapshot[0m - [1msnap-05322134c35d9ea2d[0m - [31mfailed
+"
+
+2022-04-22 23:46:53.214,"[0m[1meu-central-1[0m - [mEC2Snapshot[0m - [1msnap-0c322a27be093aa50[0m - [31mfailed
+"
+
+2022-04-22 23:46:53.166,"[0m[1meu-central-1[0m - [mEC2Snapshot[0m - [1msnap-0fae4c2228960ab3d[0m - [31mfailed
+"
+
+2022-04-22 23:46:53.109,"[0m[1meu-central-1[0m - [mEC2Snapshot[0m - [1msnap-00ebdf45de14f7ee6[0m - [31mfailed
+"
+
+2022-04-22 23:46:53.015,"[0m[1meu-central-1[0m - [mEC2Snapshot[0m - [1msnap-0894a5736bff2f547[0m - [31mfailed
+"
+
+2022-04-22 23:46:52.962,"[0m[1meu-central-1[0m - [mEC2Snapshot[0m - [1msnap-04fec78a0eef81f1a[0m - [31mfailed
+"
+
+2022-04-22 23:46:52.918,"[0m[1meu-central-1[0m - [mEC2Snapshot[0m - [1msnap-03fcfa74aaa7a90b3[0m - [31mfailed
+"
+
+2022-04-22 23:46:52.875,"[0m[1meu-central-1[0m - [mEC2Snapshot[0m - [1msnap-07c1c40873d2ca5f8[0m - [31mfailed
+"
+
+2022-04-22 23:46:52.822,"[0m[1meu-central-1[0m - [mEC2Snapshot[0m - [1msnap-0ebd13610565c9311[0m - [31mfailed
+"
+
+2022-04-22 23:46:52.775,"[0m[1meu-central-1[0m - [mEC2Snapshot[0m - [1msnap-0e7d3f93122baf219[0m - [31mfailed
+"
+
+2022-04-22 23:46:52.730,"[0m[1meu-central-1[0m - [mEC2Snapshot[0m - [1msnap-034f4339339b50a66[0m - [31mfailed
+"
+
+2022-04-22 23:46:52.683,"[0m[1meu-central-1[0m - [mEC2Snapshot[0m - [1msnap-0f68363068c32318d[0m - [31mfailed
+"
+
+2022-04-22 23:46:52.635,"[0m[1meu-central-1[0m - [mEC2Snapshot[0m - [1msnap-0b3f195c92525e6fa[0m - [31mfailed
+"
+
+2022-04-22 23:46:52.558,"[0m[1meu-central-1[0m - [mEC2Snapshot[0m - [1msnap-05dc1e9c4ef8decca[0m - [31mfailed
+"
+
+2022-04-22 23:46:52.488,"[0m[1meu-central-1[0m - [mEC2Snapshot[0m - [1msnap-09d16b3197824adf4[0m - [31mfailed
+"
+
+2022-04-22 23:46:52.407,"[0m[1meu-central-1[0m - [mEC2Snapshot[0m - [1msnap-0a5c4fb5d8edbf797[0m - [31mfailed
+"
+
+2022-04-22 23:46:52.357,"[0m[1meu-central-1[0m - [mEC2Snapshot[0m - [1msnap-044f0244d9cbedda7[0m - [31mfailed
+"
+
+2022-04-22 23:46:52.306,"[0m[1meu-central-1[0m - [mEC2Snapshot[0m - [1msnap-04005100ce93fd9d6[0m - [31mfailed
+"
+
+2022-04-22 23:46:52.261,"[0m[1meu-central-1[0m - [mEC2Snapshot[0m - [1msnap-0f874372164de15a4[0m - [31mfailed
+"
+
+2022-04-22 23:46:52.218,"[0m[1meu-central-1[0m - [mEC2Snapshot[0m - [1msnap-02fb55d9e30b29506[0m - [31mfailed
+"
+
+2022-04-22 23:46:52.141,"[0m[1meu-central-1[0m - [mEC2Snapshot[0m - [1msnap-067b05da97b576364[0m - [31mfailed
+"
+
+2022-04-22 23:46:52.094,"[0m[1meu-central-1[0m - [mEC2Snapshot[0m - [1msnap-0c0a66ce54a45600d[0m - [31mfailed
+"
+
+2022-04-22 23:46:52.049,"[0m[1meu-central-1[0m - [mEC2Snapshot[0m - [1msnap-0590b91a697b3d9a1[0m - [31mfailed
+"
+
+2022-04-22 23:46:52.002,"[0m[1meu-central-1[0m - [mEC2Snapshot[0m - [1msnap-08e7ed57bef1e278e[0m - [31mfailed
+"
+
+2022-04-22 23:46:51.941,"[0m[1meu-central-1[0m - [mEC2Snapshot[0m - [1msnap-08d0a6dd3f4729bd2[0m - [31mfailed
+"
+
+2022-04-22 23:46:51.896,"[0m[1meu-central-1[0m - [mEC2Snapshot[0m - [1msnap-012679a76e2d949b5[0m - [31mfailed
+"
+
+2022-04-22 23:46:51.849,"[0m[1meu-central-1[0m - [mEC2Snapshot[0m - [1msnap-03115ddf869780b2a[0m - [31mfailed
+"
+
+2022-04-22 23:46:51.803,"[0m[1meu-central-1[0m - [mEC2Snapshot[0m - [1msnap-0006df5df348f2a20[0m - [31mfailed
+"
+
+2022-04-22 23:46:51.757,"[0m[1meu-central-1[0m - [mEC2Snapshot[0m - [1msnap-0c469d915f12fcbf1[0m - [31mfailed
+"
+
+2022-04-22 23:46:51.708,"[0m[1meu-central-1[0m - [mEC2Snapshot[0m - [1msnap-058c45937ffb1af9e[0m - [31mfailed
+"
+
+2022-04-22 23:46:51.661,"[0m[1meu-central-1[0m - [mEC2Snapshot[0m - [1msnap-0f61dc7d1d7d3def4[0m - [31mfailed
+"
+
+2022-04-22 23:46:51.616,"[0m[1meu-central-1[0m - [mEC2Snapshot[0m - [1msnap-0bb841c3f6ea213a6[0m - [31mfailed
+"
+
+2022-04-22 23:46:51.569,"[0m[1meu-central-1[0m - [mEC2Snapshot[0m - [1msnap-0ee3cec0431be91be[0m - [31mfailed
+"
+
+2022-04-22 23:46:51.526,"[0m[1meu-central-1[0m - [mEC2Snapshot[0m - [1msnap-0e076f8f01e5cb57b[0m - [31mfailed
+"
+
+2022-04-22 23:46:51.438,"[0m[1meu-central-1[0m - [mEC2Snapshot[0m - [1msnap-024cd48acabec7cbe[0m - [31mfailed
+"
+
+2022-04-22 23:46:51.395,"[0m[1meu-central-1[0m - [mEC2Snapshot[0m - [1msnap-081d7206d47ba07ee[0m - [31mfailed
+"
+
+2022-04-22 23:46:51.347,"[0m[1meu-central-1[0m - [mEC2Snapshot[0m - [1msnap-0fcf39b7184c953b3[0m - [31mfailed
+"
+
+2022-04-22 23:46:51.299,"[0m[1meu-central-1[0m - [mEC2Snapshot[0m - [1msnap-0673840047d01ebcf[0m - [31mfailed
+"
+
+2022-04-22 23:46:51.250,"[0m[1meu-central-1[0m - [mEC2Snapshot[0m - [1msnap-0c56da47f067628e4[0m - [31mfailed
+"
+
+2022-04-22 23:46:51.202,"[0m[1meu-central-1[0m - [mEC2Snapshot[0m - [1msnap-083637c1cfce8661a[0m - [31mfailed
+"
+
+2022-04-22 23:46:51.154,"[0m[1meu-central-1[0m - [mEC2Snapshot[0m - [1msnap-0e0affe13929dd0a3[0m - [31mfailed
+"
+
+2022-04-22 23:46:51.107,"[0m[1meu-central-1[0m - [mEC2Snapshot[0m - [1msnap-068d3cc487505ae8a[0m - [31mfailed
+"
+
+2022-04-22 23:46:51.063,"[0m[1meu-central-1[0m - [mEC2Snapshot[0m - [1msnap-0389a3f57b4663c71[0m - [31mfailed
+"
+
+2022-04-22 23:46:51.018,"[0m[1meu-central-1[0m - [mEC2Snapshot[0m - [1msnap-09e00318268307941[0m - [31mfailed
+"
+
+2022-04-22 23:46:50.968,"[0m[1meu-central-1[0m - [mEC2Snapshot[0m - [1msnap-05d20c47d9fa66cb9[0m - [31mfailed
+"
+
+2022-04-22 23:46:50.916,"[0m[1meu-central-1[0m - [mEC2Snapshot[0m - [1msnap-0e515684a9c855dff[0m - [31mfailed
+"
+
+2022-04-22 23:46:50.872,"[0m[1meu-central-1[0m - [mEC2Snapshot[0m - [1msnap-07118795718795d62[0m - [31mfailed
+"
+
+2022-04-22 23:46:50.826,"[0m[1meu-central-1[0m - [mEC2Snapshot[0m - [1msnap-0acd77029a64501f1[0m - [31mfailed
+"
+
+2022-04-22 23:46:50.782,"[0m[1meu-central-1[0m - [mEC2Snapshot[0m - [1msnap-097b2b9e309135cd8[0m - [31mfailed
+"
+
+2022-04-22 23:46:50.736,"[0m[1meu-central-1[0m - [mEC2Snapshot[0m - [1msnap-071a12388326a9379[0m - [31mfailed
+"
+
+2022-04-22 23:46:50.690,"[0m[1meu-central-1[0m - [mEC2Snapshot[0m - [1msnap-0103771d6d74b4ba5[0m - [31mfailed
+"
+
+2022-04-22 23:46:50.615,"[0m[1meu-central-1[0m - [mEC2Snapshot[0m - [1msnap-0cfb91c0f6bdde021[0m - [31mfailed
+"
+
+2022-04-22 23:46:50.565,"[0m[1meu-central-1[0m - [mEC2Snapshot[0m - [1msnap-0aa1120dd4db316d2[0m - [31mfailed
+"
+
+2022-04-22 23:46:50.519,"[0m[1meu-central-1[0m - [mEC2Snapshot[0m - [1msnap-0b284473bafa1f2ce[0m - [31mfailed
+"
+
+2022-04-22 23:46:50.471,"[0m[1meu-central-1[0m - [mEC2Snapshot[0m - [1msnap-04f45c7cfbc172be1[0m - [31mfailed
+"
+
+2022-04-22 23:46:50.422,"[0m[1meu-central-1[0m - [mEC2Snapshot[0m - [1msnap-05d6f86d54b6b8fb1[0m - [31mfailed
+"
+
+2022-04-22 23:46:50.374,"[0m[1meu-central-1[0m - [mEC2Snapshot[0m - [1msnap-0d6951ddfcbaa8111[0m - [31mfailed
+"
+
+2022-04-22 23:46:50.331,"[0m[1meu-central-1[0m - [mEC2Snapshot[0m - [1msnap-08218cfe0e7306549[0m - [31mfailed
+"
+
+2022-04-22 23:46:50.108,"[0m[1meu-central-1[0m - [mEC2Snapshot[0m - [1msnap-06fd118a6ba9e5915[0m - [31mfailed
+"
+
+2022-04-22 23:46:50.058,"[0m[1meu-central-1[0m - [mEC2Snapshot[0m - [1msnap-0d509658e255289f6[0m - [31mfailed
+"
+
+2022-04-22 23:46:50.006,"[0m[1meu-central-1[0m - [mEC2Snapshot[0m - [1msnap-0e414b0397bc72af3[0m - [31mfailed
+"
+
+2022-04-22 23:46:49.954,"[0m[1meu-central-1[0m - [mEC2Snapshot[0m - [1msnap-067c5552552fd2ad8[0m - [31mfailed
+"
+
+2022-04-22 23:46:49.905,"[0m[1meu-central-1[0m - [mEC2Snapshot[0m - [1msnap-0bb04906ac8a3d792[0m - [31mfailed
+"
+
+2022-04-22 23:46:49.860,"[0m[1meu-central-1[0m - [mEC2Snapshot[0m - [1msnap-0c3529b23e28374f0[0m - [31mfailed
+"
+
+2022-04-22 23:46:49.814,"[0m[1meu-central-1[0m - [mEC2Snapshot[0m - [1msnap-02a7101119622cb6e[0m - [31mfailed
+"
+
+2022-04-22 23:46:49.763,"[0m[1meu-central-1[0m - [mEC2Snapshot[0m - [1msnap-009c02405ded761aa[0m - [31mfailed
+"
+
+2022-04-22 23:46:49.715,"[0m[1meu-central-1[0m - [mEC2Snapshot[0m - [1msnap-0353e60ad636aa880[0m - [31mfailed
+"
+
+2022-04-22 23:46:49.668,"[0m[1meu-central-1[0m - [mEC2Snapshot[0m - [1msnap-0d83a000bf7d05668[0m - [31mfailed
+"
+
+2022-04-22 23:46:49.621,"[0m[1meu-central-1[0m - [mEC2Snapshot[0m - [1msnap-0c0deadaa933fb1b1[0m - [31mfailed
+"
+
+2022-04-22 23:46:49.570,"[0m[1meu-central-1[0m - [mEC2Snapshot[0m - [1msnap-0ab8616148dc0bced[0m - [31mfailed
+"
+
+2022-04-22 23:46:49.527,"[0m[1meu-central-1[0m - [mEC2Snapshot[0m - [1msnap-02da2f286109fadcb[0m - [31mfailed
+"
+
+2022-04-22 23:46:49.479,"[0m[1meu-central-1[0m - [mEC2Snapshot[0m - [1msnap-01f37451ef354cdc9[0m - [31mfailed
+"
+
+2022-04-22 23:46:49.432,"[0m[1meu-central-1[0m - [mEC2Snapshot[0m - [1msnap-03f64b4c384d548ea[0m - [31mfailed
+"
+
+2022-04-22 23:46:49.382,"[0m[1meu-central-1[0m - [mEC2Snapshot[0m - [1msnap-0fa988c2a4a185297[0m - [31mfailed
+"
+
+2022-04-22 23:46:49.334,"[0m[1meu-central-1[0m - [mEC2Snapshot[0m - [1msnap-07d399ab26226305a[0m - [31mfailed
+"
+
+2022-04-22 23:46:49.290,"[0m[1meu-central-1[0m - [mEC2Snapshot[0m - [1msnap-065719e94a01d7cbe[0m - [31mfailed
+"
+
+2022-04-22 23:46:49.245,"[0m[1meu-central-1[0m - [mEC2Snapshot[0m - [1msnap-0308b52dfb571d009[0m - [31mfailed
+"
+
+2022-04-22 23:46:49.202,"[0m[1meu-central-1[0m - [mEC2Snapshot[0m - [1msnap-0228a936148a19645[0m - [31mfailed
+"
+
+2022-04-22 23:46:49.155,"[0m[1meu-central-1[0m - [mEC2Snapshot[0m - [1msnap-0cb67570c7220f4ac[0m - [31mfailed
+"
+
+2022-04-22 23:46:49.072,"[0m[1meu-central-1[0m - [mEC2Snapshot[0m - [1msnap-0658200ef16eda550[0m - [31mfailed
+"
+
+2022-04-22 23:46:49.025,"[0m[1meu-central-1[0m - [mEC2Snapshot[0m - [1msnap-01bad1fa822c5aaeb[0m - [31mfailed
+"
+
+2022-04-22 23:46:48.979,"[0m[1meu-central-1[0m - [mEC2Snapshot[0m - [1msnap-0bb3f319711b37831[0m - [31mfailed
+"
+
+2022-04-22 23:46:48.932,"[0m[1meu-central-1[0m - [mEC2Snapshot[0m - [1msnap-00eb667408f9fcde9[0m - [31mfailed
+"
+
+2022-04-22 23:46:48.886,"[0m[1meu-central-1[0m - [mEC2Snapshot[0m - [1msnap-064ec79f2bde7f095[0m - [31mfailed
+"
+
+2022-04-22 23:46:48.840,"[0m[1meu-central-1[0m - [mEC2Snapshot[0m - [1msnap-0412b491ba9d6420e[0m - [31mfailed
+"
+
+2022-04-22 23:46:48.754,"[0m[1meu-central-1[0m - [mEC2Snapshot[0m - [1msnap-050164deb46c1a2e0[0m - [31mfailed
+"
+
+2022-04-22 23:46:48.673,"[0m[1meu-central-1[0m - [mEC2Snapshot[0m - [1msnap-0827636fd31e3b07d[0m - [31mfailed
+"
+
+2022-04-22 23:46:48.627,"[0m[1meu-central-1[0m - [mEC2Snapshot[0m - [1msnap-078e5fb76056490f3[0m - [31mfailed
+"
+
+2022-04-22 23:46:48.545,"[0m[1meu-central-1[0m - [mEC2Snapshot[0m - [1msnap-08799be6b308fe935[0m - [31mfailed
+"
+
+2022-04-22 23:46:48.470,"[0m[1meu-central-1[0m - [mEC2Snapshot[0m - [1msnap-039cc70d5d67b9882[0m - [31mfailed
+"
+
+2022-04-22 23:46:48.420,"[0m[1meu-central-1[0m - [mEC2Snapshot[0m - [1msnap-00994054f06df0fa0[0m - [31mfailed
+"
+
+2022-04-22 23:46:48.367,"[0m[1meu-central-1[0m - [mEC2Snapshot[0m - [1msnap-0938590b4eaf16613[0m - [31mfailed
+"
+
+2022-04-22 23:46:48.323,"[0m[1meu-central-1[0m - [mEC2Snapshot[0m - [1msnap-0cea7125d266c7d45[0m - [31mfailed
+"
+
+2022-04-22 23:46:48.278,"[0m[1meu-central-1[0m - [mEC2Snapshot[0m - [1msnap-0e9ce0467fcf11525[0m - [31mfailed
+"
+
+2022-04-22 23:46:48.191,"[0m[1meu-central-1[0m - [mEC2Snapshot[0m - [1msnap-0a81c2945e5f40a8a[0m - [31mfailed
+"
+
+2022-04-22 23:46:48.113,"[0m[1meu-central-1[0m - [mEC2Snapshot[0m - [1msnap-05e4c15095f6855db[0m - [31mfailed
+"
+
+2022-04-22 23:46:48.065,"[0m[1meu-central-1[0m - [mEC2Snapshot[0m - [1msnap-07500dd12fe8ed5eb[0m - [31mfailed
+"
+
+2022-04-22 23:46:48.012,"[0m[1meu-central-1[0m - [mEC2Snapshot[0m - [1msnap-081543a081f100368[0m - [31mfailed
+"
+
+2022-04-22 23:46:47.965,"[0m[1meu-central-1[0m - [mEC2Snapshot[0m - [1msnap-0764c1852cfbccae6[0m - [31mfailed
+"
+
+2022-04-22 23:46:47.918,"[0m[1meu-central-1[0m - [mEC2Snapshot[0m - [1msnap-0e82ab5799c19692b[0m - [31mfailed
+"
+
+2022-04-22 23:46:47.870,"[0m[1meu-central-1[0m - [mEC2Snapshot[0m - [1msnap-0dcda8f6d76f4b9bc[0m - [31mfailed
+"
+
+2022-04-22 23:46:47.824,"[0m[1meu-central-1[0m - [mEC2Snapshot[0m - [1msnap-09de8916bd20cdca8[0m - [31mfailed
+"
+
+2022-04-22 23:46:47.778,"[0m[1meu-central-1[0m - [mEC2Snapshot[0m - [1msnap-020646c7f959a1995[0m - [31mfailed
+"
+
+2022-04-22 23:46:47.731,"[0m[1meu-central-1[0m - [mEC2Snapshot[0m - [1msnap-09f5b7ec22537cce3[0m - [31mfailed
+"
+
+2022-04-22 23:46:47.681,"[0m[1meu-central-1[0m - [mEC2Snapshot[0m - [1msnap-0f883646f3cf62951[0m - [31mfailed
+"
+
+2022-04-22 23:46:47.635,"[0m[1meu-central-1[0m - [mEC2Snapshot[0m - [1msnap-03233236e2527f4ba[0m - [31mfailed
+"
+
+2022-04-22 23:46:47.591,"[0m[1meu-central-1[0m - [mEC2Snapshot[0m - [1msnap-0cf2886b3fbff6704[0m - [31mfailed
+"
+
+2022-04-22 23:46:47.543,"[0m[1meu-central-1[0m - [mEC2Snapshot[0m - [1msnap-03832845759f14910[0m - [31mfailed
+"
+
+2022-04-22 23:46:47.495,"[0m[1meu-central-1[0m - [mEC2Snapshot[0m - [1msnap-0408b4cf23461912b[0m - [31mfailed
+"
+
+2022-04-22 23:46:47.447,"[0m[1meu-central-1[0m - [mEC2Snapshot[0m - [1msnap-0a55de6ccea6166a5[0m - [31mfailed
+"
+
+2022-04-22 23:46:47.402,"[0m[1meu-central-1[0m - [mEC2Snapshot[0m - [1msnap-0b47474b24343ce6c[0m - [31mfailed
+"
+
+2022-04-22 23:46:47.356,"[0m[1meu-central-1[0m - [mEC2Snapshot[0m - [1msnap-02b6c481d34cdd530[0m - [31mfailed
+"
+
+2022-04-22 23:46:47.309,"[0m[1meu-central-1[0m - [mEC2Snapshot[0m - [1msnap-09d57a51db8794765[0m - [31mfailed
+"
+
+2022-04-22 23:46:47.263,"[0m[1meu-central-1[0m - [mEC2Snapshot[0m - [1msnap-0cda1a0740f8ab35a[0m - [31mfailed
+"
+
+2022-04-22 23:46:47.214,"[0m[1meu-central-1[0m - [mEC2Snapshot[0m - [1msnap-03dd5524bdd1b7209[0m - [31mfailed
+"
+
+2022-04-22 23:46:47.159,"[0m[1meu-central-1[0m - [mEC2Snapshot[0m - [1msnap-0445cfe181de18dbc[0m - [31mfailed
+"
+
+2022-04-22 23:46:47.110,"[0m[1meu-central-1[0m - [mEC2Snapshot[0m - [1msnap-00d42ee29f65c105f[0m - [31mfailed
+"
+
+2022-04-22 23:46:47.065,"[0m[1meu-central-1[0m - [mEC2Snapshot[0m - [1msnap-0e3da4bf0c4ea0e95[0m - [31mfailed
+"
+
+2022-04-22 23:46:47.021,"[0m[1meu-central-1[0m - [mEC2Snapshot[0m - [1msnap-01fc6643613553d1a[0m - [31mfailed
+"
+
+2022-04-22 23:46:46.874,"[0m[1meu-central-1[0m - [mEC2Snapshot[0m - [1msnap-09654ca24b4853e8f[0m - [31mfailed
+"
+
+2022-04-22 23:46:46.772,"[0m[1meu-central-1[0m - [mEC2Snapshot[0m - [1msnap-01ab8aadf4b8586c0[0m - [31mfailed
+"
+
+2022-04-22 23:46:46.724,"[0m[1meu-central-1[0m - [mEC2Snapshot[0m - [1msnap-0b763b4763b46a286[0m - [31mfailed
+"
+
+2022-04-22 23:46:46.670,"[0m[1meu-central-1[0m - [mEC2Snapshot[0m - [1msnap-00f7e64f22a2b3356[0m - [31mfailed
+"
+
+2022-04-22 23:46:46.623,"[0m[1meu-central-1[0m - [mEC2Snapshot[0m - [1msnap-0441983639eae1789[0m - [31mfailed
+"
+
+2022-04-22 23:46:46.579,"[0m[1meu-central-1[0m - [mEC2Snapshot[0m - [1msnap-020928771471befd7[0m - [31mfailed
+"
+
+2022-04-22 23:46:46.530,"[0m[1meu-central-1[0m - [mEC2Snapshot[0m - [1msnap-0105d3dcdfb615b89[0m - [31mfailed
+"
+
+2022-04-22 23:46:46.482,"[0m[1meu-central-1[0m - [mEC2Snapshot[0m - [1msnap-08caaeb3f817591d1[0m - [31mfailed
+"
+
+2022-04-22 23:46:46.428,"[0m[1meu-central-1[0m - [mEC2Snapshot[0m - [1msnap-029ad8998f1c7b17f[0m - [31mfailed
+"
+
+2022-04-22 23:46:46.379,"[0m[1meu-central-1[0m - [mEC2Snapshot[0m - [1msnap-07e89f04f2b723de6[0m - [31mfailed
+"
+
+2022-04-22 23:46:46.333,"[0m[1meu-central-1[0m - [mEC2Snapshot[0m - [1msnap-0dbca40afe92e3c24[0m - [31mfailed
+"
+
+2022-04-22 23:46:46.286,"[0m[1meu-central-1[0m - [mEC2Snapshot[0m - [1msnap-01165e928cdd5aee1[0m - [31mfailed
+"
+
+2022-04-22 23:46:46.237,"[0m[1meu-central-1[0m - [mEC2Snapshot[0m - [1msnap-0a4a0235df5733af4[0m - [31mfailed
+"
+
+2022-04-22 23:46:46.188,"[0m[1meu-central-1[0m - [mEC2Snapshot[0m - [1msnap-036171f602327c5a9[0m - [31mfailed
+"
+
+2022-04-22 23:46:46.144,"[0m[1meu-central-1[0m - [mEC2Snapshot[0m - [1msnap-0bf8c3a2a29cf1586[0m - [31mfailed
+"
+
+2022-04-22 23:46:46.097,"[0m[1meu-central-1[0m - [mEC2Snapshot[0m - [1msnap-0d11854c7e87d92b1[0m - [31mfailed
+"
+
+2022-04-22 23:46:46.039,"[0m[1meu-central-1[0m - [mEC2Snapshot[0m - [1msnap-0c04aed61bc44bf66[0m - [31mfailed
+"
+
+2022-04-22 23:46:45.996,"[0m[1meu-central-1[0m - [mEC2Snapshot[0m - [1msnap-0028148bb898fdafe[0m - [31mfailed
+"
+
+2022-04-22 23:46:45.824,"[0m[1meu-central-1[0m - [mEC2SecurityGroup[0m - [1msg-0ff936e22f58bd534[0m - [3m[Name: ""launch-wizard-4-linux-ssh""][0m - [31mfailed
+"
+
+2022-04-22 23:46:45.662,"[0m[1meu-central-1[0m - [mEC2SecurityGroup[0m - [1msg-0ee1a66584ff6ad0b[0m - [3m[Name: ""launch-wizard-6-test-win-rdp""][0m - [31mfailed
+"
+
+2022-04-22 23:46:45.487,"[0m[1meu-central-1[0m - [mEC2SecurityGroup[0m - [1msg-0a05c2d0894ca0d07[0m - [3m[Name: ""szab-usecase-bastion_sg""][0m - [31mfailed
+"
+
+2022-04-22 23:46:45.114,"[0m[1meu-central-1[0m - [mEC2SecurityGroup[0m - [1msg-06fba2f5f769ae461[0m - [3m[Name: ""rzsoter-A80819287-sg-linux-min""][0m - [31mfailed
+"
+
+2022-04-22 23:46:44.700,"[0m[1meu-central-1[0m - [mEC2SecurityGroup[0m - [1msg-04070cbd5f3fb0b01[0m - [3m[Name: ""launch-wizard-3""][0m - [31mfailed
+"
+
+2022-04-22 23:46:44.536,"[0m[1meu-central-1[0m - [mEC2SecurityGroup[0m - [1msg-03f349d0d0d06995c[0m - [3m[Name: ""advanced-service-demo-EC2-sg""][0m - [31mfailed
+"
+
+2022-04-22 23:46:44.371,"[0m[1meu-central-1[0m - [mEC2SecurityGroup[0m - [1msg-032ea6b9f31d9be05[0m - [3m[Name: ""launch-wizard-6-test-2-linux-ssh""][0m - [31mfailed
+"
+
+2022-04-22 23:46:44.232,"[0m[1meu-central-1[0m - [mEC2SecurityGroup[0m - [1msg-0123ccdc0177e744f[0m - [3m[Name: ""aws-cloud9-rzsoter-eks-test-4fbbd834828c412fad5508cdefb91546-InstanceSecurityGroup-XGXYGPOL1J4Z""][0m - [31mfailed
+"
+
+2022-04-22 23:46:43.977,"[0m[1meu-central-1[0m - [mEC2Address[0m - [1m3.69.95.0[0m - [31mfailed
+"
+
+2022-04-22 23:46:43.640,"[0m[1meu-central-1[0m - [mEC2Address[0m - [1m3.69.222.179[0m - [31mfailed
+"
+
+2022-04-22 23:46:43.249,"[0m[1meu-central-1[0m - [mEC2Address[0m - [1m3.66.24.196[0m - [31mfailed
+"
+
+2022-04-22 23:46:42.823,"[0m[1meu-central-1[0m - [mEC2Address[0m - [1m3.123.61.119[0m - [31mfailed
+"
+
+2022-04-22 23:46:42.432,"[0m[1meu-central-1[0m - [mEC2Address[0m - [1m3.122.198.182[0m - [31mfailed
+"
+
+2022-04-22 23:46:41.986,"[0m[1meu-central-1[0m - [mEC2Address[0m - [1m3.121.190.6[0m - [31mfailed
+"
+
+2022-04-22 23:46:41.606,"[0m[1meu-central-1[0m - [mEC2Address[0m - [1m18.157.59.158[0m - [31mfailed
+"
+
+2022-04-22 23:46:41.158,"[0m[1meu-central-1[0m - [mEC2Volume[0m - [1mvol-01d01f7e2127cb8c4[0m - [3m[tag:Name: ""szab-usecases-bastion"", tag:owner: ""A334322""][0m - [31mfailed
+"
+
+2022-04-22 23:46:41.052,"[0m[1meu-central-1[0m - [mEC2Volume[0m - [1mvol-08f5b533e4cd16299[0m - [3m[][0m - [31mfailed
+"
+
+2022-04-22 23:46:40.939,"[0m[1meu-central-1[0m - [mEC2Volume[0m - [1mvol-083701758e3bcdd3a[0m - [3m[][0m - [31mfailed
+"
+
+2022-04-22 23:46:40.852,"[0m[1meu-central-1[0m - [mEC2Volume[0m - [1mvol-0fbbe7ab67fff0d17[0m - [3m[][0m - [31mfailed
+"
+
+2022-04-22 23:46:40.740,"[0m[1meu-central-1[0m - [mEC2Volume[0m - [1mvol-0aedcc5466ca8a5dc[0m - [3m[][0m - [31mfailed
+"
+
+2022-04-22 23:46:40.633,"[0m[1meu-central-1[0m - [mEC2Volume[0m - [1mvol-0f21c540040005416[0m - [3m[tag:application: ""advance-service-demo"", tag:Name: ""advanced-service-demo-ec2.root_volume"", tag:CreatedBy: ""terraform"", tag:Description: ""root volume associated to advanced-service-demo-ec2"", tag:Cloud_Environment: ""aws"", tag:environment: ""PROD"", tag:Department: ""tsi""][0m - [31mfailed
+"
+
+2022-04-22 23:46:40.535,"[0m[1meu-central-1[0m - [mEC2Volume[0m - [1mvol-0790b06160a2badc6[0m - [3m[][0m - [31mfailed
+"
+
+2022-04-22 23:46:40.342,"[0m[1meu-central-1[0m - [mCloudWatchEventsRule[0m - [1mRule: AutoScalingManagedRule[0m - [31mfailed
+"
+
+2022-04-22 23:46:40.163,"[0m[1meu-central-1[0m - [mEC2DHCPOption[0m - [1mdopt-789eac13[0m - [31mfailed
+"
+
+2022-04-22 23:46:40.029,"[0m[1meu-central-1[0m - [mEC2Instance[0m - [1mi-0827962bc35bdf7df[0m - [3m[tag:application: ""advance-service-demo"", tag:Backup: ""true"", tag:startby: ""instance-scheduler on 2022/02/08 at 08:00 UTC"", tag:Schedule: ""9amto5pm"", tag:environment: ""PROD"", tag:Name: ""advanced-service-demo-ec2"", tag:CreatedBy: ""terraform"", tag:Patch_Group: ""PROD"", tag:Department: ""tsi"", tag:Description: ""ec2 instance - advanced-service-demo-ec2"", tag:Cloud_Environment: ""aws""][0m - [31mfailed
+"
+
+2022-04-22 23:46:39.724,"[0m[1meu-central-1[0m - [mACMCertificate[0m - [1marn:aws:acm:eu-central-1:829647177071:certificate/380b3c3a-af77-40cc-9704-f8454285bf41[0m - [31mfailed
+"
+
+2022-04-22 23:46:39.679,"[0m[1meu-central-1[0m - [mACMCertificate[0m - [1marn:aws:acm:eu-central-1:829647177071:certificate/a13a3372-5dcf-4425-bece-f840cdb4f5bf[0m - [31mfailed
+"
+
+2022-04-22 23:46:39.574,"[0m[1meu-central-1[0m - [mCloudWatchLogsLogGroup[0m - [1m/aws/lambda/LogsToOpenSearch_monitoring_es-rzsoter-13[0m - [34mwaiting
+"
+
+2022-04-22 23:46:39.574,"[0m[1meu-central-1[0m - [mCloudWatchLogsLogGroup[0m - [1m/aws/lambda/LogsToOpenSearch_monitoring_es-meks-test16-skanta[0m - [34mwaiting
+"
+
+2022-04-22 23:46:39.574,"[0m[1meu-central-1[0m - [mCloudWatchLogsLogGroup[0m - [1m/aws/eks/rzsoter-13/cluster[0m - [34mwaiting
+"
+
+2022-04-22 23:46:39.574,"[0m[1meu-central-1[0m - [mCloudWatchLogsLogGroup[0m - [1m/aws/eks/meks-test16-skanta/cluster[0m - [34mwaiting
+"
+
+2022-04-22 23:46:39.546,"[0m[1mca-central-1[0m - [mCloudTrailTrail[0m - [1mTSI_test_001[0m - [31mfailed
+"
+
+2022-04-22 23:46:39.155,"[0m[1mca-central-1[0m - [mCloudTrailTrail[0m - [1mTSI_Base_Trail[0m - [31mfailed
+"
+
+2022-04-22 23:46:38.770,"[0m[1map-northeast-1[0m - [mCloudTrailTrail[0m - [1mTSI_test_001[0m - [31mfailed
+"
+
+2022-04-22 23:46:37.839,"[0m[1map-northeast-1[0m - [mCloudTrailTrail[0m - [1mTSI_Base_Trail[0m - [31mfailed
+"
+
+2022-04-22 23:46:36.895,"[0m[1map-southeast-2[0m - [mCloudTrailTrail[0m - [1mTSI_test_001[0m - [31mfailed
+"
+
+2022-04-22 23:46:34.154,"[0m[1map-southeast-2[0m - [mCloudTrailTrail[0m - [1mTSI_Base_Trail[0m - [31mfailed
+"
+
+2022-04-22 23:46:33.137,"[0m[1map-southeast-1[0m - [mCloudTrailTrail[0m - [1mTSI_test_001[0m - [31mfailed
+"
+
+2022-04-22 23:46:31.184,"[0m[1map-southeast-1[0m - [mCloudTrailTrail[0m - [1mTSI_Base_Trail[0m - [31mfailed
+"
+
+2022-04-22 23:46:30.525,"[0m[1map-northeast-2[0m - [mCloudTrailTrail[0m - [1mTSI_test_001[0m - [31mfailed
+"
+
+2022-04-22 23:46:27.481,"[0m[1map-northeast-2[0m - [mCloudTrailTrail[0m - [1mTSI_Base_Trail[0m - [31mfailed
+"
+
+2022-04-22 23:46:26.440,"[0m[1map-south-1[0m - [mCloudTrailTrail[0m - [1mTSI_test_001[0m - [31mfailed
+"
+
+2022-04-22 23:46:25.955,"[0m[1map-south-1[0m - [mCloudTrailTrail[0m - [1mTSI_Base_Trail[0m - [31mfailed
+"
+
+2022-04-22 23:46:25.468,"[0m[1mus-west-2[0m - [mCloudTrailTrail[0m - [1mTSI_test_001[0m - [31mfailed
+"
+
+2022-04-22 23:46:23.463,"[0m[1mus-west-2[0m - [mCloudTrailTrail[0m - [1mTSI_Base_Trail[0m - [31mfailed
+"
+
+2022-04-22 23:46:22.842,"[0m[1mus-west-1[0m - [mCloudTrailTrail[0m - [1mTSI_test_001[0m - [31mfailed
+"
+
+2022-04-22 23:46:20.659,"[0m[1mus-west-1[0m - [mCloudTrailTrail[0m - [1mTSI_Base_Trail[0m - [31mfailed
+"
+
+2022-04-22 23:46:20.021,"[0m[1mus-east-1[0m - [mCloudTrailTrail[0m - [1mTSI_test_001[0m - [31mfailed
+"
+
+2022-04-22 23:46:19.631,"[0m[1mus-east-1[0m - [mCloudTrailTrail[0m - [1mTSI_Base_Trail[0m - [31mfailed
+"
+
+2022-04-22 23:46:19.224,"[0m[1mus-east-2[0m - [mCloudTrailTrail[0m - [1mTSI_test_001[0m - [31mfailed
+"
+
+2022-04-22 23:46:19.114,"[1mus-east-2[0m - [mCloudTrailTrail[0m - [1mTSI_Base_Trail[0m - [31mfailed
+"
+
+2022-04-22 23:46:13.233,"
+"
+
+2022-04-22 23:46:13.233,"[0m[1msa-east-1[0m - [mCloudTrailTrail[0m - [1mTSI_test_001[0m - [31mfailed
+"
+
+2022-04-22 23:46:13.233,"Removal requested: 4 waiting, 440 failed, 543 skipped, 483 finished
+"
+
+2022-04-22 23:46:13.233,"[0m
+"
+
+2022-04-22 23:46:12.382,"[0m[1msa-east-1[0m - [mCloudTrailTrail[0m - [1mTSI_Base_Trail[0m - [31mfailed
+"
+
+2022-04-22 23:46:11.525,"[0m[1meu-west-3[0m - [mCloudTrailTrail[0m - [1mTSI_test_001[0m - [31mfailed
+"
+
+2022-04-22 23:46:11.458,"[0m[1meu-west-3[0m - [mCloudTrailTrail[0m - [1mTSI_Base_Trail[0m - [31mfailed
+"
+
+2022-04-22 23:46:11.395,"[0m[1meu-west-2[0m - [mCloudTrailTrail[0m - [1mTSI_test_001[0m - [31mfailed
+"
+
+2022-04-22 23:46:11.302,"[0m[1meu-west-2[0m - [mCloudTrailTrail[0m - [1mTSI_Base_Trail[0m - [31mfailed
+"
+
+2022-04-22 23:46:11.207,"[0m[1meu-west-1[0m - [mCloudTrailTrail[0m - [1mTSI_test_001[0m - [31mfailed
+"
+
+2022-04-22 23:46:11.086,"[0m[1meu-west-1[0m - [mCloudTrailTrail[0m - [1mTSI_Base_Trail[0m - [31mfailed
+"
+
+2022-04-22 23:46:10.960,"[0m[1meu-central-1[0m - [mEC2InternetGatewayAttachment[0m - [1migw-0442fe433cf8d5905 -> vpc-0ebcd67a241a3289b[0m - [3m[tag:vpc:nukeignore: ""true"", tag:vpc:owner: ""A334322"", tag:igw:nukeignore: ""true"", tag:igw:owner: ""A334322"", tag:igw:Name: ""szab-ecs-usecase_igw"", tag:vpc:Name: ""szab-ecs-usecase_vpc""][0m - [31mfailed
+"
+
+2022-04-22 23:46:10.800,"[0m[1meu-central-1[0m - [mEC2InternetGatewayAttachment[0m - [1migw-02847908ffb3a6b57 -> vpc-0b19dc840fd2b5b03[0m - [3m[tag:igw:owner: ""A334322"", tag:igw:Name: ""meks-test-skanta-igw"", tag:igw:nukeignore: ""true"", tag:vpc:owner: ""A334322"", tag:vpc:Name: ""meks-test-skanta-vpc"", tag:vpc:nukeignore: ""true""][0m - [31mfailed
+"
+
+2022-04-22 23:46:10.675,"[0m[1meu-central-1[0m - [mEC2InternetGatewayAttachment[0m - [1migw-0ec5a5053a914108b -> vpc-0803dcae174835ec2[0m - [3m[tag:vpc:Name: ""test-env-onprem-vpn-demo"", tag:igw:nukeignore: ""true"", tag:igw:Name: ""test-env"", tag:igw:nukeIgnore: ""true"", tag:vpc:nukeignore: ""true"", tag:vpc:nukeIgnore: ""true""][0m - [31mfailed
+"
+
+2022-04-22 23:46:10.528,"[0m[1meu-central-1[0m - [mEC2InternetGatewayAttachment[0m - [1migw-07d2b6bd1cdc03bc7 -> vpc-046336774cba7c8a8[0m - [3m[tag:igw:Name: ""rzsoter-A80819287-def-igw"", tag:vpc:nukeignore: ""true"", tag:vpc:Name: ""rzsoter-A80819287-def"", tag:vpc:nukeIgnore: ""true"", tag:vpc:owner: ""A80819287"", tag:igw:nukeignore: ""true"", tag:igw:owner: ""A80819287"", tag:igw:nukeIgnore: ""true""][0m - [31mfailed
+"
+
+2022-04-22 23:46:10.401,"[0m[1meu-central-1[0m - [mEC2InternetGatewayAttachment[0m - [1migw-0606b020d1841e393 -> vpc-046faa1b5374c6cb0[0m - [3m[tag:vpc:nukeignore: ""true"", tag:vpc:nukeIgnore: ""true"", tag:vpc:Name: ""test-2-env-main -vpn-demo"", tag:igw:Name: ""test-2-env-igw"", tag:igw:nukeIgnore: ""true"", tag:igw:environment: ""test"", tag:igw:nukeignore: ""true"", tag:vpc:environment: ""test""][0m - [31mfailed
+"
+
+2022-04-22 23:46:10.262,"[0m[1meu-central-1[0m - [mEC2InternetGatewayAttachment[0m - [1migw-03d6254245ab2cda8 -> vpc-090045918e6a49e99[0m - [3m[tag:igw:Name: ""rzsoter-EKS-mvp-igw"", tag:igw:owner: ""A80819287"", tag:igw:nukeignore: ""true"", tag:vpc:Name: ""rzsoter-EKS-mvp"", tag:vpc:nukeignore: ""true"", tag:vpc:owner: ""A80819287""][0m - [31mfailed
+"
+
+2022-04-22 23:46:10.139,"[0m[1meu-central-1[0m - [mEC2InternetGatewayAttachment[0m - [1migw-05ed8e4d7e0081001 -> vpc-0844cfc214aaa5aac[0m - [3m[tag:vpc:nukeIgnore: ""true"", tag:vpc:Name: ""rzsoter-2-eks-mvp"", tag:igw:nukeIgnore: ""true"", tag:igw:Name: ""rzsoter-2-eks-mvp"", tag:igw:nukeignore: ""true"", tag:vpc:nukeignore: ""true""][0m - [31mfailed
+"
+
+2022-04-22 23:46:09.477,"[0m[1meu-central-1[0m - [mEC2Image[0m - [1mami-0ffdf66418764005a[0m - [31mfailed
+"
+
+2022-04-22 23:46:09.396,"[0m[1meu-central-1[0m - [mEC2Image[0m - [1mami-0fe844c998e77eac8[0m - [31mfailed
+"
+
+2022-04-22 23:46:09.314,"[0m[1meu-central-1[0m - [mEC2Image[0m - [1mami-0fdbda38146eb0b3e[0m - [31mfailed
+"
+
+2022-04-22 23:46:09.231,"[0m[1meu-central-1[0m - [mEC2Image[0m - [1mami-0fdb3a08db05ff1d9[0m - [31mfailed
+"
+
+2022-04-22 23:46:09.139,"[0m[1meu-central-1[0m - [mEC2Image[0m - [1mami-0fd75a0cbdc91485e[0m - [31mfailed
+"
+
+2022-04-22 23:46:09.050,"[0m[1meu-central-1[0m - [mEC2Image[0m - [1mami-0fd704f7116ef98bb[0m - [31mfailed
+"
+
+2022-04-22 23:46:08.963,"[0m[1meu-central-1[0m - [mEC2Image[0m - [1mami-0fc6a363b54db30a4[0m - [31mfailed
+"
+
+2022-04-22 23:46:08.866,"[0m[1meu-central-1[0m - [mEC2Image[0m - [1mami-0fb5142b3c1c67c7a[0m - [31mfailed
+"
+
+2022-04-22 23:46:08.775,"[0m[1meu-central-1[0m - [mEC2Image[0m - [1mami-0fb0ad481d338cec0[0m - [31mfailed
+"
+
+2022-04-22 23:46:08.679,"[0m[1meu-central-1[0m - [mEC2Image[0m - [1mami-0fa5918eb40b868f8[0m - [31mfailed
+"
+
+2022-04-22 23:46:08.591,"[0m[1meu-central-1[0m - [mEC2Image[0m - [1mami-0f970279d256597e1[0m - [31mfailed
+"
+
+2022-04-22 23:46:08.500,"[0m[1meu-central-1[0m - [mEC2Image[0m - [1mami-0f3d600fb28834dd1[0m - [31mfailed
+"
+
+2022-04-22 23:46:08.341,"[0m[1meu-central-1[0m - [mEC2Image[0m - [1mami-0f11580ff70b124b2[0m - [31mfailed
+"
+
+2022-04-22 23:46:08.253,"[0m[1meu-central-1[0m - [mEC2Image[0m - [1mami-0ee85f9b692a4a96f[0m - [31mfailed
+"
+
+2022-04-22 23:46:08.163,"[0m[1meu-central-1[0m - [mEC2Image[0m - [1mami-0ee1abcc31acc9584[0m - [31mfailed
+"
+
+2022-04-22 23:46:08.067,"[0m[1meu-central-1[0m - [mEC2Image[0m - [1mami-0ecfeae6b758dd253[0m - [31mfailed
+"
+
+2022-04-22 23:46:07.962,"[0m[1meu-central-1[0m - [mEC2Image[0m - [1mami-0eb95aa2df678f62e[0m - [31mfailed
+"
+
+2022-04-22 23:46:07.883,"[0m[1meu-central-1[0m - [mEC2Image[0m - [1mami-0eb521958654f31f5[0m - [31mfailed
+"
+
+2022-04-22 23:46:07.794,"[0m[1meu-central-1[0m - [mEC2Image[0m - [1mami-0e8a574849391d5e1[0m - [31mfailed
+"
+
+2022-04-22 23:46:07.708,"[0m[1meu-central-1[0m - [mEC2Image[0m - [1mami-0e881f6407a7b8503[0m - [31mfailed
+"
+
+2022-04-22 23:46:07.621,"[0m[1meu-central-1[0m - [mEC2Image[0m - [1mami-0e6c2097abdff9bb0[0m - [31mfailed
+"
+
+2022-04-22 23:46:07.533,"[0m[1meu-central-1[0m - [mEC2Image[0m - [1mami-0e2c8a4e8d1473a65[0m - [31mfailed
+"
+
+2022-04-22 23:46:07.445,"[0m[1meu-central-1[0m - [mEC2Image[0m - [1mami-0e2488c12571a6ab8[0m - [31mfailed
+"
+
+2022-04-22 23:46:07.341,"[0m[1meu-central-1[0m - [mEC2Image[0m - [1mami-0e2184e4128a7cdcb[0m - [31mfailed
+"
+
+2022-04-22 23:46:07.225,"[0m[1meu-central-1[0m - [mEC2Image[0m - [1mami-0e0e1aedfa69ae42e[0m - [31mfailed
+"
+
+2022-04-22 23:46:07.119,"[0m[1meu-central-1[0m - [mEC2Image[0m - [1mami-0e0cd5bf0cc9958db[0m - [31mfailed
+"
+
+2022-04-22 23:46:07.022,"[0m[1meu-central-1[0m - [mEC2Image[0m - [1mami-0ddf51e9367c8a638[0m - [31mfailed
+"
+
+2022-04-22 23:46:06.927,"[0m[1meu-central-1[0m - [mEC2Image[0m - [1mami-0dcf88c3edcbb4276[0m - [31mfailed
+"
+
+2022-04-22 23:46:06.843,"[0m[1meu-central-1[0m - [mEC2Image[0m - [1mami-0d7543451317213f5[0m - [31mfailed
+"
+
+2022-04-22 23:46:06.746,"[0m[1meu-central-1[0m - [mEC2Image[0m - [1mami-0d72d9d2f4469c050[0m - [31mfailed
+"
+
+2022-04-22 23:46:06.658,"[0m[1meu-central-1[0m - [mEC2Image[0m - [1mami-0d60969b67179b008[0m - [31mfailed
+"
+
+2022-04-22 23:46:06.566,"[0m[1meu-central-1[0m - [mEC2Image[0m - [1mami-0d19b5e62597bf0b3[0m - [31mfailed
+"
+
+2022-04-22 23:46:06.487,"[0m[1meu-central-1[0m - [mEC2Image[0m - [1mami-0d0d94df126814a4a[0m - [31mfailed
+"
+
+2022-04-22 23:46:06.404,"[0m[1meu-central-1[0m - [mEC2Image[0m - [1mami-0d05f731ecab65cf5[0m - [31mfailed
+"
+
+2022-04-22 23:46:06.304,"[0m[1meu-central-1[0m - [mEC2Image[0m - [1mami-0ced78a49aabb1795[0m - [31mfailed
+"
+
+2022-04-22 23:46:06.209,"[0m[1meu-central-1[0m - [mEC2Image[0m - [1mami-0cdd94655db5dfec9[0m - [31mfailed
+"
+
+2022-04-22 23:46:06.117,"[0m[1meu-central-1[0m - [mEC2Image[0m - [1mami-0cdccb8041e6e0280[0m - [31mfailed
+"
+
+2022-04-22 23:46:06.030,"[0m[1meu-central-1[0m - [mEC2Image[0m - [1mami-0cd249128cd095b94[0m - [31mfailed
+"
+
+2022-04-22 23:46:05.942,"[0m[1meu-central-1[0m - [mEC2Image[0m - [1mami-0cc8311477bd194f6[0m - [31mfailed
+"
+
+2022-04-22 23:46:05.854,"[0m[1meu-central-1[0m - [mEC2Image[0m - [1mami-0c7755ca549d64243[0m - [31mfailed
+"
+
+2022-04-22 23:46:05.754,"[0m[1meu-central-1[0m - [mEC2Image[0m - [1mami-0c6fc593399f4822e[0m - [31mfailed
+"
+
+2022-04-22 23:46:05.652,"[0m[1meu-central-1[0m - [mEC2Image[0m - [1mami-0c4eaf646b09395e6[0m - [31mfailed
+"
+
+2022-04-22 23:46:05.561,"[0m[1meu-central-1[0m - [mEC2Image[0m - [1mami-0c3d075d1bb54bbf8[0m - [31mfailed
+"
+
+2022-04-22 23:46:05.426,"[0m[1meu-central-1[0m - [mEC2Image[0m - [1mami-0bef4dd406c225de2[0m - [31mfailed
+"
+
+2022-04-22 23:46:05.328,"[0m[1meu-central-1[0m - [mEC2Image[0m - [1mami-0bc631d02b80095bb[0m - [31mfailed
+"
+
+2022-04-22 23:46:05.245,"[0m[1meu-central-1[0m - [mEC2Image[0m - [1mami-0bc238f9075a21693[0m - [31mfailed
+"
+
+2022-04-22 23:46:05.144,"[0m[1meu-central-1[0m - [mEC2Image[0m - [1mami-0b9224141da760789[0m - [31mfailed
+"
+
+2022-04-22 23:46:05.058,"[0m[1meu-central-1[0m - [mEC2Image[0m - [1mami-0b76038640775fdd1[0m - [31mfailed
+"
+
+2022-04-22 23:46:04.976,"[0m[1meu-central-1[0m - [mEC2Image[0m - [1mami-0b67a7bc2348a1edb[0m - [31mfailed
+"
+
+2022-04-22 23:46:04.878,"[0m[1meu-central-1[0m - [mEC2Image[0m - [1mami-0b5c57892ea7a06d8[0m - [31mfailed
+"
+
+2022-04-22 23:46:04.773,"[0m[1meu-central-1[0m - [mEC2Image[0m - [1mami-0b4f769d94c696104[0m - [31mfailed
+"
+
+2022-04-22 23:46:04.681,"[0m[1meu-central-1[0m - [mEC2Image[0m - [1mami-0b4d48949c448fdd3[0m - [31mfailed
+"
+
+2022-04-22 23:46:04.575,"[0m[1meu-central-1[0m - [mEC2Image[0m - [1mami-0b423e8daedf59318[0m - [31mfailed
+"
+
+2022-04-22 23:46:04.222,"[0m[1meu-central-1[0m - [mEC2Image[0m - [1mami-0b39b8c90af07cf03[0m - [31mfailed
+"
+
+2022-04-22 23:46:04.122,"[0m[1meu-central-1[0m - [mEC2Image[0m - [1mami-0b26bfc1acb9159c3[0m - [31mfailed
+"
+
+2022-04-22 23:46:03.992,"[0m[1meu-central-1[0m - [mEC2Image[0m - [1mami-0ad463c8d672a38db[0m - [31mfailed
+"
+
+2022-04-22 23:46:03.905,"[0m[1meu-central-1[0m - [mEC2Image[0m - [1mami-0acd12866f4dcbba3[0m - [31mfailed
+"
+
+2022-04-22 23:46:03.786,"[0m[1meu-central-1[0m - [mEC2Image[0m - [1mami-0a992fee2ee1f318e[0m - [31mfailed
+"
+
+2022-04-22 23:46:03.696,"[0m[1meu-central-1[0m - [mEC2Image[0m - [1mami-0a6b257f8a73d6e72[0m - [31mfailed
+"
+
+2022-04-22 23:46:03.585,"[0m[1meu-central-1[0m - [mEC2Image[0m - [1mami-0a418c7b43a0afac5[0m - [31mfailed
+"
+
+2022-04-22 23:46:03.482,"[0m[1meu-central-1[0m - [mEC2Image[0m - [1mami-09e81c22e884738fb[0m - [31mfailed
+"
+
+2022-04-22 23:46:03.382,"[0m[1meu-central-1[0m - [mEC2Image[0m - [1mami-09cea9401a0012ecc[0m - [31mfailed
+"
+
+2022-04-22 23:46:03.285,"[0m[1meu-central-1[0m - [mEC2Image[0m - [1mami-09bcf2ed3ede3e169[0m - [31mfailed
+"
+
+2022-04-22 23:46:03.182,"[0m[1meu-central-1[0m - [mEC2Image[0m - [1mami-09624c4bbb0e7abaa[0m - [31mfailed
+"
+
+2022-04-22 23:46:03.089,"[0m[1meu-central-1[0m - [mEC2Image[0m - [1mami-095f8d60fb0ba3d25[0m - [31mfailed
+"
+
+2022-04-22 23:46:03.001,"[0m[1meu-central-1[0m - [mEC2Image[0m - [1mami-095597cadc1e3e814[0m - [31mfailed
+"
+
+2022-04-22 23:46:02.919,"[0m[1meu-central-1[0m - [mEC2Image[0m - [1mami-08f85925a3ea2e769[0m - [31mfailed
+"
+
+2022-04-22 23:46:02.829,"[0m[1meu-central-1[0m - [mEC2Image[0m - [1mami-08ee8ab93dc557372[0m - [31mfailed
+"
+
+2022-04-22 23:46:02.738,"[0m[1meu-central-1[0m - [mEC2Image[0m - [1mami-08e7dba7163b3efe2[0m - [31mfailed
+"
+
+2022-04-22 23:46:02.658,"[0m[1meu-central-1[0m - [mEC2Image[0m - [1mami-08e43e7c4c32e766c[0m - [31mfailed
+"
+
+2022-04-22 23:46:02.568,"[0m[1meu-central-1[0m - [mEC2Image[0m - [1mami-08e012731f9efa85c[0m - [31mfailed
+"
+
+2022-04-22 23:46:02.481,"[0m[1meu-central-1[0m - [mEC2Image[0m - [1mami-08ae10ae90df4e9cf[0m - [31mfailed
+"
+
+2022-04-22 23:46:02.386,"[0m[1meu-central-1[0m - [mEC2Image[0m - [1mami-08a9da9dc131c5872[0m - [31mfailed
+"
+
+2022-04-22 23:46:02.294,"[0m[1meu-central-1[0m - [mEC2Image[0m - [1mami-08953f2d0f257930e[0m - [31mfailed
+"
+
+2022-04-22 23:46:02.208,"[0m[1meu-central-1[0m - [mEC2Image[0m - [1mami-0879231e7b8d825b5[0m - [31mfailed
+"
+
+2022-04-22 23:46:02.112,"[0m[1meu-central-1[0m - [mEC2Image[0m - [1mami-0859366144fbda600[0m - [31mfailed
+"
+
+2022-04-22 23:46:02.020,"[0m[1meu-central-1[0m - [mEC2Image[0m - [1mami-0847b070b1c0f3057[0m - [31mfailed
+"
+
+2022-04-22 23:46:01.917,"[0m[1meu-central-1[0m - [mEC2Image[0m - [1mami-081acb688de7e35e2[0m - [31mfailed
+"
+
+2022-04-22 23:46:01.829,"[0m[1meu-central-1[0m - [mEC2Image[0m - [1mami-0812034df567eec0d[0m - [31mfailed
+"
+
+2022-04-22 23:46:01.749,"[0m[1meu-central-1[0m - [mEC2Image[0m - [1mami-07fc19126c3b0caf2[0m - [31mfailed
+"
+
+2022-04-22 23:46:01.661,"[0m[1meu-central-1[0m - [mEC2Image[0m - [1mami-07ebc4e0769195d97[0m - [31mfailed
+"
+
+2022-04-22 23:46:01.575,"[0m[1meu-central-1[0m - [mEC2Image[0m - [1mami-07d5a15697464bdbb[0m - [31mfailed
+"
+
+2022-04-22 23:46:01.459,"[0m[1meu-central-1[0m - [mEC2Image[0m - [1mami-07cbc7579044dc730[0m - [31mfailed
+"
+
+2022-04-22 23:46:01.362,"[0m[1meu-central-1[0m - [mEC2Image[0m - [1mami-07c6fb03dcf12c146[0m - [31mfailed
+"
+
+2022-04-22 23:46:01.265,"[0m[1meu-central-1[0m - [mEC2Image[0m - [1mami-07ad848344b720887[0m - [31mfailed
+"
+
+2022-04-22 23:46:01.178,"[0m[1meu-central-1[0m - [mEC2Image[0m - [1mami-079a818a1c08bf514[0m - [31mfailed
+"
+
+2022-04-22 23:46:01.062,"[0m[1meu-central-1[0m - [mEC2Image[0m - [1mami-0790875d3f133ea29[0m - [31mfailed
+"
+
+2022-04-22 23:46:00.967,"[0m[1meu-central-1[0m - [mEC2Image[0m - [1mami-07602da08c6df0899[0m - [31mfailed
+"
+
+2022-04-22 23:46:00.882,"[0m[1meu-central-1[0m - [mEC2Image[0m - [1mami-075f5ee7a59f5c8bc[0m - [31mfailed
+"
+
+2022-04-22 23:46:00.794,"[0m[1meu-central-1[0m - [mEC2Image[0m - [1mami-073e3a662e622f6d2[0m - [31mfailed
+"
+
+2022-04-22 23:46:00.716,"[0m[1meu-central-1[0m - [mEC2Image[0m - [1mami-06a4b11bfbf64ad28[0m - [31mfailed
+"
+
+2022-04-22 23:46:00.624,"[0m[1meu-central-1[0m - [mEC2Image[0m - [1mami-068c7227015cd86ad[0m - [31mfailed
+"
+
+2022-04-22 23:46:00.519,"[0m[1meu-central-1[0m - [mEC2Image[0m - [1mami-0671cb16cee2eae3c[0m - [31mfailed
+"
+
+2022-04-22 23:46:00.422,"[0m[1meu-central-1[0m - [mEC2Image[0m - [1mami-064b171879cefc363[0m - [31mfailed
+"
+
+2022-04-22 23:46:00.324,"[0m[1meu-central-1[0m - [mEC2Image[0m - [1mami-06472abe3292eb115[0m - [31mfailed
+"
+
+2022-04-22 23:46:00.206,"[0m[1meu-central-1[0m - [mEC2Image[0m - [1mami-0633e3cd6ac205f44[0m - [31mfailed
+"
+
+2022-04-22 23:46:00.128,"[0m[1meu-central-1[0m - [mEC2Image[0m - [1mami-061909be0d62d4042[0m - [31mfailed
+"
+
+2022-04-22 23:46:00.045,"[0m[1meu-central-1[0m - [mEC2Image[0m - [1mami-0602fb00f5660cee3[0m - [31mfailed
+"
+
+2022-04-22 23:45:59.960,"[0m[1meu-central-1[0m - [mEC2Image[0m - [1mami-05e88c9178ebf7532[0m - [31mfailed
+"
+
+2022-04-22 23:45:59.858,"[0m[1meu-central-1[0m - [mEC2Image[0m - [1mami-05d4270a720a8b416[0m - [31mfailed
+"
+
+2022-04-22 23:45:59.757,"[0m[1meu-central-1[0m - [mEC2Image[0m - [1mami-05cac11b1b592123d[0m - [31mfailed
+"
+
+2022-04-22 23:45:59.651,"[0m[1meu-central-1[0m - [mEC2Image[0m - [1mami-05c76d7cc8dace9eb[0m - [31mfailed
+"
+
+2022-04-22 23:45:59.571,"[0m[1meu-central-1[0m - [mEC2Image[0m - [1mami-05acc1492365d81de[0m - [31mfailed
+"
+
+2022-04-22 23:45:59.486,"[0m[1meu-central-1[0m - [mEC2Image[0m - [1mami-05a835432311e8f5b[0m - [31mfailed
+"
+
+2022-04-22 23:45:59.401,"[0m[1meu-central-1[0m - [mEC2Image[0m - [1mami-057979718f1674de0[0m - [31mfailed
+"
+
+2022-04-22 23:45:59.306,"[0m[1meu-central-1[0m - [mEC2Image[0m - [1mami-053af1683add5170b[0m - [31mfailed
+"
+
+2022-04-22 23:45:59.208,"[0m[1meu-central-1[0m - [mEC2Image[0m - [1mami-05389425c392361ce[0m - [31mfailed
+"
+
+2022-04-22 23:45:59.110,"[0m[1meu-central-1[0m - [mEC2Image[0m - [1mami-05229c8be6e5425db[0m - [31mfailed
+"
+
+2022-04-22 23:45:59.008,"[0m[1meu-central-1[0m - [mEC2Image[0m - [1mami-051f741ba48be67af[0m - [31mfailed
+"
+
+2022-04-22 23:45:58.917,"[0m[1meu-central-1[0m - [mEC2Image[0m - [1mami-04f97b32963951dda[0m - [31mfailed
+"
+
+2022-04-22 23:45:58.821,"[0m[1meu-central-1[0m - [mEC2Image[0m - [1mami-04ebd20cc56e60bc1[0m - [31mfailed
+"
+
+2022-04-22 23:45:58.723,"[0m[1meu-central-1[0m - [mEC2Image[0m - [1mami-04ea9b41e1a06bfda[0m - [31mfailed
+"
+
+2022-04-22 23:45:58.620,"[0m[1meu-central-1[0m - [mEC2Image[0m - [1mami-04d5c40fc2a003a9d[0m - [31mfailed
+"
+
+2022-04-22 23:45:58.523,"[0m[1meu-central-1[0m - [mEC2Image[0m - [1mami-04d528b0099f5a698[0m - [31mfailed
+"
+
+2022-04-22 23:45:58.427,"[0m[1meu-central-1[0m - [mEC2Image[0m - [1mami-04cc3d8247ccd695e[0m - [31mfailed
+"
+
+2022-04-22 23:45:58.343,"[0m[1meu-central-1[0m - [mEC2Image[0m - [1mami-04be020d68637e979[0m - [31mfailed
+"
+
+2022-04-22 23:45:58.245,"[0m[1meu-central-1[0m - [mEC2Image[0m - [1mami-04a88c99608eb02cb[0m - [31mfailed
+"
+
+2022-04-22 23:45:58.146,"[0m[1meu-central-1[0m - [mEC2Image[0m - [1mami-04926e95c3839dc2d[0m - [31mfailed
+"
+
+2022-04-22 23:45:55.311,"[0m[1meu-central-1[0m - [mEC2Image[0m - [1mami-047261194dc0972fe[0m - [31mfailed
+"
+
+2022-04-22 23:45:55.218,"[0m[1meu-central-1[0m - [mEC2Image[0m - [1mami-0464d9032672ecda4[0m - [31mfailed
+"
+
+2022-04-22 23:45:55.118,"[0m[1meu-central-1[0m - [mEC2Image[0m - [1mami-04468e7f5ea621011[0m - [31mfailed
+"
+
+2022-04-22 23:45:55.020,"[0m[1meu-central-1[0m - [mEC2Image[0m - [1mami-03fba36832e15c573[0m - [31mfailed
+"
+
+2022-04-22 23:45:54.940,"[0m[1meu-central-1[0m - [mEC2Image[0m - [1mami-03ebbd19b9b15eebd[0m - [31mfailed
+"
+
+2022-04-22 23:45:54.849,"[0m[1meu-central-1[0m - [mEC2Image[0m - [1mami-03eacecdc63ec0c7c[0m - [31mfailed
+"
+
+2022-04-22 23:45:54.763,"[0m[1meu-central-1[0m - [mEC2Image[0m - [1mami-03e1ce766519e1337[0m - [31mfailed
+"
+
+2022-04-22 23:45:53.971,"[0m[1meu-central-1[0m - [mEC2Image[0m - [1mami-03d6b87c755b2477b[0m - [31mfailed
+"
+
+2022-04-22 23:45:53.888,"[0m[1meu-central-1[0m - [mEC2Image[0m - [1mami-03d17b898db9860f8[0m - [31mfailed
+"
+
+2022-04-22 23:45:53.792,"[0m[1meu-central-1[0m - [mEC2Image[0m - [1mami-03c94440ce88dd2e5[0m - [31mfailed
+"
+
+2022-04-22 23:45:53.706,"[0m[1meu-central-1[0m - [mEC2Image[0m - [1mami-03bb6fe9997d47a3c[0m - [31mfailed
+"
+
+2022-04-22 23:45:53.621,"[0m[1meu-central-1[0m - [mEC2Image[0m - [1mami-03a0409fc9548f3bd[0m - [31mfailed
+"
+
+2022-04-22 23:45:53.538,"[0m[1meu-central-1[0m - [mEC2Image[0m - [1mami-039623ae3d6c7ccf0[0m - [31mfailed
+"
+
+2022-04-22 23:45:53.446,"[0m[1meu-central-1[0m - [mEC2Image[0m - [1mami-038e8a88648abd9be[0m - [31mfailed
+"
+
+2022-04-22 23:45:53.363,"[0m[1meu-central-1[0m - [mEC2Image[0m - [1mami-038ab56f25e9872dc[0m - [31mfailed
+"
+
+2022-04-22 23:45:53.252,"[0m[1meu-central-1[0m - [mEC2Image[0m - [1mami-0386001a6514bd6d9[0m - [31mfailed
+"
+
+2022-04-22 23:45:53.172,"[0m[1meu-central-1[0m - [mEC2Image[0m - [1mami-0383f653d8213d002[0m - [31mfailed
+"
+
+2022-04-22 23:45:53.040,"[0m[1meu-central-1[0m - [mEC2Image[0m - [1mami-03811dd132e33681c[0m - [31mfailed
+"
+
+2022-04-22 23:45:52.948,"[0m[1meu-central-1[0m - [mEC2Image[0m - [1mami-0376936c32539cdd9[0m - [31mfailed
+"
+
+2022-04-22 23:45:51.966,"[0m[1meu-central-1[0m - [mEC2Image[0m - [1mami-037585cbf9852a3e1[0m - [31mfailed
+"
+
+2022-04-22 23:45:51.883,"[0m[1meu-central-1[0m - [mEC2Image[0m - [1mami-037391f53c8a9f270[0m - [31mfailed
+"
+
+2022-04-22 23:45:51.790,"[0m[1meu-central-1[0m - [mEC2Image[0m - [1mami-036b92fb1ef495a73[0m - [31mfailed
+"
+
+2022-04-22 23:45:51.701,"[0m[1meu-central-1[0m - [mEC2Image[0m - [1mami-035791f362e68e713[0m - [31mfailed
+"
+
+2022-04-22 23:45:51.609,"[0m[1meu-central-1[0m - [mEC2Image[0m - [1mami-034c9d63e62a362d7[0m - [31mfailed
+"
+
+2022-04-22 23:45:51.507,"[0m[1meu-central-1[0m - [mEC2Image[0m - [1mami-031c91bfe91f91867[0m - [31mfailed
+"
+
+2022-04-22 23:45:51.416,"[0m[1meu-central-1[0m - [mEC2Image[0m - [1mami-031af4afbc142b865[0m - [31mfailed
+"
+
+2022-04-22 23:45:51.335,"[0m[1meu-central-1[0m - [mEC2Image[0m - [1mami-0312f3fa1f2c9bd4c[0m - [31mfailed
+"
+
+2022-04-22 23:45:51.249,"[0m[1meu-central-1[0m - [mEC2Image[0m - [1mami-02e8e30d441309cec[0m - [31mfailed
+"
+
+2022-04-22 23:45:51.158,"[0m[1meu-central-1[0m - [mEC2Image[0m - [1mami-02e8a69273fa4b436[0m - [31mfailed
+"
+
+2022-04-22 23:45:51.074,"[0m[1meu-central-1[0m - [mEC2Image[0m - [1mami-02d469aa35b6c642c[0m - [31mfailed
+"
+
+2022-04-22 23:45:50.993,"[0m[1meu-central-1[0m - [mEC2Image[0m - [1mami-02c563f773b542c93[0m - [31mfailed
+"
+
+2022-04-22 23:45:50.915,"[0m[1meu-central-1[0m - [mEC2Image[0m - [1mami-02bdb1346aa0cf47f[0m - [31mfailed
+"
+
+2022-04-22 23:45:50.822,"[0m[1meu-central-1[0m - [mEC2Image[0m - [1mami-02b61666d2242f6ce[0m - [31mfailed
+"
+
+2022-04-22 23:45:50.724,"[0m[1meu-central-1[0m - [mEC2Image[0m - [1mami-02a35c484e718ee5c[0m - [31mfailed
+"
+
+2022-04-22 23:45:50.634,"[0m[1meu-central-1[0m - [mEC2Image[0m - [1mami-029003cbad0fc3d66[0m - [31mfailed
+"
+
+2022-04-22 23:45:50.544,"[0m[1meu-central-1[0m - [mEC2Image[0m - [1mami-027c33053887b3bd1[0m - [31mfailed
+"
+
+2022-04-22 23:45:50.459,"[0m[1meu-central-1[0m - [mEC2Image[0m - [1mami-025ccb0ffaa35b3ba[0m - [31mfailed
+"
+
+2022-04-22 23:45:50.364,"[0m[1meu-central-1[0m - [mEC2Image[0m - [1mami-02548ff6de416f71f[0m - [31mfailed
+"
+
+2022-04-22 23:45:50.270,"[0m[1meu-central-1[0m - [mEC2Image[0m - [1mami-022908d55049ec874[0m - [31mfailed
+"
+
+2022-04-22 23:45:50.174,"[0m[1meu-central-1[0m - [mEC2Image[0m - [1mami-0200935a25e63c161[0m - [31mfailed
+"
+
+2022-04-22 23:45:50.071,"[0m[1meu-central-1[0m - [mEC2Image[0m - [1mami-01fa8afeeb21f4f34[0m - [31mfailed
+"
+
+2022-04-22 23:45:49.981,"[0m[1meu-central-1[0m - [mEC2Image[0m - [1mami-01ccf70d40cf5ed0e[0m - [31mfailed
+"
+
+2022-04-22 23:45:49.893,"[0m[1meu-central-1[0m - [mEC2Image[0m - [1mami-0132e27f8c944f46f[0m - [31mfailed
+"
+
+2022-04-22 23:45:49.733,"[0m[1meu-central-1[0m - [mEC2Image[0m - [1mami-011bc19e5545193d0[0m - [31mfailed
+"
+
+2022-04-22 23:45:49.645,"[0m[1meu-central-1[0m - [mEC2Image[0m - [1mami-010780a551b099d95[0m - [31mfailed
+"
+
+2022-04-22 23:45:49.549,"[0m[1meu-central-1[0m - [mEC2Image[0m - [1mami-010391ac48bd746d7[0m - [31mfailed
+"
+
+2022-04-22 23:45:49.440,"[0m[1meu-central-1[0m - [mEC2Image[0m - [1mami-00e1cf2aa021c93fb[0m - [31mfailed
+"
+
+2022-04-22 23:45:49.354,"[0m[1meu-central-1[0m - [mEC2Image[0m - [1mami-00d15b5fe2d54cd76[0m - [31mfailed
+"
+
+2022-04-22 23:45:49.268,"[0m[1meu-central-1[0m - [mEC2Image[0m - [1mami-00ceadca96a51d801[0m - [31mfailed
+"
+
+2022-04-22 23:45:49.179,"[0m[1meu-central-1[0m - [mEC2Image[0m - [1mami-00c054ca68b13d846[0m - [31mfailed
+"
+
+2022-04-22 23:45:49.097,"[0m[1meu-central-1[0m - [mEC2Image[0m - [1mami-00b81318697109bf3[0m - [31mfailed
+"
+
+2022-04-22 23:45:49.013,"[0m[1meu-central-1[0m - [mEC2Image[0m - [1mami-00b2d5662917f06f2[0m - [31mfailed
+"
+
+2022-04-22 23:45:48.916,"[0m[1meu-central-1[0m - [mEC2Image[0m - [1mami-0086a7cbc7fe967e6[0m - [31mfailed
+"
+
+2022-04-22 23:45:48.819,"[0m[1meu-central-1[0m - [mEC2Image[0m - [1mami-005c2e47f44e1282f[0m - [31mfailed
+"
+
+2022-04-22 23:45:48.723,"[0m[1meu-central-1[0m - [mEC2Image[0m - [1mami-0058e99e50618250c[0m - [31mfailed
+"
+
+2022-04-22 23:45:48.608,"[0m[1meu-central-1[0m - [mEC2Image[0m - [1mami-005019ac95e253825[0m - [31mfailed
+"
+
+2022-04-22 23:45:48.519,"[0m[1meu-central-1[0m - [mEC2Image[0m - [1mami-000d907ea4a773d7a[0m - [31mfailed
+"
+
+2022-04-22 23:45:48.429,"[0m[1meu-central-1[0m - [mEC2Image[0m - [1mami-000765d164f9a4577[0m - [31mfailed
+"
+
+2022-04-22 23:45:48.113,"[0m[1meu-central-1[0m - [mEC2Subnet[0m - [1msubnet-06eaa3a92653a70c6[0m - [3m[tag:Name: ""advance-service-demo-subnet-public-1a"", DefaultForAz: ""false""][0m - [31mfailed
+"
+
+2022-04-22 23:45:47.781,"[0m[1meu-central-1[0m - [mCloudWatchEventsTarget[0m - [1mRule: AutoScalingManagedRule Target ID: autoscaling[0m - [31mfailed
+"
+
+2022-04-22 23:45:47.724,"[0m[1meu-central-1[0m - [mEC2NetworkInterface[0m - [3m[SubnetID: ""subnet-025bd5b2674a07f3c"", Status: ""in-use"", ID: ""eni-0b89a0c46578af989"", VPC: ""vpc-0803dcae174835ec2"", AvailabilityZone: ""eu-central-1a"", PrivateIPAddress: ""10.0.0.76""][0m - [31mfailed
+"
+
+2022-04-22 23:45:47.424,"[0m[1meu-central-1[0m - [mEC2NetworkInterface[0m - [3m[ID: ""eni-03d414e2658d62e94"", VPC: ""vpc-046faa1b5374c6cb0"", AvailabilityZone: ""eu-central-1a"", PrivateIPAddress: ""192.168.1.54"", SubnetID: ""subnet-02836069c345603c6"", Status: ""in-use""][0m - [31mfailed
+"
+
+2022-04-22 23:45:47.130,"[0m[1meu-central-1[0m - [mEC2NetworkInterface[0m - [3m[AvailabilityZone: ""eu-central-1a"", PrivateIPAddress: ""192.168.0.23"", SubnetID: ""subnet-0037ddbe4a8f961ee"", Status: ""in-use"", ID: ""eni-09fb28a2dae50509a"", VPC: ""vpc-046faa1b5374c6cb0""][0m - [31mfailed
+"
+
+2022-04-22 23:45:46.896,"[0m[1meu-central-1[0m - [mEC2NetworkInterface[0m - [3m[Status: ""in-use"", ID: ""eni-02d907f01f88f1575"", VPC: ""vpc-0ebcd67a241a3289b"", AvailabilityZone: ""eu-central-1c"", PrivateIPAddress: ""10.6.0.170"", SubnetID: ""subnet-0da1beda87723f338""][0m - [31mfailed
+"
+
+2022-04-22 23:45:46.626,"[0m[1meu-central-1[0m - [mEC2NetworkInterface[0m - [3m[SubnetID: ""subnet-02ee25f083ca15af2"", Status: ""in-use"", ID: ""eni-06c2ae23936d9085a"", VPC: ""vpc-0844cfc214aaa5aac"", AvailabilityZone: ""eu-central-1a"", PrivateIPAddress: ""192.168.0.204""][0m - [31mfailed
+"
+
+2022-04-22 23:45:46.268,"[0m[1meu-central-1[0m - [mEC2NetworkInterface[0m - [3m[ID: ""eni-0301bb581908ed843"", VPC: ""vpc-046faa1b5374c6cb0"", AvailabilityZone: ""eu-central-1a"", PrivateIPAddress: ""192.168.0.73"", SubnetID: ""subnet-0037ddbe4a8f961ee"", Status: ""in-use""][0m - [31mfailed
+"
+
+2022-04-22 23:45:46.007,"[0m[1meu-central-1[0m - [mEC2NetworkInterface[0m - [3m[ID: ""eni-07f5777cfe471bc08"", VPC: ""vpc-0ebcd67a241a3289b"", AvailabilityZone: ""eu-central-1c"", PrivateIPAddress: ""10.6.0.121"", SubnetID: ""subnet-0da1beda87723f338"", Status: ""in-use""][0m - [31mfailed
+"
+
+2022-04-22 23:45:45.758,"[0m[1meu-central-1[0m - [mEC2NetworkInterface[0m - [3m[VPC: ""vpc-046336774cba7c8a8"", AvailabilityZone: ""eu-central-1a"", PrivateIPAddress: ""172.16.0.162"", SubnetID: ""subnet-0376d142c2d59ba39"", Status: ""in-use"", ID: ""eni-0125fe94e13fcfc7a""][0m - [31mfailed
+"
+
+2022-04-22 23:45:45.493,"[0m[1meu-central-1[0m - [mEC2NetworkInterface[0m - [3m[AvailabilityZone: ""eu-central-1b"", PrivateIPAddress: ""172.16.1.154"", SubnetID: ""subnet-081f8de28bcbd09c9"", Status: ""in-use"", ID: ""eni-02bcb3d622d0e36ce"", VPC: ""vpc-046336774cba7c8a8""][0m - [31mfailed
+"
+
+2022-04-22 23:45:45.219,"[0m[1meu-central-1[0m - [mEC2NetworkInterface[0m - [3m[Status: ""in-use"", ID: ""eni-046d44ee618446626"", VPC: ""vpc-061a26a6ae57ae3c2"", AvailabilityZone: ""eu-central-1a"", PrivateIPAddress: ""198.10.1.10"", SubnetID: ""subnet-06eaa3a92653a70c6""][0m - [31mfailed
+"
+
+2022-04-22 23:45:44.885,"[0m[1meu-central-1[0m - [mEC2NetworkInterface[0m - [3m[PrivateIPAddress: ""192.168.3.168"", SubnetID: ""subnet-002a9eb4503e10471"", Status: ""in-use"", ID: ""eni-0dffafe22f58c20fe"", VPC: ""vpc-090045918e6a49e99"", AvailabilityZone: ""eu-central-1a""][0m - [31mfailed
+"
+
+2022-04-22 23:45:44.639,"[0m[1meu-central-1[0m - [mEC2NetworkInterface[0m - [3m[Status: ""in-use"", ID: ""eni-0191b844cd8eecab2"", VPC: ""vpc-046faa1b5374c6cb0"", AvailabilityZone: ""eu-central-1a"", PrivateIPAddress: ""192.168.0.14"", SubnetID: ""subnet-0037ddbe4a8f961ee""][0m - [31mfailed
+"
+
+2022-04-22 23:45:44.368,"[0m[1meu-central-1[0m - [mEC2NetworkInterface[0m - [3m[VPC: ""vpc-0803dcae174835ec2"", AvailabilityZone: ""eu-central-1a"", PrivateIPAddress: ""10.0.1.123"", SubnetID: ""subnet-0d179630d507e97cd"", Status: ""in-use"", ID: ""eni-0fa75158e1b011f97""][0m - [31mfailed
+"
+
+2022-04-22 23:45:44.120,"[0m[1meu-central-1[0m - [mEC2NetworkInterface[0m - [3m[PrivateIPAddress: ""192.168.0.149"", SubnetID: ""subnet-0037ddbe4a8f961ee"", Status: ""in-use"", ID: ""eni-0701f74f3d0f4c8fe"", VPC: ""vpc-046faa1b5374c6cb0"", AvailabilityZone: ""eu-central-1a""][0m - [31mfailed
+"
+
+2022-04-22 23:45:43.758,"[0m[1meu-central-1[0m - [mEC2NetworkInterface[0m - [3m[ID: ""eni-0b457d4facde28f4d"", VPC: ""vpc-0803dcae174835ec2"", AvailabilityZone: ""eu-central-1a"", PrivateIPAddress: ""10.0.0.231"", SubnetID: ""subnet-025bd5b2674a07f3c"", Status: ""in-use""][0m - [31mfailed
+"
+
+2022-04-22 23:45:43.464,"[0m[1meu-central-1[0m - [mEC2NetworkInterface[0m - [3m[ID: ""eni-0687a04438a95b5b4"", VPC: ""vpc-0b19dc840fd2b5b03"", AvailabilityZone: ""eu-central-1c"", PrivateIPAddress: ""10.0.0.148"", SubnetID: ""subnet-0b08c9fd8bb342e68"", Status: ""in-use""][0m - [31mfailed
+"
+
+2022-04-22 23:45:43.053,"[0m[1meu-central-1[0m - [mEC2RouteTable[0m - [1mrtb-00157d9b6767d11f5[0m - [3m[][0m - [31mfailed
+"
+
